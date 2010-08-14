@@ -1,0 +1,2677 @@
+From: <Saved by Windows Internet Explorer 8>
+Subject: Contextual Search API from Yahoo - Keyword Extraction for free:learningAPI.com: Media and Learning Technology - Larry Bouthillier
+Date: Wed, 4 Aug 2010 13:11:04 +0700
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----=_NextPart_000_0000_01CB33D6.7E13DD00"
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5931
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0000_01CB33D6.7E13DD00
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://www.learningapi.com/blog/archives/000096.html
+
+=EF=BB=BF<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" =
+"http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd">
+<HTML xmlns=3D"http://www.w3.org/1999/xhtml"><HEAD><TITLE>Contextual =
+Search API from Yahoo - Keyword Extraction for free:learningAPI.com: =
+Media and Learning Technology - Larry Bouthillier</TITLE>
+<META content=3D"text/html; charset=3Dutf-8" =
+http-equiv=3DContent-Type><LINK=20
+rel=3Dstylesheet type=3Dtext/css=20
+href=3D"http://www.learningapi.com/blog/styles-site.css"><LINK =
+rel=3Dstylesheet=20
+type=3Dtext/css href=3D"http://www.learningapi.com/style.css"><LINK =
+title=3DRSS=20
+rel=3Dalternate type=3Dapplication/rss+xml=20
+href=3D"http://www.learningAPI.com/blog/index.rdf">
+<SCRIPT type=3Dtext/javascript=20
+src=3D"http://www.learningapi.com/blog/mt-site.js"></SCRIPT>
+<LINK title=3DHome rel=3Dstart =
+href=3D"http://www.learningAPI.com/blog/"><LINK=20
+title=3D"Announcing learningAPI.com - Renaming this site" rel=3Dprev=20
+href=3D"http://www.learningAPI.com/blog/archives/000094.html"><LINK=20
+title=3D"Debugging tools for Web Developers - for Firefox &amp; Internet =
+Explorer"=20
+rel=3Dnext =
+href=3D"http://www.learningAPI.com/blog/archives/000097.html"><!--=0A=
+<rdf:RDF xmlns:rdf=3D"http://www.w3.org/1999/02/22-rdf-syntax-ns#"=0A=
+         =
+xmlns:trackback=3D"http://madskills.com/public/xml/rss/module/trackback/"=0A=
+         xmlns:dc=3D"http://purl.org/dc/elements/1.1/">=0A=
+<rdf:Description=0A=
+    rdf:about=3D"http://www.learningAPI.com/blog/archives/000096.html"=0A=
+    trackback:ping=3D"http://www.learningapi.com/cgi-bin/mt-tb.cgi/88"=0A=
+    dc:title=3D"Contextual Search API from Yahoo - Keyword Extraction =
+for free"=0A=
+    =
+dc:identifier=3D"http://www.learningAPI.com/blog/archives/000096.html"=0A=
+    dc:subject=3D"Innovative Technology"=0A=
+    dc:description=3D" var xmlhttp =3D null; var path =3D &quot;&quot;; =
+var outputFunction =3D &quot;&quot;; var proxypath =3D =
+&quot;http://www.learningapi.com/scripts/yservproxy.php&quot;; var =
+DEBUG=3Dfalse; function callContextService(query, context, outputFunc){ =
+if ( DEBUG ) { alert(&apos;entering callContextService&apos;); } =
+//replace whitespace in query and context string with &apos;+&apos;..."=0A=
+    dc:creator=3D"larryb"=0A=
+    dc:date=3D"2006-01-31T06:51:40-05:00" />=0A=
+</rdf:RDF>=0A=
+--><!--=0A=
+<rdf:RDF xmlns=3D"http://web.resource.org/cc/"=0A=
+         xmlns:dc=3D"http://purl.org/dc/elements/1.1/"=0A=
+         xmlns:rdf=3D"http://www.w3.org/1999/02/22-rdf-syntax-ns#">=0A=
+<Work rdf:about=3D"http://www.learningAPI.com/blog/archives/000096.html">=0A=
+<dc:title>Contextual Search API from Yahoo - Keyword Extraction for =
+free</dc:title>=0A=
+<dc:description> var xmlhttp =3D null; var path =3D &quot;&quot;; var =
+outputFunction =3D &quot;&quot;; var proxypath =3D =
+&quot;http://www.learningapi.com/scripts/yservproxy.php&quot;; var =
+DEBUG=3Dfalse; function callContextService(query, context, outputFunc){ =
+if ( DEBUG ) { alert(&apos;entering callContextService&apos;); } =
+//replace whitespace in query and context string with =
+&apos;+&apos;...</dc:description>=0A=
+<dc:creator>larryb</dc:creator>=0A=
+<dc:date>2006-01-31T06:51:40-05:00</dc:date>=0A=
+<license rdf:resource=3D"http://creativecommons.org/licenses/nc/1.0/" />=0A=
+</Work>=0A=
+<License rdf:about=3D"http://creativecommons.org/licenses/nc/1.0/">=0A=
+<requires rdf:resource=3D"http://web.resource.org/cc/Notice" />=0A=
+<permits rdf:resource=3D"http://web.resource.org/cc/Reproduction" />=0A=
+<permits rdf:resource=3D"http://web.resource.org/cc/Distribution" />=0A=
+<permits rdf:resource=3D"http://web.resource.org/cc/DerivativeWorks" />=0A=
+<prohibits rdf:resource=3D"http://web.resource.org/cc/CommercialUse" />=0A=
+</License>=0A=
+</rdf:RDF>=0A=
+-->
+<META name=3DGENERATOR content=3D"MSHTML 8.00.6001.18928"></HEAD>
+<BODY onload=3DindividualArchivesOnLoad(commenter_name)>
+<SCRIPT type=3Dtext/javascript=20
+src=3D"http://track3.mybloglog.com/js/jsserv.php?mblID=3D2007030910520710=
+"></SCRIPT>
+
+<DIV id=3Dbanner><A href=3D"http://www.learningapi.com/blog"><IMG =
+class=3Dbannerimg=20
+border=3D0 alt=3D"Enterprise Media Communications Strategies"=20
+src=3D"http://www.learningapi.com/images/ebanner.jpg"></A> </DIV>
+<DIV id=3Dsubbanner><IMG class=3Dtab border=3D0 hspace=3D0 alt=3D""=20
+src=3D"http://www.learningapi.com/images/weblog.gif"> </DIV>
+<DIV id=3Dcontent>
+<DIV id=3Dblog>
+<DIV=20
+style=3D"BORDER-BOTTOM: black 1px solid; BORDER-LEFT: black 1px solid; =
+PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; FONT-SIZE: =
+125%; BORDER-TOP: black 1px solid; BORDER-RIGHT: black 1px solid; =
+PADDING-TOP: 5px"=20
+class=3Dblogbody>
+<H3 class=3Dtitle>LearningAPI has moved to a new blog!</H3>The =
+learningapi blog=20
+has moved to a new URL. These posts will remain here, but all new =
+content has=20
+moved to <A href=3D"http://www.learningapi.com/">learningAPI.com: =
+Digital Media,=20
+Streaming Video &amp; Educational Technology</A>. You may also =
+subscrdibe to <A=20
+href=3D"http://www.learningapi.com/feed/">the RSS feed for the new=20
+learningAPI.com</A> blog. <BR><BR></DIV>
+<DIV id=3Dmenu><A =
+href=3D"http://www.learningapi.com/blog/archives/000094.html">=C2=AB=20
+Announcing learningAPI.com - Renaming this site</A> | <A=20
+href=3D"http://www.learningapi.com/blog/">Main</A> | <A=20
+href=3D"http://www.learningapi.com/blog/archives/000097.html">Debugging =
+tools for=20
+Web Developers - for Firefox &amp; Internet Explorer =C2=BB</A> </DIV>
+<H2 class=3Ddate>January 31, 2006</H2>
+<DIV class=3Dblogbody>
+<H3 class=3Dtitle>Contextual Search API from Yahoo - Keyword Extraction =
+for=20
+free</H3>
+<SCRIPT type=3Dtext/javascript=20
+src=3D"http://www.learningapi.com/scripts/json.js"></SCRIPT>
+
+<SCRIPT type=3Dtext/javascript> =0A=
+var xmlhttp =3D null;=0A=
+var path =3D "";=0A=
+var outputFunction =3D "";=0A=
+var proxypath =3D "http://www.learningapi.com/scripts/yservproxy.php";=0A=
+var DEBUG=3Dfalse;=0A=
+function callContextService(query, context, outputFunc){=0A=
+if ( DEBUG ) { alert('entering callContextService'); }=0A=
+//replace whitespace in query and context string with '+'=0A=
+context =3D context.replace(/ /g, '+');=0A=
+query =3D query.replace(/ /g, '+');=0A=
+// The web services request minus the domain name=0A=
+path =3D =
+"ContentAnalysisService/V1/termExtraction?appid=3DlearningAPI&output=3Djs=
+on&query=3D" + query + "&context=3D" + context;=0A=
+path =3D "yws_path=3D" + encodeURIComponent(path);=0A=
+// Set the global outputFunction to the name of the processing function =
+we want to use for the output.=0A=
+// Which one we want will depend on the JSON structure we're expecting =
+back from this particular type of query.=0A=
+outputFunction =3D outputFunc;=0A=
+//make the call to the server=0A=
+callService(path);=0A=
+}=0A=
+function callService(path){=0A=
+//create the XMLHttpRequest=0A=
+if (window.XMLHttpRequest) {=0A=
+xmlhttp =3D new XMLHttpRequest();=0A=
+//xmlhttp.overrideMimeType('text/xml');=0A=
+} else if (window.ActiveXObject) {=0A=
+xmlhttp =3D new ActiveXObject("Microsoft.XMLHTTP");=0A=
+} else {=0A=
+alert('Perhaps your browser does not support xmlhttprequests?');=0A=
+}=0A=
+// Create the full path to the PHP proxy=0A=
+var url =3D proxypath;=0A=
+if ( DEBUG ) { alert('in callService: '+url); }=0A=
+//assign the callback function to be run upon a response=0A=
+xmlhttp.onreadystatechange =3D processResponse;=0A=
+//make the call=0A=
+xmlhttp.open('POST', url, true);=0A=
+xmlhttp.setRequestHeader("Content-type", =
+"application/x-www-form-urlencoded");=0A=
+xmlhttp.setRequestHeader("Content-length", path.length);=0A=
+xmlhttp.setRequestHeader("Connection", "close");=0A=
+xmlhttp.send(path);=0A=
+}=0A=
+function processResponse() {=0A=
+if (xmlhttp.readyState =3D=3D 4 ) {=0A=
+if (xmlhttp.status =3D=3D 200) {=0A=
+if ( DEBUG ) { alert('in processResponse: '+xmlhttp.responseText); }=0A=
+//turn the JSON string returned into a JSON object=0A=
+obj =3D (eval ( "(" + xmlhttp.responseText +")"));=0A=
+// Then call the desired processing and display function set in the =
+initial call.=0A=
+// Here, the global String variable 'outputFunction' is the name of the =
+function to be called=0A=
+// that formats the data for display. So if 'outputFunction' is =
+'processJSONKeywordString',=0A=
+// then this next line calls processJSONKeywordString(obj)=0A=
+eval(outputFunction)(obj);=0A=
+} else {=0A=
+alert("there was a problem with the request" + xmlhttp.status);=0A=
+}=0A=
+}=0A=
+}=0A=
+//turns the results string into HTML and inserts it into resultsdiv=0A=
+// expects the form: {"ResultSet":{"Result":["excel =
+spreadsheet","wikis"]}}=0A=
+// turns it into a HTML bulleted list of keywords=0A=
+function processJSONKeywordString(obj){=0A=
+if (DEBUG) { alert(JSON.stringify(obj)); }=0A=
+var output =3D JSON.stringify(obj.ResultSet.Result);=0A=
+var delimregexp =3D (/\",\"/g);=0A=
+var beginregexp =3D ("[\"");=0A=
+var endregexp =3D ("\"]");=0A=
+output =3D output.replace(delimregexp, "<li>");=0A=
+output=3D output.replace(beginregexp, "<ul><li>");=0A=
+output=3D output.replace(endregexp, "</ul>");=0A=
+output +=3D "\n<!-- HERE IS THE RAW JSON =
+RESPONSE\n\n"+JSON.stringify(obj)+"\n\n-->";=0A=
+var resultsdiv =3D document.getElementById("results");=0A=
+if ( DEBUG ) { alert('in processJSONKeywordString setting =
+'+resultsdiv+'.innerHTML to: '+output); }=0A=
+resultsdiv.innerHTML =3D output;=0A=
+}=0A=
+</SCRIPT>
+<!-- style attributes that apply to this post only -->
+<STYLE type=3Dtext/css>#searchform {
+	BORDER-BOTTOM: black 1px solid; BORDER-LEFT: black 1px solid; =
+PADDING-BOTTOM: 4px; BACKGROUND-COLOR: #778899; MARGIN: auto; =
+PADDING-LEFT: 4px; WIDTH: 450px; PADDING-RIGHT: 4px; BORDER-TOP: black =
+1px solid; FONT-WEIGHT: bold; BORDER-RIGHT: black 1px solid; =
+PADDING-TOP: 4px
+}
+#searchform #results {
+	FONT-WEIGHT: normal
+}
+#searchform .input {
+	BORDER-BOTTOM: #284279 1px solid; BORDER-LEFT: #284279 1px solid; =
+BACKGROUND-COLOR: #d7e5f2; FONT: 11px Verdana, Geneva, Arial, Helvetica, =
+sans-serif; COLOR: #102132; VERTICAL-ALIGN: top; BORDER-TOP: #284279 1px =
+solid; MARGIN-RIGHT: 10px; BORDER-RIGHT: #284279 1px solid
+}
+#searchform .submit {
+	MARGIN: auto
+}
+</STYLE>
+I've been playing with some of &nbsp;Yahoo's search APIs lately. =
+&nbsp;In=20
+particular, I was intrigued by the Content Analysis Service that takes a =
+block=20
+of text, along with an optional "helper phrase" to help point to the =
+context of=20
+the subject matter, and extracts keywords from it. &nbsp; I'm always on =
+the=20
+lookout for technologies that can help categorize or 'gist' =
+&nbsp;content.=20
+&nbsp;In particular, the speech-to-text data extracted via =
+voice-recognition=20
+from podcasts, videos and lectures is not good enough a transcript to =
+read, but=20
+usually is good enough to search. &nbsp;Is keyword extraction a useful =
+tool for=20
+getting the topics from a blob of text? &nbsp;Try it and see! =
+&nbsp;<BR><BR>The=20
+folks at the <A =
+href=3D"http://www.hackdiary.com/archives/000070.html">BBC=20
+certainly found ContextualAnalysis useful</A> for doing research into =
+the=20
+connections and relations among public figures and politicans. =
+&nbsp;Using this=20
+service to extract people's names from public documents, the team was =
+able to=20
+create "six degrees of separation"-type graphs of "who-knows-whom" (or =
+at least=20
+is "associated-with-whom") very quickly and at low cost. =
+&nbsp;<BR><BR>It took=20
+some time to figure out the code for this and get it all to work, but =
+here's an=20
+example of it in action. &nbsp;Here I used the text from my recent post =
+- <A=20
+href=3D"http://www.learningapi.com/blog/archives/000080.html">Digital =
+Asset=20
+Management - Some Advice</A>, but you can paste your own in here to try =
+it out.=20
+&nbsp;When you click on Run Query, the data will submit to Yahoo's=20
+ContextualAnalysisService via a PHP proxy on my website (to get around=20
+cross-domain scripting security restrictions in the browser), and the =
+results=20
+will pop up under the form, AJAX-style. &nbsp;This query uses Yahoo's <A =
+
+href=3D"http://www.learningapi.com/blog/archives/000078.html">JSON =
+API</A>, a=20
+simple and lightweight protocol for data exchange. &nbsp;<A=20
+href=3D"http://www.learningapi.com/blog/archives/000078.html"><BR></A><BR=
+>
+<DIV style=3D"TEXT-ALIGN: center; FONT-WEIGHT: bold">FORM-BASED PROXY =
+VERSION (any=20
+browser)</DIV>
+<DIV id=3Dsearchform>
+<FORM=20
+onsubmit=3D"callContextService(this.query.value, this.context.value, =
+'processJSONKeywordString');return false;">Helper=20
+Phrase: <INPUT class=3Dinput size=3D52 name=3Dquery><BR>Text to process: =
+<TEXTAREA class=3Dinput rows=3D6 cols=3D50 name=3Dcontext>Digital
+Asset Management - Some Advice
+In preparation for my conference session today at the DAM (Digital
+Asset Management) Symposium, I was asked to summarize my thoughts on
+what's most important for people who are implementing a content
+management system to know.
+My personal experience in DAM is mostly centered around building
+systems for managing streaming media content (search, delivery
+management, metadata extraction, etc) and other kinds of multimedia
+materials. Having done several generations of a video content
+management system, as well as several multimedia authoring and asset
+management systems, here are a few points I think are important:
+1. Buy vs. Build --
+1. Realistically, it's not build vs. buy, it's "build" vs. "buy
+&amp; build". These implementations take a great deal of analysis
+of your business problem, copious customization, and require a strong
+internal team. You cannot outsource success.
+2. Integration of a vendor solution can take as long as a custom build.
+Be sure your vendor's direction and your implementation will let you
+take advantage of the vendor's upgrade path, otherwise you may have
+been better off building.
+2. Plan for change - Don't expect to get everything right in the
+specification stage. When you define your business problem and its
+solution, find the right balance between up-front
+analysis/specification and leaving room for the system to evolve as its
+users begin using it. Follow a path-based development model in which
+you break the big problem into a bunch of small ones and tackle each
+incrementally; because;
+3. "If a project team can eat more than two pizzas, it's too large."
+This week's Baseline Magazine profiles Amazon.com CTO Verner Vogels and
+his approach to running Amazon's software development operation. Small
+problems are easier to grasp, examine, and solve than big ones. Small
+solutions are easier to explain, understand, test, and implement. Small
+teams need less process, have few communications challenges, and lower
+overhead than larger ones. Small teams can get real work done while
+large ones are still trying to find common understanding about the
+problem.
+4. Retain internal development capacity -- in order to have the system
+evolve, you need to have internal expertise in modifying it.
+5. Be ruthless about insisting on the use of open, flexible standards
+and APIs - Using a system based on open interfaces and standards gives
+you flexibility to create new things you didn't even dream of when you
+began. Information "stovepipes" can be OK...as long as there are simple
+hooks between them.
+More info can be found in the slides from my Gilbane Conference
+Presentation on content management systems for video and multimedia. =
+</TEXTAREA><BR><BR>
+<CENTER><INPUT class=3Dsubmit value=3D"Run Query" =
+type=3Dsubmit></CENTER></FORM>
+<DIV id=3Dresults></DIV></DIV><BR>There's another technique for making =
+these AJAX=20
+calls that does not require a proxy - it employs SCRIPT tags dynamically =
+added=20
+to the page (inserting DOM elements) with "SRC=3D" attributes that call =
+the Yahoo=20
+API. &nbsp;The inexplicable problem I found is that this version works =
+in=20
+Firefox/Netscape but not in IE. &nbsp;I'm unable to figure out why, =
+since other=20
+sites using the very same code work fine. The SCRIPT element is written =
+to the=20
+DOM with a SRC URL which - if I copy and paste it directly into the =
+browser -=20
+works. But when I write the SCRIPT element to the page, IE never makes =
+the HTTP=20
+call to retreive it. Unfortunately, IE's developer and debugging tools =
+are so=20
+poor that it's difficult to find out what's going on. &nbsp;If anyone =
+has a=20
+suggestion, please share it with me. &nbsp;<BR><BR>
+<DIV class=3Dupdate>Update - thanks to colleague Jeff Griffith at HBS, =
+who=20
+discovered that the reason IE is notworking is that the block of text =
+submitted=20
+in the form was too long and violated a character limit that IE =
+apparently has=20
+for SCRIPT SRC attributes. Shortening the text solved the problem.=20
+</DIV><BR><BR>
+<DIV style=3D"TEXT-ALIGN: center"><SPAN style=3D"FONT-WEIGHT: =
+bold">SCRIPT TAG=20
+VERSION (seems to not work in IE, although it should)</SPAN>
+<SCRIPT language=3Djavascript type=3Dtext/javascript>var path =3D "";=0A=
+var DEBUG=3Dfalse;=0A=
+function callContextService2(query, context, outputFunc){=0A=
+if ( DEBUG ) { alert('entering callContextService; query: ' + query + ', =
+context: ' + context + ', outputFunc: '+ outputFunc); }=0A=
+//replace whitespace in query and context string with '+'=0A=
+context =3D context.replace(/ /g, '+');=0A=
+query =3D query.replace(/ /g, '+');=0A=
+// The web services request minus the domain name=0A=
+path =3D =
+"http://api.search.yahoo.com/ContentAnalysisService/V1/termExtraction?app=
+id=3DlearningAPI&output=3Djson&callback=3D"+outputFunc+"&query=3D" + =
+query + "&context=3D" + context;=0A=
+//make the call to the server=0A=
+callService2(path);=0A=
+}=0A=
+function callService2(path){=0A=
+if ( DEBUG ) { alert('entering callService: ' + path); }=0A=
+var head =3D document.getElementsByTagName("head")[0];=0A=
+script =3D document.createElement('script');=0A=
+script.setAttribute('id', 'jsonrequest');=0A=
+script.setAttribute('type', 'text/javascript');=0A=
+script.setAttribute('src', path);=0A=
+head.appendChild(script);=0A=
+}=0A=
+//turns the results string into HTML and inserts it into resultsdiv=0A=
+// expects the form: {"ResultSet":{"Result":["excel =
+spreadsheet","wikis"]}}=0A=
+// turns it into a HTML bulleted list of keywords=0A=
+function processJSONKeywordString2(obj){=0A=
+if (DEBUG) { alert(JSON.stringify(obj)); }=0A=
+var output =3D JSON.stringify(obj.ResultSet.Result);=0A=
+var delimregexp =3D (/\",\"/g);=0A=
+var beginregexp =3D ("[\"");=0A=
+var endregexp =3D ("\"]");=0A=
+output =3D output.replace(delimregexp, "<li>");=0A=
+output=3D output.replace(beginregexp, "<ul><li>");=0A=
+output=3D output.replace(endregexp, "</ul>");=0A=
+//output +=3D "\n<!-- HERE IS THE RAW JSON =
+RESPONSE\n\n"+JSON.stringify(obj)+"\n\n-->";=0A=
+var resultsdiv2 =3D document.getElementById("results2");=0A=
+if ( DEBUG ) { alert('in processJSONKeywordString setting =
+'+resultsdiv2+'.innerHTML to: '+output); }=0A=
+resultsdiv2.innerHTML =3D output;=0A=
+}=0A=
+</SCRIPT>
+ <IMG src=3D""><!-- style attributes that apply to this post only =
+--></DIV>
+<STYLE type=3Dtext/css>#searchform {
+	BORDER-BOTTOM: black 1px solid; BORDER-LEFT: black 1px solid; =
+PADDING-BOTTOM: 4px; BACKGROUND-COLOR: #778899; MARGIN: auto; =
+PADDING-LEFT: 4px; WIDTH: 450px; PADDING-RIGHT: 4px; BORDER-TOP: black =
+1px solid; FONT-WEIGHT: bold; BORDER-RIGHT: black 1px solid; =
+PADDING-TOP: 4px
+}
+#searchform #results {
+	FONT-WEIGHT: normal
+}
+#searchform .input {
+	BORDER-BOTTOM: #284279 1px solid; BORDER-LEFT: #284279 1px solid; =
+BACKGROUND-COLOR: #d7e5f2; FONT: 11px Verdana, Geneva, Arial, Helvetica, =
+sans-serif; COLOR: #102132; VERTICAL-ALIGN: top; BORDER-TOP: #284279 1px =
+solid; MARGIN-RIGHT: 10px; BORDER-RIGHT: #284279 1px solid
+}
+#searchform .submit {
+	MARGIN: auto
+}
+</STYLE>
+
+<DIV id=3Dsearchform>
+<FORM=20
+onsubmit=3D"callContextService2(this.query.value, this.context.value, =
+'processJSONKeywordString2');return false;">Helper=20
+Phrase: <INPUT class=3Dinput size=3D52 name=3Dquery><BR>Text to process: =
+<TEXTAREA class=3Dinput rows=3D6 cols=3D50 name=3Dcontext>Digital
+Asset Management - Some Advice
+In preparation for my conference session today at the DAM (Digital
+Asset Management) Symposium, I was asked to summarize my thoughts on
+what's most important for people who are implementing a content
+management system to know.
+My personal experience in DAM is mostly centered around building
+systems for managing streaming media content (search, delivery
+management, metadata extraction, etc) and other kinds of multimedia
+materials. Having done several generations of a video content
+management system, as well as several multimedia authoring and asset
+management systems, here are a few points I think are important:
+1. Buy vs. Build --
+1. Realistically, it's not build vs. buy, it's "build" vs. "buy
+&amp; build". These implementations take a great deal of analysis
+of your business problem, copious customization, and require a strong
+internal team. You cannot outsource success.
+2. Integration of a vendor solution can take as long as a custom build.
+Be sure your vendor's direction and your implementation will let you
+take advantage of the vendor's upgrade path.
+2. Plan for change - Don't expect to get everything right in the
+specification stage. When you define your business problem and its
+solution, find the right balance between up-front
+analysis/specification and leaving room for the system to evolve as its
+users begin using it.=20
+3. "If a project team can eat more than two pizzas, it's too large."
+This week's Baseline Magazine profiles Amazon.com CTO Verner Vogels and
+his approach to running Amazon's software development operation. Small
+problems are easier to grasp, examine, and solve than big ones. Small
+solutions are easier to explain, understand, test, and implement.=20
+4. Retain internal development capacity -- in order to have the system
+evolve, you need to have internal expertise in modifying it.
+5. Be ruthless about insisting on the use of open, flexible standards
+and APIs -=20
+</TEXTAREA><BR><BR>
+<CENTER><INPUT class=3Dsubmit value=3D"Run Query" =
+type=3Dsubmit></CENTER></FORM>
+<DIV id=3Dresults2></DIV></DIV><BR><A name=3Dmore></A>
+<DIV class=3Dposted>Posted by <A=20
+href=3D"mailto:larryb%20[at]%20learningapi.com">larryb</A> at 06:51 AM =
+<A=20
+href=3D"http://www.learningapi.com/blog/archives/000096.html">[permanent =
+link]</A>=20
+| <A=20
+href=3D"http://www.learningapi.com/blog/archives/000096.html#comments">Co=
+mments=20
+(3)</A> <BR>Category: <A=20
+href=3D"http://www.learningapi.com/blog/archives/cat_innovative_technolog=
+y.html">Innovative=20
+Technology</A> , <A=20
+href=3D"http://www.learningapi.com/blog/archives/cat_web_and_software_dev=
+elopment.html">Web=20
+and Software Development</A> </DIV><!-- posted -->
+<DIV class=3Dtrackback-url>TrackBack URL for this=20
+entry:<BR>http://www.learningapi.com/cgi-bin/mt-tb.cgi/88 <BR><BR>Listed =
+below=20
+are links to weblogs that reference <A=20
+href=3D"http://www.learningapi.com/blog/archives/000096.html">'Contextual=
+ Search=20
+API from Yahoo - Keyword Extraction for free'</A> from <A=20
+href=3D"http://www.learningapi.com/blog/">learningAPI.com: Media and =
+Learning=20
+Technology - Larry Bouthillier</A>.</DIV>
+<DIV id=3Dcomments class=3Dcomments>
+<DIV class=3Dcomments-content>
+<H3 class=3Dcomments-header>Comments</H3><A id=3Dc039061></A>
+<DIV id=3Dcomment-39061 class=3Dcomment>
+<DIV class=3Dcomment-content>
+<P>Yahoo Term Extractor is great. We have base our free API on Yahoo but =
+
+integrated with other services creating an API that is a a mash up of =
+Yahoo!,=20
+Google Adwords, Wikipedia and Wordtracker. In more details it uses the =
+power of=20
+Yahoo Term Extractor and Google get Keywords From Site to extract =
+keywords and=20
+feed them to Wikipedia and wordtracker engine to get better and more =
+search=20
+friendly results. Check it on our site : wordsfinder . com </P></DIV>
+<P class=3Dcomment-footer>Posted by: <A =
+href=3D"http://www.wordsfinder.com/"=20
+rel=3Dnofollow>frank vitetta</A> | <A=20
+href=3D"http://www.learningapi.com/blog/archives/000096.html#comment-3906=
+1">November=20
+24, 2007 09:22 AM</A> </P></DIV><A id=3Dc092260></A>
+<DIV id=3Dcomment-92260 class=3Dcomment>
+<DIV class=3Dcomment-content>
+<P>This is much worse for Mozilla and its $100M/year subsidy than it is =
+for=20
+Microsoft http://www.frogmix.com/search/microsoft . Neither GOOG nor =
+MSFT depend=20
+on the browser itself for profits. No matter what IE=E2=80=99s browser =
+share is, I doubt=20
+Microsoft makes much money from it (since the only real monetization =
+opportunity=20
+is via traffic to the MSN start page as the default home page, or a =
+Mozilla-like=20
+deal with Google). </P></DIV>
+<P class=3Dcomment-footer>Posted by: kimm | <A=20
+href=3D"http://www.learningapi.com/blog/archives/000096.html#comment-9226=
+0">May=20
+28, 2009 03:37 AM</A> </P></DIV><A id=3Dc094617></A>
+<DIV id=3Dcomment-94617 class=3Dcomment>
+<DIV class=3Dcomment-content>
+<P>Check out AlchemyAPI for term extraction in 8 languages. Commercial =
+support /=20
+SLA also available.</P></DIV>
+<P class=3Dcomment-footer>Posted by: <A=20
+href=3D"http://www.alchemyapi.com/api/keyword/" =
+rel=3Dnofollow>Elliot</A> | <A=20
+href=3D"http://www.learningapi.com/blog/archives/000096.html#comment-9461=
+7">September=20
+24, 2009 07:08 PM</A> </P></DIV></DIV>
+<FORM onsubmit=3D"if (this.bakecookie.checked) rememberMe(this)" =
+method=3Dpost=20
+name=3Dcomments_form=20
+action=3Dhttp://www.learningapi.com/cgi-bin/mt-comments.cgi><INPUT =
+value=3D1=20
+type=3Dhidden name=3Dstatic> <INPUT value=3D96 type=3Dhidden =
+name=3Dentry_id>=20
+<DIV id=3Dcomments-open class=3Dcomments-open>
+<H2 class=3Dcomments-open-header>Post a comment</H2>
+<DIV class=3Dcomments-open-content>
+<SCRIPT type=3Dtext/javascript>=0A=
+                                 <!--=0A=
+                                 writeTypeKeyGreeting(commenter_name, =
+96);=0A=
+                                 //-->=0A=
+                                 </SCRIPT>
+
+<DIV id=3Dcomments-open-data>
+<DIV id=3Dname-email>
+<P><LABEL for=3Dcomment-author>Name:</LABEL> <INPUT id=3Dcomment-author =
+size=3D30=20
+name=3Dauthor> </P>
+<P><LABEL for=3Dcomment-email>Email Address:</LABEL> <INPUT =
+id=3Dcomment-email=20
+size=3D30 name=3Demail> </P></DIV>
+<P><LABEL for=3Dcomment-url>URL:</LABEL> <INPUT id=3Dcomment-url =
+size=3D30 name=3Durl>=20
+</P>
+<P><LABEL for=3Dcomment-bake-cookie><INPUT id=3Dcomment-bake-cookie=20
+onclick=3D"if (!this.checked) forgetMe(document.comments_form)" =
+value=3D1=20
+type=3Dcheckbox name=3Dbakecookie> Remember personal info?</LABEL> =
+</P></DIV>
+<P id=3Dcomments-open-text><LABEL for=3Dcomment-text>Comments: =
+</LABEL><TEXTAREA id=3Dcomment-text rows=3D10 cols=3D30 =
+name=3Dtext></TEXTAREA> </P>
+<DIV id=3Dcomments-open-footer class=3Dcomments-open-footer><INPUT =
+id=3Dcode value=3D38=20
+type=3Dhidden name=3Dcode><LABEL for=3Dscode>Security =
+Code:</LABEL><BR><IMG border=3D0=20
+alt=3D"Please enter the security code you see here"=20
+src=3D"http://www.learningapi.com/cgi-bin//plugins/SCode/mt-scode.cgi?cod=
+e=3D38"><BR><INPUT=20
+id=3Dscode tabIndex=3D3 name=3Dscode> <INPUT accessKey=3Dv =
+id=3Dcomment-preview value=3DPreview type=3Dsubmit name=3Dpreview> =
+<INPUT accessKey=3Ds id=3Dcomment-post value=3DPost type=3Dsubmit =
+name=3Dpost>=20
+</DIV></DIV></DIV></FORM></DIV></DIV><!--blogbody--></DIV><!-- blog-->
+<DIV id=3Dlinks><A =
+href=3D"http://www.learningapi.com/blog/archives/index.rss"><IMG=20
+border=3D0 src=3D""> </A>
+<DIV class=3Dsidetitle>Search </DIV>
+<DIV class=3Dside>
+<FORM method=3Dget =
+action=3Dhttp://www.learningapi.com/cgi-bin/mt-search.cgi><INPUT=20
+value=3D1 type=3Dhidden name=3DIncludeBlogs> <LABEL accessKey=3D4 =
+for=3Dsearch>Search this=20
+site:</LABEL><BR><INPUT id=3Dsearch name=3Dsearch><BR><INPUT =
+value=3DSearch type=3Dsubmit> </FORM></DIV>
+<DIV class=3Dsidetitle>Archives </DIV>
+<DIV class=3Dsidearchive><A=20
+href=3D"http://www.learningapi.com/blog/listall.html">Index of all blog=20
+posts</A><BR></DIV>
+<DIV class=3Dsidetitle>Recent Entries </DIV>
+<DIV class=3Dside><A=20
+href=3D"http://www.learningapi.com/blog/archives/000129.html">Streaming =
+Video=20
+Playback Speed Controls - Two Innovative Methods</A><BR><A=20
+href=3D"http://www.learningapi.com/blog/archives/000128.html">Tools for =
+testing=20
+streaming media</A><BR><A=20
+href=3D"http://www.learningapi.com/blog/archives/000127.html">Facebook =
+and=20
+Academic Institutions - Content or Context?</A><BR><A=20
+href=3D"http://www.learningapi.com/blog/archives/000126.html">Video =
+Transcript=20
+Browsing Interface</A><BR><A=20
+href=3D"http://www.learningapi.com/blog/archives/000125.html">The New =
+RealPlayer=20
+11 - A First Look</A><BR><A=20
+href=3D"http://www.learningapi.com/blog/archives/000124.html">Is =
+RealPlayer going=20
+to make a comeback?</A><BR><A=20
+href=3D"http://www.learningapi.com/blog/archives/000123.html">Is =
+Amazon's S3 the=20
+cheapest streaming video hosting out there?</A><BR><A=20
+href=3D"http://www.learningapi.com/blog/archives/000122.html">Image, =
+Audio &amp;=20
+Video Search - Reading Content and Context</A><BR><A=20
+href=3D"http://www.learningapi.com/blog/archives/000121.html">e-Learning =
+2.0 - The=20
+End of the Course?</A><BR><A=20
+href=3D"http://www.learningapi.com/blog/archives/000120.html">Online =
+Video and Web=20
+2.0 - What's missing?</A><BR></DIV>
+<DIV class=3Dsidetitle>Author Links</DIV>
+<DIV class=3Dside><A title=3D"Last Updated: "=20
+href=3D"http://www.learningapi.com/about.html" target=3D"">About the =
+author</A> <A=20
+title=3D"Last Updated: " =
+href=3D"http://www.learningapi.com/workshops.html"=20
+target=3D"">Speaking Engagements</A> <A title=3D"Last Updated: "=20
+href=3D"http://www.learningapi.com/articles.html" target=3D"">Streaming =
+and=20
+Multimedia Articles and Tutorials</A> <A title=3D"Last Updated: "=20
+href=3D"http://www.hbs.edu/it/about/profiles/bouthillier.html" =
+target=3D"">My=20
+Harvard Business School Bio page</A> </DIV>
+<DIV class=3Dsidetitle>Blogroll</DIV>
+<DIV class=3Dside><A title=3D"Last Updated: "=20
+href=3D"http://www.digitalmediabulletin.com/" target=3D"">Digital Media =
+Bulletin -=20
+Jose Alvear</A> <A title=3D"Last Updated: "=20
+href=3D"http://researchforward.wordpress.com/" =
+target=3D"">ResearchForward - Michael=20
+J. Hemment</A> <A title=3D"Last Updated: " =
+href=3D"http://blog.streamingmedia.com/"=20
+target=3D"">BusinessOfVideo.com</A> <A title=3D"Last Updated: "=20
+href=3D"http://www.onlinevideopunch.com/blog/" target=3D"">Online Video =
+Punch</A> <A=20
+title=3D"Last Updated: " href=3D"http://learningcircuits.blogspot.com/"=20
+target=3D"">The Learning Circuits Blog</A> <A title=3D"Last Updated: "=20
+href=3D"http://feeds.feedburner.com/BradleyHorowitzBlog" =
+target=3D"">Elatable -=20
+Bradley Horowitz</A> <A title=3D"Last Updated: " =
+href=3D"http://www.jarche.com/"=20
+target=3D"">Harold Jarche</A> <A title=3D"Last Updated: "=20
+href=3D"http://blog.hbs.edu/faculty/amcafee/" target=3D"">HBS Prof. Andy =
+McAfee on=20
+Web 2.0</A> <A title=3D"Last Updated: " =
+href=3D"http://www.dvforteachers.com/"=20
+target=3D"">DV for Teachers</A> <A title=3D"Last Updated: "=20
+href=3D"http://www.scitechdaily.com/" target=3D"">SciTech Daily =
+Review</A> <A=20
+title=3D"Last Updated: " href=3D"http://www.quirksmode.org/blog/"=20
+target=3D"">Quirksmode - Javascript &amp; AJAX</A> <A title=3D"Last =
+Updated: "=20
+href=3D"http://edtechlife.com/" target=3D"">Educational Technology &amp; =
+Life</A> <A=20
+title=3D"Last Updated: " href=3D"http://blog.jonudell.net/" =
+target=3D"">Jon Udell</A>=20
+<A title=3D"Last Updated: " href=3D"http://saulnier.typepad.com/" =
+target=3D"">Learning=20
+Technology - Denis Saulnier</A> </DIV>
+<DIV class=3Dsidetitle>Weblog Categories </DIV>
+<DIV class=3Dside><A=20
+href=3D"http://www.learningapi.com/blog/archives/cat_digital_restrictions=
+_management.html">Digital=20
+Restrictions Management</A> <A=20
+href=3D"http://www.learningapi.com/blog/archives/cat_elearning_instructio=
+nal_technology.html">eLearning=20
+&amp; Instructional Technology</A> <A=20
+href=3D"http://www.learningapi.com/blog/archives/cat_innovative_technolog=
+y.html">Innovative=20
+Technology</A> <A=20
+href=3D"http://www.learningapi.com/blog/archives/cat_misc.html">Misc</A> =
+<A=20
+href=3D"http://www.learningapi.com/blog/archives/cat_personal_video_publi=
+shing.html">Personal=20
+Video Publishing</A> <A=20
+href=3D"http://www.learningapi.com/blog/archives/cat_streaming_media.html=
+">Streaming=20
+Media</A> <A=20
+href=3D"http://www.learningapi.com/blog/archives/cat_streaming_media_tech=
+nology_tips.html">Streaming=20
+Media Technology Tips</A> <A=20
+href=3D"http://www.learningapi.com/blog/archives/cat_video_and_multimedia=
+_technology.html">Video=20
+and Multimedia Technology</A> <A=20
+href=3D"http://www.learningapi.com/blog/archives/cat_web_and_software_dev=
+elopment.html">Web=20
+and Software Development</A> <A=20
+href=3D"http://www.learningapi.com/blog/archives/cat_weblogs.html">Weblog=
+s</A>=20
+</DIV>
+<DIV class=3Dsidetitle>External Links </DIV>
+<DIV class=3Dside><A =
+href=3D"http://www.learningapi.com/blog/index.rdf">Syndicate=20
+this site (XML)</A> </DIV>
+<DIV class=3Dside><A =
+href=3D"http://creativecommons.org/licenses/nc/1.0/"><IMG=20
+border=3D0 alt=3D"Creative Commons License"=20
+src=3D"http://creativecommons.org/images/public/somerights"></A><BR>This =
+weblog is=20
+licensed under a <A =
+href=3D"http://creativecommons.org/licenses/nc/1.0/">Creative=20
+Commons License</A>. </DIV>
+<DIV class=3Dside>Powered by<BR><A =
+href=3D"http://www.movabletype.org/">Movable Type=20
+3.2</A><BR></DIV>
+<SCRIPT type=3Dtext/javascript=20
+src=3D"http://embed.technorati.com/embed/j44zj9c54.js"> </SCRIPT>
+
+<SCRIPT language=3DJavaScript type=3Dtext/javascript src=3D""></SCRIPT>
+<NOSCRIPT><A href=3D"http://mapstats.blogflux.com/9225.html"><IMG =
+border=3D0=20
+alt=3D"Blog Flux MapStats: Stats and Counter for Media &amp; Learning =
+Technology - Larry Bouthillier"=20
+src=3D""></A></NOSCRIPT> </DIV><!--links-->
+<DIV id=3Dlinks>
+<DIV class=3Dsidetitle>Things on my Radar </DIV>
+<DIV class=3Dside>
+<DIV class=3DamazonItem><A =
+href=3D"http://www.learningapi.com/blog/archives/"><IMG=20
+border=3D0 alt=3D"" src=3D""> </A>
+<P><A href=3D"http://www.learningapi.com/blog/archives/"></A><BR>by=20
+</P></MTAMAZON></DIV>
+<HR>
+
+<DIV class=3DamazonItem><A =
+href=3D"http://www.learningapi.com/blog/archives/"><IMG=20
+border=3D0 alt=3D"" src=3D""> </A>
+<P><A href=3D"http://www.learningapi.com/blog/archives/"></A><BR>by=20
+</P></MTAMAZON></DIV>
+<HR>
+
+<DIV class=3DamazonItem><A =
+href=3D"http://www.learningapi.com/blog/archives/"><IMG=20
+border=3D0 alt=3D"" src=3D""> </A>
+<P><A href=3D"http://www.learningapi.com/blog/archives/"></A><BR>by=20
+</P></MTAMAZON></DIV>
+<HR>
+
+<DIV class=3DamazonItem><A =
+href=3D"http://www.learningapi.com/blog/archives/"><IMG=20
+border=3D0 alt=3D"" src=3D""> </A>
+<P><A href=3D"http://www.learningapi.com/blog/archives/"></A><BR>by=20
+</P></MTAMAZON></DIV>
+<HR>
+
+<DIV class=3DamazonItem><A =
+href=3D"http://www.learningapi.com/blog/archives/"><IMG=20
+border=3D0 alt=3D"" src=3D""> </A>
+<P><A href=3D"http://www.learningapi.com/blog/archives/"></A><BR>by=20
+</P></MTAMAZON></DIV>
+<HR>
+
+<DIV class=3DamazonItem><A =
+href=3D"http://www.learningapi.com/blog/archives/"><IMG=20
+border=3D0 alt=3D"" src=3D""> </A>
+<P><A href=3D"http://www.learningapi.com/blog/archives/"></A><BR>by=20
+</P></MTAMAZON></DIV>
+<HR>
+
+<DIV class=3DamazonItem><A =
+href=3D"http://www.learningapi.com/blog/archives/"><IMG=20
+border=3D0 alt=3D"" src=3D""> </A>
+<P><A href=3D"http://www.learningapi.com/blog/archives/"></A><BR>by=20
+</P></MTAMAZON></DIV>
+<HR>
+</DIV></DIV>
+<SCRIPT type=3Dtext/javascript=20
+src=3D"http://www.google-analytics.com/urchin.js">=0A=
+</SCRIPT>
+
+<SCRIPT type=3Dtext/javascript>=0A=
+_uacct =3D "UA-886731-1";=0A=
+urchinTracker();=0A=
+</SCRIPT>
+</DIV>
+<DIV></DIV><!--content--></BODY></HTML>
+
+------=_NextPart_000_0000_01CB33D6.7E13DD00
+Content-Type: image/jpeg
+Content-Transfer-Encoding: base64
+Content-Location: http://www.learningapi.com/images/ebanner.jpg
+
+/9j/4AAQSkZJRgABAgAAZABkAAD/7AARRHVja3kAAQAEAAAAUAAA/+4AJkFkb2JlAGTAAAAAAQMA
+FQQDBgoNAAANCgAAG3sAACk/AAA9Nv/bAIQAAgICAgICAgICAgMCAgIDBAMCAgMEBQQEBAQEBQYF
+BQUFBQUGBgcHCAcHBgkJCgoJCQwMDAwMDAwMDAwMDAwMDAEDAwMFBAUJBgYJDQsJCw0PDg4ODg8P
+DAwMDAwPDwwMDAwMDA8MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwM/8IAEQgAOQHlAwERAAIR
+AQMRAf/EAPsAAAEFAQEBAAAAAAAAAAAAAAEAAgQFBgMHCAEBAAIDAQEAAAAAAAAAAAAAAAEEAgUG
+AwcQAAEEAgECBAQGAQUAAAAAAAIAAQMEEQUSECETIzMGIjIUFSAwQFAxNEJgcDUWNhEAAgEDAQQF
+CAgFAgUFAAAAAQIDABEEEiExMhNBIpOUBVFhgUKSQ6MUEHGRweFyIzOhUmKiFbHRMFBjJDSCwtJz
+dRIAAgEDAgMIAQQDAAAAAAAAAAECEBEhQQMxURIwQPBhcYEiMlAgcJHB0fFCEwEAAgECBQQBBQEB
+AQAAAAABABEhMVEQ8EFhcYGRocGxIEDR4fEwUGD/2gAMAwEAAhEDEQAAAfALvijpngzDNAFJDgiC
+IJ0zwbhmQyMjBZHBCOCEMkODIhCGRCODIjpGBk4MiEdIhHBkQhDIiEIRiqQGv6bkMjzPXzrlCHVu
+uyiZZpwad/r6ecj18OHl7yfavGr2rja6an1O7k+3g/PzjV7cn2rumOHjYSbSH1TTz+bbeOYzjXYT
+7ZXyy2cWp8/2sfoqpn8728CdM8JlqnEqX5PtWEZc/L3k+1czD88Y9ey2MkODIjgyIRwpEIhCMVSI
+13T8jzwzZh6SrFSg0vQ3u40PPz9ZNitW6/Z2N/W1uu2tjf1qicvzXXb3t/ncKpezPN9dq+o41ROc
+5zrItW79I1s/JvbH2+vl8vXMNz5z6945eT2MfoSpl8hbDD6uo5/Kd/Bxpep4mr1O85Vrt1v+Wflh
+S852F903FkrdTvpVyjT891pkIOHSI6TghDJwghFLz+gENf03I9vbwptVuY/hZvdzoaXVbq822k54
+emS5nrtd03I5Pmeu1vTcijK8z12s6bkY1e1Wa7baDe83x8fem1G+0FK99K1svJvaPSPKfHPfGHL2
+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
+
+------=_NextPart_000_0000_01CB33D6.7E13DD00
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.learningapi.com/images/weblog.gif
+
+R0lGODlhzAAdALMAAN7e3ra2tvPz86mpqZ+fn8jIyP///5mZmQAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAACwAAAAAzAAdAAAE/tDISau9OOvNu/9gKI5kaZ5oqq6sdLxwLM90bd94ru987//AoHBILBqP
+yKRyyWw6nz5JAUqtWq+9yRTL7XqdlO13TC7zKmKzem22pNnIQmEAG8hjgUIgl9/T5HRwQRdvgkQA
+Bn4HiAaBBwKNOQACijKQhoOEmEaIAQQHARN+oQA6iI4yBgKbPxmFrD0FBluInS+QlXl6qY2AeAYA
+n3Vyr7oDAahtrrBBslMDqs6gwHWQE6Uv0Ggw0jCTEwKOA9aq1Gwbr8w40p2hU4hikM+QgaGzB7Kr
+L5NikwB0tWDIm3bvHDp1Pdw9WkUKmr5FArAtSvRClsRL+ygecCjMYUVz0xMrKTuIUAcpadAAdHt0
+wc8pgQZgcgPpMaS3SAY5pCuZatJDYAIeHpBCzNfEOqqyARO2klRGRxhz6uSJQwsMq1djZlOZdSY2
+UkwLTqSlMZ8gEDupToAqARWkUgHgKb1n9qOYfHQszqRU4O1ZtFRrBLwp8UUAcrPCUgjnjVIMRhKC
+wSBAbiAcEWkRHpOxeYYdo9mQyRFJg4CxGKYHHBuHU+qHzIHJ6MWX9C/m2JhYB1WVTE0J2Li7fJYj
+zPYI4MGTMzmBXLlzIyiaP58OJIV06th1RAAAOw==
+
+------=_NextPart_000_0000_01CB33D6.7E13DD00
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Location: http://www.learningapi.com/cgi-bin//plugins/SCode/mt-scode.cgi?code=38
+
+iVBORw0KGgoAAAANSUhEUgAAAEYAAAAZAgMAAADxmLA1AAAADFBMVEXg4OAAAADAwMCAgIDUFYIq
+AAAAt0lEQVQYlWMIRQcBDA4KHEwMDUiEAPlCWavQwASizeL/xPxH4T8TwwcFG+Y/ECEbO/5+5dOH
+mD8o/OHnhxj/a92+1e9X/Vr/a/W/fatfgY3/wWTT/IDjk80HfRsm5gNgjb8/8fc/4D704YONDRM/
+xKw/dsyfH/AzHwCKMdlAhH7wMzQ/sGH+/+f/f6YPUOPXr1v96teqVb9WgUwHGw92xAmwu/iRnKr/
+/xNIyP7/AXoEDoYQZjwCAEp2j6SdFPvnAAAAAElFTkSuQmCCU3RhdHVzOiAyMDAgDQpQcmFnbWE6
+IG5vLWNhY2hlDQpDb250ZW50LVR5cGU6IHRleHQvaHRtbDsgY2hhcnNldD11dGYtOA0KDQox
+
+------=_NextPart_000_0000_01CB33D6.7E13DD00
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Location: http://creativecommons.org/images/public/somerights
+
+iVBORw0KGgoAAAANSUhEUgAAAFgAAAAfCAMAAABUFvrSAAAABGdBTUEAAK/INwWK6QAAABl0RVh0
+U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAA8UExURWl6afT29HOEc+rs6n6Nft/j356q
+nr/Gv7S9tE5fTsnQyZSglG6CbqmzqdTZ1EdVR4mXif///wAAAF5xXgnIaaIAAAPmSURBVHjaYhCi
+EQAIIAZaGQwQQAxCgkCAIKC0EFQERkFYEB5cMToDSZWQEEAAMYD4QlBBBA1nIdhQhKQYLomkHc4D
+CCAGZNuEELZCCTAP5lAhhIuFMFyMpBfMAAggBoil+FwsiOlcmCIUN6K6GCCAUMIYxcUw9yJJIDkd
+zcUoHgUzAAKIZqkCIIBoZjBAADEI0ggABBADjzBNACdAAJFpMC8vIYMBAoh0gwUEBYWFQRi/wQAB
+hGIwEy8vLxsTjMPGyyLMIMDCACRBTLCIANRgAQEmASYQxcDADRLENBgggJAMZuETFGRlFhTkAxvN
+BooBDgFBRkY+FkYgkx1kIqsgKzdIHMhkE+QTZhFkZAJqALIwDQYIQCYdowAMwzAAdOrUhgYZi/z/
+r1WnDgGBtkODfriHh8rCh+ZdJPrODwtnW3Gi1i4uyNWXlA3mQ1gyTvgVQHCDWRjZGSAsBlagyWwQ
+ZwgIsgLdxczLyyfIKww0mlFQABbGXIICXCCn8/KyY3EyJ0AAwQ1mZWWACTIw8wEdAzWYD4gZ+YCA
+l0OQmZ0ZYTCbIC8jM5ABkuPANBgggGAGcwsCo4AFGLpMAiAOC7cgMyhuQAYzCTIyAF0L8r4wK8Jg
+BkFmQQ5hRkEmYQZ2JkyDAQKQSW4pAIBACMTssRUF0v3v2kb01QUGHX1goysgLPt+YWE4ghPsJ3hT
+MqhDpVy/Mx54k6I346D+V9ctgGAG8/EB/cbAxMTIIQyMOj52oDMYBbmYWEC+ZOBgFgRGnACrIBcH
+kOZlFGQBKhfm5uMCZRVmYPRiSRUAAYRkMC8o0UMsB2lhEAClVGDQQBMsEIGSLzITHFhglQwgGqQW
+FlGcAAEEM5gdGJaMXFzs7Ky8jEzCzLzCbKDEyyvMIQimBAWBXFZWIMUESs1QJguQFGRmEQDLglwG
+VgsxGCAAzWSMAwAIwkAkRowGI///rKeRgdClHY6SwY0jVHcR55E0ppbb4wXyCVysxhoM7p5yhW0g
+v85FKGpb/cFHAMEMZmDkQgQQFyPQIlagIDBDAMOPVxDobgEgG4R5QYkDwuQAlxjMICFQOgH5BZ69
+OQECCJ6OeRHZh02QG5aOQSYA2VwoBgtDmXxgg/lgBguzgbI3NElzAgQQIkuzC3KAQ56BCyQJTscs
+AuygMGMHacViMNjxDIzAYgNisACwPIAVe5wAAYRUCAGTER8o7zKCnc4KSryMoMDlAscYNoM5wImY
+C5plBIA8eO7mBAgg5GKTiRecdSEpBuhwQS4WUOIFUXx8LMIcYMwGSsJQJigRM/IygFM1KCMA1cIK
+HE6AAKJZ1QQQQAyc/DQBnAABBgBsX6lWfQuzQAAAAABJRU5ErkJggg==
+
+------=_NextPart_000_0000_01CB33D6.7E13DD00
+Content-Type: text/css;
+	charset="windows-874"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://www.learningapi.com/blog/styles-site.css
+
+BODY {
+	MARGIN: 0px 0px 20px; FONT-FAMILY: "Lucida Grande", "Lucida Sans =
+Unicode", Verdana, Geneva, sans-serif; BACKGROUND: #778899; FONT-SIZE: =
+78%
+}
+A {
+	COLOR: #003366; TEXT-DECORATION: underline
+}
+A:link {
+	COLOR: #003366; TEXT-DECORATION: underline
+}
+A:visited {
+	COLOR: #003366; TEXT-DECORATION: underline
+}
+A:active {
+	COLOR: #999999
+}
+A:hover {
+	COLOR: #999999
+}
+H1 {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: =
+0px; PADDING-TOP: 0px
+}
+H2 {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: =
+0px; PADDING-TOP: 0px
+}
+H3 {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: =
+0px; PADDING-TOP: 0px
+}
+#banner {
+	BACKGROUND-IMAGE: url(/images/ebannerbkg.gif); WIDTH: 100%
+}
+#subbanner {
+	BACKGROUND-IMAGE: url(/images/tab_bkg.gif); TEXT-ALIGN: right; =
+PADDING-BOTTOM: 2px; WIDTH: 100%
+}
+#banner A {
+	FONT-FAMILY: palatino,  georgia, verdana, arial, sans-serif; COLOR: =
+#333; FONT-SIZE: xx-large; TEXT-DECORATION: none
+}
+#banner A:link {
+	FONT-FAMILY: palatino,  georgia, verdana, arial, sans-serif; COLOR: =
+#333; FONT-SIZE: xx-large; TEXT-DECORATION: none
+}
+#banner A:visited {
+	FONT-FAMILY: palatino,  georgia, verdana, arial, sans-serif; COLOR: =
+#333; FONT-SIZE: xx-large; TEXT-DECORATION: none
+}
+#banner A:active {
+	FONT-FAMILY: palatino,  georgia, verdana, arial, sans-serif; COLOR: =
+#333; FONT-SIZE: xx-large; TEXT-DECORATION: none
+}
+#banner A:hover {
+	FONT-FAMILY: palatino,  georgia, verdana, arial, sans-serif; COLOR: =
+#333; FONT-SIZE: xx-large; TEXT-DECORATION: none
+}
+.description {
+	TEXT-TRANSFORM: none; FONT-FAMILY: palatino,  georgia, times new roman, =
+serif; COLOR: #333; FONT-SIZE: small
+}
+#content {
+	BORDER-BOTTOM: #223344 1px solid; BORDER-LEFT: #223344 1px solid; =
+MARGIN-BOTTOM: 20px; BACKGROUND: #778899; BORDER-TOP: #223344 1px solid; =
+MARGIN-RIGHT: 0px; BORDER-RIGHT: #223344 1px solid
+}
+#container {
+	BORDER-BOTTOM: #fff 1px solid; BORDER-LEFT: #fff 1px solid; BACKGROUND: =
+#fff; BORDER-TOP: #fff 1px solid; BORDER-RIGHT: #fff 1px solid
+}
+#links {
+	PADDING-BOTTOM: 15px; PADDING-LEFT: 15px; WIDTH: 215px; PADDING-RIGHT: =
+15px; PADDING-TOP: 15px
+}
+#blog {
+	BORDER-BOTTOM: #cdf 1px solid; POSITION: absolute; BORDER-LEFT: #cdf =
+1px solid; PADDING-BOTTOM: 15px; MARGIN-TOP: 15px; PADDING-LEFT: 15px; =
+PADDING-RIGHT: 15px; BACKGROUND: #fff; FLOAT: right; BORDER-TOP: #cdf =
+1px solid; TOP: 100px; MARGIN-RIGHT: 15px; BORDER-RIGHT: #cdf 1px solid; =
+PADDING-TOP: 15px; LEFT: 240px
+}
+.blogbody {
+	LINE-HEIGHT: 150%; FONT-FAMILY: verdana, arial, sans-serif; BACKGROUND: =
+#fff; COLOR: #333; FONT-WEIGHT: normal
+}
+.blogbody A {
+	FONT-WEIGHT: normal; TEXT-DECORATION: underline
+}
+.blogbody A:link {
+	FONT-WEIGHT: normal; TEXT-DECORATION: underline
+}
+.blogbody A:visited {
+	FONT-WEIGHT: normal; TEXT-DECORATION: underline
+}
+.blogbody A:active {
+	FONT-WEIGHT: normal; TEXT-DECORATION: underline
+}
+.blogbody A:hover {
+	FONT-WEIGHT: normal; TEXT-DECORATION: underline
+}
+.update {
+	BORDER-BOTTOM: gray 1px solid; BORDER-LEFT: gray 1px solid; =
+PADDING-BOTTOM: 6px; PADDING-LEFT: 6px; PADDING-RIGHT: 6px; MARGIN-LEFT: =
+50px; BORDER-TOP: gray 1px solid; MARGIN-RIGHT: 50px; BORDER-RIGHT: gray =
+1px solid; PADDING-TOP: 6px
+}
+.title {
+	FONT-VARIANT: small-caps; FONT-FAMILY: verdana, arial, sans-serif; =
+COLOR: #225; FONT-SIZE: medium
+}
+#menu {
+	TEXT-ALIGN: center; MARGIN-BOTTOM: 15px; BACKGROUND: #fff; FONT-WEIGHT: =
+bold
+}
+.date {
+	BORDER-BOTTOM: #999 1px solid; FONT-FAMILY: verdana, arial, sans-serif; =
+MARGIN-BOTTOM: 10px; COLOR: #333366; FONT-SIZE: large; FONT-WEIGHT: bold
+}
+.posted {
+	FONT-FAMILY: verdana, arial, sans-serif; MARGIN-BOTTOM: 25px; COLOR: =
+#000000; FONT-SIZE: x-small
+}
+.calendar {
+	TEXT-ALIGN: left; PADDING-BOTTOM: 2px; LINE-HEIGHT: 140%; PADDING-LEFT: =
+2px; PADDING-RIGHT: 2px; FONT-FAMILY: verdana, arial, sans-serif; =
+BACKGROUND: #fff; COLOR: #666; FONT-SIZE: x-small; FONT-WEIGHT: normal; =
+PADDING-TOP: 2px
+}
+.calendarhead {
+	TEXT-ALIGN: left; PADDING-BOTTOM: 2px; TEXT-TRANSFORM: uppercase; =
+PADDING-LEFT: 2px; PADDING-RIGHT: 2px; FONT-FAMILY: palatino, georgia, =
+times new roman, serif; BACKGROUND: #fff; LETTER-SPACING: 0.3em; COLOR: =
+#666600; FONT-SIZE: small; FONT-WEIGHT: normal; PADDING-TOP: 2px
+}
+.side {
+	BORDER-BOTTOM: #cdf 1px solid; BORDER-LEFT: #cdf 1px solid; =
+PADDING-BOTTOM: 2px; LINE-HEIGHT: 120%; PADDING-LEFT: 2px; =
+PADDING-RIGHT: 2px; FONT-FAMILY: verdana, arial, sans-serif; BACKGROUND: =
+#fff; COLOR: #333; BORDER-TOP: #cdf 1px solid; FONT-WEIGHT: normal; =
+BORDER-RIGHT: #cdf 1px solid; PADDING-TOP: 2px
+}
+.sidearchive {
+	POSITION: relative; LINE-HEIGHT: 120%; PADDING-LEFT: 5px; FONT-FAMILY: =
+verdana, arial, sans-serif; BACKGROUND: #ccccdd; COLOR: #333; =
+FONT-WEIGHT: normal
+}
+.sidearchive A {
+	TEXT-DECORATION: none
+}
+.side A {
+	PADDING-BOTTOM: 0.15em; MARGIN: 0px; PADDING-LEFT: 0.15em; =
+PADDING-RIGHT: 0.15em; DISPLAY: block; TEXT-DECORATION: none; =
+PADDING-TOP: 0.15em
+}
+.sidetitle {
+	POSITION: relative; TEXT-ALIGN: center; PADDING-BOTTOM: 2px; =
+LINE-HEIGHT: 140%; TEXT-TRANSFORM: uppercase; MARGIN-TOP: 10px; =
+PADDING-LEFT: 2px; PADDING-RIGHT: 2px; FONT-FAMILY: verdana, arial, =
+sans-serif; BACKGROUND: #bbbbff; LETTER-SPACING: 0.2em; COLOR: #666; =
+FONT-WEIGHT: bold; PADDING-TOP: 2px
+}
+.syndicate {
+	PADDING-BOTTOM: 2px; LINE-HEIGHT: 140%; MARGIN-TOP: 15px; PADDING-LEFT: =
+2px; WIDTH: 250px; PADDING-RIGHT: 2px; FONT-FAMILY: verdana, arial, =
+sans-serif; BACKGROUND: #fff; MARGIN-LEFT: 10px; FONT-SIZE: xx-small; =
+MARGIN-RIGHT: 4px; PADDING-TOP: 2px
+}
+.powered {
+	PADDING-BOTTOM: 2px; LINE-HEIGHT: 140%; TEXT-TRANSFORM: uppercase; =
+MARGIN-TOP: 50px; PADDING-LEFT: 2px; PADDING-RIGHT: 2px; FONT-FAMILY: =
+palatino, georgia, times new roman, serif; BACKGROUND: #fff; =
+LETTER-SPACING: 0.2em; COLOR: #666; FONT-SIZE: x-small; PADDING-TOP: 2px
+}
+.comments-body {
+	BORDER-BOTTOM: #999 1px dotted; PADDING-BOTTOM: 10px; LINE-HEIGHT: =
+140%; FONT-FAMILY: palatino, georgia, verdana, arial, sans-serif; =
+BACKGROUND: #fff; COLOR: #666; FONT-SIZE: small; FONT-WEIGHT: normal; =
+PADDING-TOP: 10px
+}
+.comments-post {
+	FONT-FAMILY: verdana, arial, sans-serif; BACKGROUND: #fff; COLOR: #666; =
+FONT-SIZE: x-small; FONT-WEIGHT: normal
+}
+.trackback-url {
+	BORDER-BOTTOM: #999 1px dotted; BORDER-LEFT: #999 1px dotted; =
+PADDING-BOTTOM: 5px; LINE-HEIGHT: 140%; PADDING-LEFT: 5px; =
+PADDING-RIGHT: 5px; FONT-FAMILY: palatino, georgia, verdana, arial, =
+sans-serif; BACKGROUND: #fff; COLOR: #666; FONT-SIZE: small; BORDER-TOP: =
+#999 1px dotted; FONT-WEIGHT: normal; BORDER-RIGHT: #999 1px dotted; =
+PADDING-TOP: 5px
+}
+.trackback-body {
+	BORDER-BOTTOM: #999 1px dotted; PADDING-BOTTOM: 10px; LINE-HEIGHT: =
+140%; FONT-FAMILY: palatino, georgia, verdana, arial, sans-serif; =
+BACKGROUND: #fff; COLOR: #666; FONT-SIZE: small; FONT-WEIGHT: normal; =
+PADDING-TOP: 10px
+}
+.trackback-post {
+	FONT-FAMILY: verdana, arial, sans-serif; BACKGROUND: #fff; COLOR: #666; =
+FONT-SIZE: x-small; FONT-WEIGHT: normal
+}
+.comments-head {
+	BORDER-BOTTOM: #999 1px solid; MARGIN-TOP: 20px; FONT-FAMILY: palatino, =
+georgia, verdana, arial, sans-serif; BACKGROUND: #fff; COLOR: #666; =
+FONT-SIZE: small; FONT-WEIGHT: bold
+}
+#banner-commentspop {
+	BORDER-LEFT: #fff 1px solid; PADDING-BOTTOM: 5px; PADDING-LEFT: 15px; =
+PADDING-RIGHT: 15px; FONT-FAMILY: palatino, georgia, verdana, arial, =
+sans-serif; BACKGROUND: #003366; COLOR: #fff; FONT-SIZE: large; =
+BORDER-TOP: #fff 1px solid; FONT-WEIGHT: bold; BORDER-RIGHT: #fff 1px =
+solid; PADDING-TOP: 5px
+}
+
+------=_NextPart_000_0000_01CB33D6.7E13DD00
+Content-Type: text/css;
+	charset="windows-874"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://www.learningapi.com/style.css
+
+.Head1 {
+	LINE-HEIGHT: 28px; FONT-FAMILY: Futura, Arial, Trebuchet MS, Verdana, =
+Helvetica, sans-serif; COLOR: #cc0000; FONT-SIZE: 18px; FONT-WEIGHT: =
+normal
+}
+.Head2 {
+	LINE-HEIGHT: 20px; FONT-FAMILY: Arial, Helvetica, Trebuchet MS, =
+Verdana, sans-serif; COLOR: #555555; FONT-SIZE: 14px; FONT-WEIGHT: bold
+}
+.Head3 {
+	LINE-HEIGHT: 12px; FONT-FAMILY: Helvetica, Futura, Arial, Trebuchet MS, =
+Verdana,  sans-serif; COLOR: #224490; FONT-SIZE: 13px; FONT-WEIGHT: bold
+}
+.Head4 {
+	LINE-HEIGHT: 11px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; =
+COLOR: #333366; FONT-SIZE: 11px; FONT-WEIGHT: bold
+}
+.bodycopy {
+	LINE-HEIGHT: 12px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; =
+COLOR: #333333; FONT-SIZE: 10px; FONT-WEIGHT: normal
+}
+.bodycopyplain {
+	LINE-HEIGHT: 12px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; =
+COLOR: #333333 !important; FONT-SIZE: 10px; FONT-WEIGHT: normal =
+!important; TEXT-DECORATION: none !important
+}
+.largecopy {
+	LINE-HEIGHT: 13px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; =
+COLOR: #333333; FONT-SIZE: 11px; FONT-WEIGHT: normal
+}
+TD A:link {
+	COLOR: #0033aa; FONT-WEIGHT: bold
+}
+TD A:visited {
+	COLOR: #0033aa; FONT-WEIGHT: bold
+}
+TD A:hover {
+	COLOR: #6666cc
+}
+
+------=_NextPart_000_0000_01CB33D6.7E13DD00
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://www.learningapi.com/blog/mt-site.js
+
+// Copyright (c) 1996-1997 Athenia Associates.=0A=
+// http://www.webreference.com/js/=0A=
+// License is granted if and only if this entire=0A=
+// copyright notice is included. By Tomer Shiran.=0A=
+=0A=
+function setCookie (name, value, expires, path, domain, secure) {=0A=
+    var curCookie =3D name + "=3D" + escape(value) + (expires ? "; =
+expires=3D" + expires : "") +=0A=
+        (path ? "; path=3D" + path : "") + (domain ? "; domain=3D" + =
+domain : "") + (secure ? "secure" : "");=0A=
+    document.cookie =3D curCookie;=0A=
+}=0A=
+=0A=
+function getCookie (name) {=0A=
+    var prefix =3D name + '=3D';=0A=
+    var c =3D document.cookie;=0A=
+    var nullstring =3D '';=0A=
+    var cookieStartIndex =3D c.indexOf(prefix);=0A=
+    if (cookieStartIndex =3D=3D -1)=0A=
+        return nullstring;=0A=
+    var cookieEndIndex =3D c.indexOf(";", cookieStartIndex + =
+prefix.length);=0A=
+    if (cookieEndIndex =3D=3D -1)=0A=
+        cookieEndIndex =3D c.length;=0A=
+    return unescape(c.substring(cookieStartIndex + prefix.length, =
+cookieEndIndex));=0A=
+}=0A=
+=0A=
+function deleteCookie (name, path, domain) {=0A=
+    if (getCookie(name))=0A=
+        document.cookie =3D name + "=3D" + ((path) ? "; path=3D" + path =
+: "") +=0A=
+            ((domain) ? "; domain=3D" + domain : "") + "; expires=3DThu, =
+01-Jan-70 00:00:01 GMT";=0A=
+}=0A=
+=0A=
+function fixDate (date) {=0A=
+    var base =3D new Date(0);=0A=
+    var skew =3D base.getTime();=0A=
+    if (skew > 0)=0A=
+        date.setTime(date.getTime() - skew);=0A=
+}=0A=
+=0A=
+function rememberMe (f) {=0A=
+    var now =3D new Date();=0A=
+    fixDate(now);=0A=
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);=0A=
+    now =3D now.toGMTString();=0A=
+    if (f.author !=3D undefined)=0A=
+       setCookie('mtcmtauth', f.author.value, now, '/', '', '');=0A=
+    if (f.email !=3D undefined)=0A=
+       setCookie('mtcmtmail', f.email.value, now, '/', '', '');=0A=
+    if (f.url !=3D undefined)=0A=
+       setCookie('mtcmthome', f.url.value, now, '/', '', '');=0A=
+}=0A=
+=0A=
+function forgetMe (f) {=0A=
+    deleteCookie('mtcmtmail', '/', '');=0A=
+    deleteCookie('mtcmthome', '/', '');=0A=
+    deleteCookie('mtcmtauth', '/', '');=0A=
+    f.email.value =3D '';=0A=
+    f.author.value =3D '';=0A=
+    f.url.value =3D '';=0A=
+}=0A=
+=0A=
+function hideDocumentElement(id) {=0A=
+    var el =3D document.getElementById(id);=0A=
+    if (el) el.style.display =3D 'none';=0A=
+}=0A=
+=0A=
+function showDocumentElement(id) {=0A=
+    var el =3D document.getElementById(id);=0A=
+    if (el) el.style.display =3D 'block';=0A=
+}=0A=
+=0A=
+var commenter_name;=0A=
+=0A=
+function individualArchivesOnLoad(commenter_name) {=0A=
+    hideDocumentElement('comments-open');=0A=
+=0A=
+    hideDocumentElement('trackbacks-info');=0A=
+=0A=
+=0A=
+=0A=
+    if (document.comments_form) {=0A=
+        if (document.comments_form.email !=3D undefined &&=0A=
+            (mtcmtmail =3D getCookie("mtcmtmail")))=0A=
+            document.comments_form.email.value =3D mtcmtmail;=0A=
+        if (document.comments_form.author !=3D undefined &&=0A=
+            (mtcmtauth =3D getCookie("mtcmtauth")))=0A=
+            document.comments_form.author.value =3D mtcmtauth;=0A=
+        if (document.comments_form.url !=3D undefined && =0A=
+            (mtcmthome =3D getCookie("mtcmthome")))=0A=
+            document.comments_form.url.value =3D mtcmthome;=0A=
+        if (mtcmtauth || mtcmthome) {=0A=
+            document.comments_form.bakecookie.checked =3D true;=0A=
+        } else {=0A=
+            document.comments_form.bakecookie.checked =3D false;=0A=
+        }=0A=
+    }=0A=
+}=0A=
+=0A=
+function writeTypeKeyGreeting(commenter_name, entry_id) {=0A=
+=0A=
+}=0A=
+=0A=
+=0A=
+
+------=_NextPart_000_0000_01CB33D6.7E13DD00
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://track3.mybloglog.com/js/jsserv.php?mblID=2007030910520710
+
+=0A=
+<!--=0A=
+var mbl_recent_visitor=3D'';=0A=
+var mbl_current_visitor=3D'';=0A=
+if(typeof(mbl_jsserv_loaded)=3D=3D'undefined'){var =
+mbl_jsserv_loaded=3Dtrue;function =
+m_r_e(obj,w,f){if(window.addEventListener){obj.addEventListener(w,f,false=
+);}else if(window.attachEvent){obj.attachEvent('on'+w,f);}else{}}=0A=
+function =
+m_rm_e(obj,w,f){if(window.addEventListener){obj.removeEventListener(w,f,f=
+alse);}else if(window.attachEvent){obj.detachEvent('on'+w,f);}else{}}=0A=
+function m_i_eu(url){if(!url){return false;}=0A=
+if(typeof(url)!=3D'string'){return true;}=0A=
+url=3Durl.toLowerCase();if(url.indexOf('https://')=3D=3D0){url=3Durl.subs=
+tring(8);}=0A=
+else if(url.indexOf('http://')=3D=3D0){url=3Durl.substring(7);}=0A=
+else if(url.indexOf('ftp://')=3D=3D0){url=3Durl.substring(6);}=0A=
+else if(url.indexOf('ssl://')=3D=3D0){url=3Durl.substring(6);}=0A=
+else if(url.indexOf('mailto:')=3D=3D0){return true;}=0A=
+else{return false;}=0A=
+if(url.indexOf('www.')=3D=3D0){url=3Durl.substring(4);}=0A=
+var =
+hn=3Ddocument.location.hostname.toLowerCase();if(hn.indexOf('www.')=3D=3D=
+0){hn=3Dhn.substring(4);}=0A=
+if(hn=3D=3D''){return true;}=0A=
+if(url.indexOf(hn)!=3D0){return true;}=0A=
+return false;}=0A=
+=0A=
+var cs_mbl_isAOL_V8=3Dfalse;if(navigator.userAgent.indexOf('AOL =
+8.0')>0){cs_mbl_isAOL_V8=3Dtrue;}=0A=
+var =
+cs_mblID=3D'2007030910520710',cs_url_trker=3D'http://track3.mybloglog.com=
+/tr/urltrk.php',mbl_isi=3D'N2010080323091928',mblco_on=3D'',mblco_pu=3D''=
+,mblco_n=3D'',mblco_e=3D'',mblco_u=3D'',mblco_c=3D'';function =
+m_p_c(obj,flag){for(var =
+j=3D0;j<=3D5;j++){if(flag=3D=3D1){if(obj&&obj.nodeName.toUpperCase()=3D=3D=
+'A'){return =
+obj;}}if(flag=3D=3D2){if(obj&&obj.nodeName.toUpperCase()!=3D'BODY'&&obj.o=
+nclick){return obj;}}if(!obj.parentNode){return =
+null;}obj=3Dobj.parentNode;}=0A=
+return null;}=0A=
+function m_is_u(s){if(!s){return false;}=0A=
+var =
+regexp=3D/(http|https):\/\/(\w+:{0,1}\w*@)?(\S+)(:[0-9]+)?(\/|\/([\w#!:.?=
++=3D&%@!\-\/]))?/i=0A=
+return regexp.test(s);}=0A=
+function =
+m_trim(str,ch){while(str.substring(0,1)=3D=3Dch){str=3Dstr.substring(1,st=
+r.length);}=0A=
+while(str.substring(str.length-1,str.length)=3D=3Dch){str=3Dstr.substring=
+(0,str.length-1);}=0A=
+return str;}=0A=
+function m_ctx_c(e){var =
+tg=3Dnull;if(e){tg=3De.target;}else{tg=3Dwindow.event.srcElement;}m_d_t(t=
+g,false);}=0A=
+function m_oclk(e){var =
+tg=3Dnull;if(e){tg=3De.target;}else{tg=3Dwindow.event.srcElement;}m_d_t(t=
+g,true);}=0A=
+function m_d_t(tg,delay){var =
+url=3Dnull,text=3Dnull,co_qstr=3D'';try{if(tg){tgP=3Dm_p_c(tg,1);if(tgP&&=
+tgP.nodeName.toUpperCase()=3D=3D'A'){tg=3DtgP;}=0A=
+if(tg.nodeName.toUpperCase()=3D=3D'A'){url=3Dtg.href;if(tg.innerHTML){tex=
+t=3Dtg.innerHTML;}else if(tg.innerText){text=3Dtg.innerText;}else =
+if(tg.text){text=3Dtg.text;}else{}}=0A=
+else =
+if(tg.nodeName.toUpperCase()=3D=3D'AREA'){url=3Dtg.href;text=3Dtg.getAttr=
+ibute('alt')?tg.getAttribute('alt'):tg.getAttribute('id');if(text=3D=3Dnu=
+ll||text=3D=3D''){text=3Durl;}}=0A=
+else =
+if(tg.nodeName.toUpperCase()=3D=3D'INPUT'&&tg.type.toUpperCase()=3D=3D'SU=
+BMIT'){url=3Dm_trim(tg.form.action,'/');url=3Dm_trim(url,' =
+');text=3Dtg.value;var =
+co_name=3D'',co_email=3D'',co_url=3D'',co_text=3D'';if(url.toLowerCase().=
+indexOf('comment')>0){if(tg.form.elements['author']){co_name=3Dtg.form.el=
+ements['author'].value;}if(tg.form.elements['email']){co_email=3Dtg.form.=
+elements['email'].value;}if(tg.form.elements['url']){co_url=3Dtg.form.ele=
+ments['url'].value;}if(tg.form.elements['comment']){co_text=3Dtg.form.ele=
+ments['comment'].value;}else =
+if(tg.form.elements['text']){co_text=3Dtg.form.elements['text'].value;}el=
+se{}}=0A=
+if(co_text!=3D''){co_qstr=3D'&co_n=3D'+escape(co_name)+'&co_e=3D'+escape(=
+co_email)+'&co_u=3D'+escape(co_url)+'&co_c=3D'+escape(co_text)+'&co_pt=3D=
+'+escape(document.title);}}else{}=0A=
+if(url=3D=3Dnull||text=3D=3Dnull){return true;}=0A=
+if(co_qstr!=3D''||m_i_eu(url)){if(cs_mbl_isAOL_V8&&(tg.target=3D=3D'_new'=
+||tg.target=3D=3D'_blank')){return =
+true;}url=3Descape(url);text=3Descape(text);m_trk(text,url,co_qstr,delay)=
+;}}}catch(err){}}=0A=
+function m_trk(text,url,co_qstr,delay){try{var now=3Dnew Date();var =
+trackURL=3Dcs_url_trker+'?t=3D2&u=3D'+url+'&te=3D'+text+'&i=3D'+cs_mblID+=
+'&now=3D'+now.valueOf()+'&d=3D20100803'+'&db=3D'+'&v=3D'+mbl_isi+co_qstr;=
+var =
+x=3Ddocument.createElement('IMG');x.src=3DtrackURL;if(delay){m_pse(900);}=
+}catch(err){}}=0A=
+function m_t_ol(){try{var now=3Dnew Date();var =
+url=3Descape(document.location.href);var =
+ext_referrer=3Ddocument.referrer;if(ext_referrer!=3D''&&m_i_eu(ext_referr=
+er)){var ext_referrer_para=3D'&eref=3D'+escape(ext_referrer);}else{var =
+ext_referrer_para=3D'';}=0A=
+var =
+trackURL=3Dcs_url_trker+'?i=3D'+cs_mblID+'&t=3D1&u=3D'+url+'&a=3D'+escape=
+(navigator.userAgent)+'&d=3D20100803'+ext_referrer_para+'&db=3D'+'&now=3D=
+'+now.valueOf()+'&v=3D'+mbl_isi;var =
+x=3Ddocument.createElement('IMG');x.src=3DtrackURL;var =
+x2=3Ddocument.createElement('IMG');x2.src=3D'http://geo.yahoo.com/p?s=3D9=
+50300017&t=3D'+now.valueOf();}catch(err){}=0A=
+return true;}=0A=
+function m_pse(numberMillis){var now=3Dnew Date();var =
+exitTime=3Dnow.getTime()+numberMillis;while(true){now=3Dnew =
+Date();if(now.getTime()>exitTime){return;}}}=0A=
+var m_px=3D0,m_py=3D0,m_as_frms=3Dnew =
+Array(),is_ie=3Ddocument.all?true:false;function m_as_init(){var =
+ad=3Ddocument.getElementsByTagName('iframe');for(var =
+i=3D0;i<ad.length;i++){if(ad[i].src.indexOf('googlesyndication.com')>-1){=
+m_as_frms[m_as_frms.length]=3Dnew =
+Array(ad[i],'http://pagead2.googlesyndication.com','Google =
+AdSense');if(is_ie){ad[i].onfocus=3Dm_trk_as;}}else =
+if(ad[i].src.indexOf('ypn-js.overture.com')>-1){m_as_frms[m_as_frms.lengt=
+h]=3Dnew Array(ad[i],'http://ypn-js.overture.com','Yahoo! Publisher =
+Network');if(is_ie){ad[i].onfocus=3Dm_trk_as;}}else{}}=0A=
+if(m_as_frms.length>0&&!is_ie){m_r_e(window,'beforeunload',m_as_ul);m_r_e=
+(document,'mousemove',m_gm);}}=0A=
+function m_gm(e){if(!e){var e=3Dwindow.event;}=0A=
+if(e.pageX||e.pageY){m_px=3De.pageX;m_py=3De.pageY;}=0A=
+else =
+if(e.clientX||e.clientY){m_px=3De.clientX+document.body.scrollLeft+docume=
+nt.documentElement.scrollLeft;m_py=3De.clientY+document.body.scrollTop+do=
+cument.documentElement.scrollTop;}}=0A=
+function m_gpos(obj){var =
+curleft=3Dcurtop=3D0;if(obj.offsetParent){curleft=3Dobj.offsetLeft;curtop=
+=3Dobj.offsetTop;while(obj=3Dobj.offsetParent){curleft+=3Dobj.offsetLeft;=
+curtop+=3Dobj.offsetTop;}}=0A=
+return[curleft,curtop];}=0A=
+function m_as_ul(e){try{var m_as_size=3D'';for(var =
+i=3D0;i<m_as_frms.length;i++){var ad_pos=3Dm_gpos(m_as_frms[i][0]);var =
+a_fx=3D(m_px>(ad_pos[0]-10)&&m_px<(parseInt(ad_pos[0])+parseInt(m_as_frms=
+[i][0].width)+15));var =
+a_fy=3D(m_py>(ad_pos[1]-10)&&m_py<(parseInt(ad_pos[1])+parseInt(m_as_frms=
+[i][0].height)+10));if(a_fx&&a_fy){m_trk_as(m_as_frms[i][0]);break;}}}cat=
+ch(err){}}=0A=
+function m_trk_as(f){try{if(!f&&window.event.srcElement){var =
+f=3Dwindow.event.srcElement;}=0A=
+for(var i=3D0;i<m_as_frms.length;i++){if(m_as_frms[i][0]=3D=3Df){var =
+a_si=3Dm_as_frms[i][0].width+'x'+m_as_frms[i][0].height;m_trk(escape(m_as=
+_frms[i][2]+' =
+('+a_si+')'),escape(m_as_frms[i][1]+'#'+a_si),'',true);break;}}=0A=
+if(is_ie){window.focus();}}catch(err){}}=0A=
+if(document.body){document.body.onclick=3Dm_oclk;document.body.oncontextm=
+enu=3Dm_ctx_c;}else =
+if(document){document.onclick=3Dm_oclk;document.oncontextmenu=3Dm_ctx_c;}=
+else{}=0A=
+m_t_ol();m_r_e(window,'load',m_as_init);=0A=
+  }// --><!-- g3w1.mbl.re1.yahoo.com compressed/chunked Tue Aug  3 =
+23:09:19 PDT 2010 -->=0A=
+
+------=_NextPart_000_0000_01CB33D6.7E13DD00
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://www.learningapi.com/scripts/json.js
+
+/*=0A=
+Copyright (c) 2005 JSON.org=0A=
+=0A=
+Permission is hereby granted, free of charge, to any person obtaining a =
+copy=0A=
+of this software and associated documentation files (the "Software"), to =
+deal=0A=
+in the Software without restriction, including without limitation the =
+rights=0A=
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell=0A=
+copies of the Software, and to permit persons to whom the Software is=0A=
+furnished to do so, subject to the following conditions:=0A=
+=0A=
+The Software shall be used for Good, not Evil.=0A=
+=0A=
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS =
+OR=0A=
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,=0A=
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL =
+THE=0A=
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER=0A=
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING =
+FROM,=0A=
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS =
+IN THE=0A=
+SOFTWARE.=0A=
+*/=0A=
+=0A=
+/*=0A=
+    The global object JSON contains two methods.=0A=
+=0A=
+    JSON.stringify(value) takes a JavaScript value and produces a JSON =
+text.=0A=
+    The value must not be cyclical.=0A=
+=0A=
+    JSON.parse(text) takes a JSON text and produces a JavaScript value. =
+It will=0A=
+    throw a 'JSONError' exception if there is an error.=0A=
+*/=0A=
+var JSON =3D {=0A=
+    copyright: '(c)2005 JSON.org',=0A=
+    license: 'http://www.crockford.com/JSON/license.html',=0A=
+/*=0A=
+    Stringify a JavaScript value, producing a JSON text.=0A=
+*/=0A=
+    stringify: function (v) {=0A=
+        var a =3D [];=0A=
+=0A=
+/*=0A=
+    Emit a string.=0A=
+*/=0A=
+        function e(s) {=0A=
+            a[a.length] =3D s;=0A=
+        }=0A=
+=0A=
+/*=0A=
+    Convert a value.=0A=
+*/=0A=
+        function g(x) {=0A=
+            var c, i, l, v;=0A=
+=0A=
+            switch (typeof x) {=0A=
+            case 'object':=0A=
+                if (x) {=0A=
+                    if (x instanceof Array) {=0A=
+                        e('[');=0A=
+                        l =3D a.length;=0A=
+                        for (i =3D 0; i < x.length; i +=3D 1) {=0A=
+                            v =3D x[i];=0A=
+                            if (typeof v !=3D 'undefined' &&=0A=
+                                    typeof v !=3D 'function') {=0A=
+                                if (l < a.length) {=0A=
+                                    e(',');=0A=
+                                }=0A=
+                                g(v);=0A=
+                            }=0A=
+                        }=0A=
+                        e(']');=0A=
+                        return;=0A=
+                    } else if (typeof x.valueOf =3D=3D 'function') {=0A=
+                        e('{');=0A=
+                        l =3D a.length;=0A=
+                        for (i in x) {=0A=
+                            v =3D x[i];=0A=
+                            if (typeof v !=3D 'undefined' &&=0A=
+                                    typeof v !=3D 'function' &&=0A=
+                                    (!v || typeof v !=3D 'object' ||=0A=
+                                        typeof v.valueOf =3D=3D =
+'function')) {=0A=
+                                if (l < a.length) {=0A=
+                                    e(',');=0A=
+                                }=0A=
+                                g(i);=0A=
+                                e(':');=0A=
+                                g(v);=0A=
+                            }=0A=
+                        }=0A=
+                        return e('}');=0A=
+                    }=0A=
+                }=0A=
+                e('null');=0A=
+                return;=0A=
+            case 'number':=0A=
+                e(isFinite(x) ? +x : 'null');=0A=
+                return;=0A=
+            case 'string':=0A=
+                l =3D x.length;=0A=
+                e('"');=0A=
+                for (i =3D 0; i < l; i +=3D 1) {=0A=
+                    c =3D x.charAt(i);=0A=
+                    if (c >=3D ' ') {=0A=
+                        if (c =3D=3D '\\' || c =3D=3D '"') {=0A=
+                            e('\\');=0A=
+                        }=0A=
+                        e(c);=0A=
+                    } else {=0A=
+                        switch (c) {=0A=
+                        case '\b':=0A=
+                            e('\\b');=0A=
+                            break;=0A=
+                        case '\f':=0A=
+                            e('\\f');=0A=
+                            break;=0A=
+                        case '\n':=0A=
+                            e('\\n');=0A=
+                            break;=0A=
+                        case '\r':=0A=
+                            e('\\r');=0A=
+                            break;=0A=
+                        case '\t':=0A=
+                            e('\\t');=0A=
+                            break;=0A=
+                        default:=0A=
+                            c =3D c.charCodeAt();=0A=
+                            e('\\u00' + Math.floor(c / 16).toString(16) +=0A=
+                                (c % 16).toString(16));=0A=
+                        }=0A=
+                    }=0A=
+                }=0A=
+                e('"');=0A=
+                return;=0A=
+            case 'boolean':=0A=
+                e(String(x));=0A=
+                return;=0A=
+            default:=0A=
+                e('null');=0A=
+                return;=0A=
+            }=0A=
+        }=0A=
+        g(v);=0A=
+        return a.join('');=0A=
+    },=0A=
+/*=0A=
+    Parse a JSON text, producing a JavaScript value.=0A=
+    It returns false if there is a syntax error.=0A=
+*/=0A=
+    parse: function (text) {=0A=
+        try {=0A=
+            return !(/[^,:{}[]0-9.-+Eaeflnr-u \n\r\t]/.test(=0A=
+                    text.replace(/"(\\.|[^"\\])*"/g, ''))) &&=0A=
+                eval('(' + text + ')');=0A=
+        } catch (e) {=0A=
+            return false;=0A=
+        }=0A=
+    }=0A=
+};=0A=
+
+------=_NextPart_000_0000_01CB33D6.7E13DD00
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://embed.technorati.com/embed/j44zj9c54.js
+
+(function(){=0A=
+    =0A=
+var trStylesheetURL =3D =
+"http://scm-l3.technorati.com/styles/widgets/blog-widget.css";=0A=
+var trHead =3D document.getElementsByTagName("head")[0] || =
+document.documentElement;=0A=
+var trStylesheet =3D document.createElement("link");=0A=
+trStylesheet.setAttribute("rel", "stylesheet");=0A=
+trStylesheet.setAttribute("type", "text/css");=0A=
+trStylesheet.setAttribute("href", trStylesheetURL);=0A=
+trHead.appendChild(trStylesheet);=0A=
+=0A=
+})();=0A=
+
+------=_NextPart_000_0000_01CB33D6.7E13DD00
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://www.google-analytics.com/urchin.js
+
+//-- Google Analytics Urchin Module=0A=
+//-- Copyright 2007 Google, All Rights Reserved.=0A=
+=0A=
+//-- Urchin On Demand Settings ONLY=0A=
+var _uacct=3D"";			// set up the Urchin Account=0A=
+var _userv=3D1;			// service mode (0=3Dlocal,1=3Dremote,2=3Dboth)=0A=
+=0A=
+//-- UTM User Settings=0A=
+var _ufsc=3D1;			// set client info flag (1=3Don|0=3Doff)=0A=
+var _udn=3D"auto";		// (auto|none|domain) set the domain name for cookies=0A=
+var _uhash=3D"on";		// (on|off) unique domain hash for cookies=0A=
+var _utimeout=3D"1800";   	// set the inactive session timeout in seconds=0A=
+var _ugifpath=3D"/__utm.gif";	// set the web path to the __utm.gif file=0A=
+var _utsp=3D"|";			// transaction field separator=0A=
+var _uflash=3D1;			// set flash version detect option (1=3Don|0=3Doff)=0A=
+var _utitle=3D1;			// set the document title detect option =
+(1=3Don|0=3Doff)=0A=
+var _ulink=3D0;			// enable linker functionality (1=3Don|0=3Doff)=0A=
+var _uanchor=3D0;			// enable use of anchors for campaign =
+(1=3Don|0=3Doff)=0A=
+var _utcp=3D"/";			// the cookie path for tracking=0A=
+var _usample=3D100;		// The sampling % of visitors to track (1-100).=0A=
+=0A=
+//-- UTM Campaign Tracking Settings=0A=
+var _uctm=3D1;			// set campaign tracking module (1=3Don|0=3Doff)=0A=
+var _ucto=3D"15768000";		// set timeout in seconds (6 month default)=0A=
+var _uccn=3D"utm_campaign";	// name=0A=
+var _ucmd=3D"utm_medium";		// medium (cpc|cpm|link|email|organic)=0A=
+var _ucsr=3D"utm_source";		// source=0A=
+var _uctr=3D"utm_term";		// term/keyword=0A=
+var _ucct=3D"utm_content";	// content=0A=
+var _ucid=3D"utm_id";		// id number=0A=
+var _ucno=3D"utm_nooverride";	// don't override=0A=
+=0A=
+//-- Auto/Organic Sources and Keywords=0A=
+var _uOsr=3Dnew Array();=0A=
+var _uOkw=3Dnew Array();=0A=
+_uOsr[0]=3D"google";	_uOkw[0]=3D"q";=0A=
+_uOsr[1]=3D"yahoo";	_uOkw[1]=3D"p";=0A=
+_uOsr[2]=3D"msn";		_uOkw[2]=3D"q";=0A=
+_uOsr[3]=3D"aol";		_uOkw[3]=3D"query";=0A=
+_uOsr[4]=3D"aol";		_uOkw[4]=3D"encquery";=0A=
+_uOsr[5]=3D"lycos";	_uOkw[5]=3D"query";=0A=
+_uOsr[6]=3D"ask";		_uOkw[6]=3D"q";=0A=
+_uOsr[7]=3D"altavista";	_uOkw[7]=3D"q";=0A=
+_uOsr[8]=3D"netscape";	_uOkw[8]=3D"query";=0A=
+_uOsr[9]=3D"cnn";	_uOkw[9]=3D"query";=0A=
+_uOsr[10]=3D"looksmart";	_uOkw[10]=3D"qt";=0A=
+_uOsr[11]=3D"about";	_uOkw[11]=3D"terms";=0A=
+_uOsr[12]=3D"mamma";	_uOkw[12]=3D"query";=0A=
+_uOsr[13]=3D"alltheweb";	_uOkw[13]=3D"q";=0A=
+_uOsr[14]=3D"gigablast";	_uOkw[14]=3D"q";=0A=
+_uOsr[15]=3D"voila";	_uOkw[15]=3D"rdata";=0A=
+_uOsr[16]=3D"virgilio";	_uOkw[16]=3D"qs";=0A=
+_uOsr[17]=3D"live";	_uOkw[17]=3D"q";=0A=
+_uOsr[18]=3D"baidu";	_uOkw[18]=3D"wd";=0A=
+_uOsr[19]=3D"alice";	_uOkw[19]=3D"qs";=0A=
+_uOsr[20]=3D"yandex";	_uOkw[20]=3D"text";=0A=
+_uOsr[21]=3D"najdi";	_uOkw[21]=3D"q";=0A=
+_uOsr[22]=3D"aol";	_uOkw[22]=3D"q";=0A=
+_uOsr[23]=3D"club-internet"; _uOkw[23]=3D"query";=0A=
+_uOsr[24]=3D"mama";	_uOkw[24]=3D"query";=0A=
+_uOsr[25]=3D"seznam";	_uOkw[25]=3D"q";=0A=
+_uOsr[26]=3D"search";	_uOkw[26]=3D"q";=0A=
+_uOsr[27]=3D"wp";	_uOkw[27]=3D"szukaj";=0A=
+_uOsr[28]=3D"onet";	_uOkw[28]=3D"qt";=0A=
+_uOsr[29]=3D"netsprint";	_uOkw[29]=3D"q";=0A=
+_uOsr[30]=3D"google.interia";	_uOkw[30]=3D"q";=0A=
+_uOsr[31]=3D"szukacz";	_uOkw[31]=3D"q";=0A=
+_uOsr[32]=3D"yam";	_uOkw[32]=3D"k";=0A=
+_uOsr[33]=3D"pchome";	_uOkw[33]=3D"q";=0A=
+_uOsr[34]=3D"kvasir";	_uOkw[34]=3D"searchExpr";=0A=
+_uOsr[35]=3D"sesam";	_uOkw[35]=3D"q";=0A=
+_uOsr[36]=3D"ozu"; _uOkw[36]=3D"q";=0A=
+_uOsr[37]=3D"terra"; _uOkw[37]=3D"query";=0A=
+_uOsr[38]=3D"nostrum"; _uOkw[38]=3D"query";=0A=
+_uOsr[39]=3D"mynet"; _uOkw[39]=3D"q";=0A=
+_uOsr[40]=3D"ekolay"; _uOkw[40]=3D"q";=0A=
+_uOsr[41]=3D"search.ilse"; _uOkw[41]=3D"search_for";=0A=
+_uOsr[42]=3D"bing"; _uOkw[42]=3D"q";=0A=
+=0A=
+//-- Auto/Organic Keywords to Ignore=0A=
+var _uOno=3Dnew Array();=0A=
+//_uOno[0]=3D"urchin";=0A=
+//_uOno[1]=3D"urchin.com";=0A=
+//_uOno[2]=3D"www.urchin.com";=0A=
+=0A=
+//-- Referral domains to Ignore=0A=
+var _uRno=3Dnew Array();=0A=
+//_uRno[0]=3D".urchin.com";=0A=
+=0A=
+//-- **** Don't modify below this point ***=0A=
+var =
+_uff,_udh,_udt,_ubl=3D0,_udo=3D"",_uu,_ufns=3D0,_uns=3D0,_ur=3D"-",_ufno=3D=
+0,_ust=3D0,_ubd=3Ddocument,_udl=3D_ubd.location,_udlh=3D"",_uwv=3D"1.3";=0A=
+var _ugifpath2=3D"http://www.google-analytics.com/__utm.gif";=0A=
+if (_udl.hash) _udlh=3D_udl.href.substring(_udl.href.indexOf('#'));=0A=
+if (_udl.protocol=3D=3D"https:") =
+_ugifpath2=3D"https://ssl.google-analytics.com/__utm.gif";=0A=
+if (!_utcp || _utcp=3D=3D"") _utcp=3D"/";=0A=
+function urchinTracker(page) {=0A=
+ if (_udl.protocol=3D=3D"file:") return;=0A=
+ if (_uff && (!page || page=3D=3D"")) return;=0A=
+ var a,b,c,xx,v,z,k,x=3D"",s=3D"",f=3D0,nv=3D0;=0A=
+ var nx=3D" expires=3D"+_uNx()+";";=0A=
+ var dc=3D_ubd.cookie;=0A=
+ _udh=3D_uDomain();=0A=
+ if (!_uVG()) return;=0A=
+ _uu=3DMath.round(Math.random()*2147483647);=0A=
+ _udt=3Dnew Date();=0A=
+ _ust=3DMath.round(_udt.getTime()/1000);=0A=
+ a=3Ddc.indexOf("__utma=3D"+_udh+".");=0A=
+ b=3Ddc.indexOf("__utmb=3D"+_udh);=0A=
+ c=3Ddc.indexOf("__utmc=3D"+_udh);=0A=
+ if (_udn && _udn!=3D"") { _udo=3D" domain=3D"+_udn+";"; }=0A=
+ if (_utimeout && _utimeout!=3D"") {=0A=
+  x=3Dnew Date(_udt.getTime()+(_utimeout*1000));=0A=
+  x=3D" expires=3D"+x.toGMTString()+";";=0A=
+ }=0A=
+ if (_ulink) {=0A=
+  if (_uanchor && _udlh && _udlh!=3D"") s=3D_udlh+"&";=0A=
+  s+=3D_udl.search;=0A=
+  if(s && s!=3D"" && s.indexOf("__utma=3D")>=3D0) {=0A=
+   if (!(_uIN(a=3D_uGC(s,"__utma=3D","&")))) a=3D"-";=0A=
+   if (!(_uIN(b=3D_uGC(s,"__utmb=3D","&")))) b=3D"-";=0A=
+   if (!(_uIN(c=3D_uGC(s,"__utmc=3D","&")))) c=3D"-";=0A=
+   v=3D_uGC(s,"__utmv=3D","&");=0A=
+   z=3D_uGC(s,"__utmz=3D","&");=0A=
+   k=3D_uGC(s,"__utmk=3D","&");=0A=
+   xx=3D_uGC(s,"__utmx=3D","&");=0A=
+   if ((k*1) !=3D ((_uHash(a+b+c+xx+z+v)*1)+(_udh*1))) =
+{_ubl=3D1;a=3D"-";b=3D"-";c=3D"-";xx=3D"-";z=3D"-";v=3D"-";}=0A=
+   if (a!=3D"-" && b!=3D"-" && c!=3D"-") f=3D1;=0A=
+   else if(a!=3D"-") f=3D2;=0A=
+  }=0A=
+ }=0A=
+ if(f=3D=3D1) {=0A=
+  _ubd.cookie=3D"__utma=3D"+a+"; path=3D"+_utcp+";"+nx+_udo;=0A=
+  _ubd.cookie=3D"__utmb=3D"+b+"; path=3D"+_utcp+";"+x+_udo;=0A=
+  _ubd.cookie=3D"__utmc=3D"+c+"; path=3D"+_utcp+";"+_udo;=0A=
+ } else if (f=3D=3D2) {=0A=
+  a=3D_uFixA(s,"&",_ust);=0A=
+  _ubd.cookie=3D"__utma=3D"+a+"; path=3D"+_utcp+";"+nx+_udo;=0A=
+  _ubd.cookie=3D"__utmb=3D"+_udh+"; path=3D"+_utcp+";"+x+_udo;=0A=
+  _ubd.cookie=3D"__utmc=3D"+_udh+"; path=3D"+_utcp+";"+_udo;=0A=
+  _ufns=3D1;=0A=
+ } else if (a>=3D0 && b>=3D0 && c>=3D0) {=0A=
+   b =3D _uGC(dc,"__utmb=3D"+_udh,";");=0A=
+   b =3D ("-" =3D=3D b) ? _udh : b;  =0A=
+  _ubd.cookie=3D"__utmb=3D"+b+"; path=3D"+_utcp+";"+x+_udo;=0A=
+ } else {=0A=
+  if (a>=3D0) a=3D_uFixA(_ubd.cookie,";",_ust);=0A=
+  else {=0A=
+   a=3D_udh+"."+_uu+"."+_ust+"."+_ust+"."+_ust+".1";=0A=
+   nv=3D1;=0A=
+  }=0A=
+  _ubd.cookie=3D"__utma=3D"+a+"; path=3D"+_utcp+";"+nx+_udo;=0A=
+  _ubd.cookie=3D"__utmb=3D"+_udh+"; path=3D"+_utcp+";"+x+_udo;=0A=
+  _ubd.cookie=3D"__utmc=3D"+_udh+"; path=3D"+_utcp+";"+_udo;=0A=
+  _ufns=3D1;=0A=
+ }=0A=
+ if (_ulink && xx && xx!=3D"" && xx!=3D"-") {=0A=
+   xx=3D_uUES(xx);=0A=
+   if (xx.indexOf(";")=3D=3D-1) _ubd.cookie=3D"__utmx=3D"+xx+"; =
+path=3D"+_utcp+";"+nx+_udo;=0A=
+ }=0A=
+ if (_ulink && v && v!=3D"" && v!=3D"-") {=0A=
+  v=3D_uUES(v);=0A=
+  if (v.indexOf(";")=3D=3D-1) _ubd.cookie=3D"__utmv=3D"+v+"; =
+path=3D"+_utcp+";"+nx+_udo;=0A=
+ }=0A=
+ var wc=3Dwindow;=0A=
+ var c=3D_ubd.cookie;=0A=
+ if(wc && wc.gaGlobal && wc.gaGlobal.dh=3D=3D_udh){=0A=
+  var g=3Dwc.gaGlobal;=0A=
+  var ua=3Dc.split("__utma=3D"+_udh+".")[1].split(";")[0].split(".");=0A=
+  if(g.sid)ua[3]=3Dg.sid;=0A=
+  if(nv>0){=0A=
+   ua[2]=3Dua[3];=0A=
+   if(g.vid){=0A=
+    var v=3Dg.vid.split(".");=0A=
+    ua[0]=3Dv[0];=0A=
+    ua[1]=3Dv[1];=0A=
+   }=0A=
+  }=0A=
+  _ubd.cookie=3D"__utma=3D"+_udh+"."+ua.join(".")+"; =
+path=3D"+_utcp+";"+nx+_udo;=0A=
+ }=0A=
+ _uInfo(page);=0A=
+ _ufns=3D0;=0A=
+ _ufno=3D0;=0A=
+ if (!page || page=3D=3D"") _uff=3D1;=0A=
+}=0A=
+function _uGH() {=0A=
+ var hid;=0A=
+ var wc=3Dwindow;=0A=
+ if (wc && wc.gaGlobal && wc.gaGlobal.hid) {=0A=
+  hid=3Dwc.gaGlobal.hid;=0A=
+ } else {=0A=
+  hid=3DMath.round(Math.random()*0x7fffffff);=0A=
+  if (!wc.gaGlobal) wc.gaGlobal=3D{};=0A=
+  wc.gaGlobal.hid=3Dhid;=0A=
+ }=0A=
+ return hid;=0A=
+}=0A=
+function _uInfo(page) {=0A=
+ var p,s=3D"",dm=3D"",pg=3D_udl.pathname+_udl.search;=0A=
+ if (page && page!=3D"") pg=3D_uES(page,1);=0A=
+ _ur=3D_ubd.referrer;=0A=
+ if (!_ur || _ur=3D=3D"") { _ur=3D"-"; }=0A=
+ else {=0A=
+  dm=3D_ubd.domain;=0A=
+  if(_utcp && _utcp!=3D"/") dm+=3D_utcp;=0A=
+  p=3D_ur.indexOf(dm);=0A=
+  if ((p>=3D0) && (p<=3D8)) { _ur=3D"0"; }=0A=
+  if (_ur.indexOf("[")=3D=3D0 && =
+_ur.lastIndexOf("]")=3D=3D(_ur.length-1)) { _ur=3D"-"; }=0A=
+ }=0A=
+ s+=3D"&utmn=3D"+_uu;=0A=
+ if (_ufsc) s+=3D_uBInfo();=0A=
+ if (_uctm) s+=3D_uCInfo();=0A=
+ if (_utitle && _ubd.title && _ubd.title!=3D"") =
+s+=3D"&utmdt=3D"+_uES(_ubd.title);=0A=
+ if (_udl.hostname && _udl.hostname!=3D"") =
+s+=3D"&utmhn=3D"+_uES(_udl.hostname);=0A=
+ if (_usample && _usample !=3D 100) s+=3D"&utmsp=3D"+_uES(_usample);=0A=
+ s+=3D"&utmhid=3D"+_uGH();=0A=
+ s+=3D"&utmr=3D"+_ur;=0A=
+ s+=3D"&utmp=3D"+pg;=0A=
+ if ((_userv=3D=3D0 || _userv=3D=3D2) && _uSP()) {=0A=
+  var i=3Dnew Image(1,1);=0A=
+  i.src=3D_ugifpath+"?"+"utmwv=3D"+_uwv+s;=0A=
+  i.onload=3Dfunction() { _uVoid(); }=0A=
+ }=0A=
+ if ((_userv=3D=3D1 || _userv=3D=3D2) && _uSP()) {=0A=
+  var i2=3Dnew Image(1,1);=0A=
+  =
+i2.src=3D_ugifpath2+"?"+"utmwv=3D"+_uwv+s+"&utmac=3D"+_uacct+"&utmcc=3D"+=
+_uGCS();=0A=
+  i2.onload=3Dfunction() { _uVoid(); }=0A=
+ }=0A=
+ return;=0A=
+}=0A=
+function _uVoid() { return; }=0A=
+function _uCInfo() {=0A=
+ if (!_ucto || _ucto=3D=3D"") { _ucto=3D"15768000"; }=0A=
+ if (!_uVG()) return;=0A=
+ var =
+c=3D"",t=3D"-",t2=3D"-",t3=3D"-",o=3D0,cs=3D0,cn=3D0,i=3D0,z=3D"-",s=3D""=
+;=0A=
+ if (_uanchor && _udlh && _udlh!=3D"") s=3D_udlh+"&";=0A=
+ s+=3D_udl.search;=0A=
+ var x=3Dnew Date(_udt.getTime()+(_ucto*1000));=0A=
+ var dc=3D_ubd.cookie;=0A=
+ x=3D" expires=3D"+x.toGMTString()+";";=0A=
+ if (_ulink && !_ubl) {=0A=
+  z=3D_uUES(_uGC(s,"__utmz=3D","&"));=0A=
+  if (z!=3D"-" && z.indexOf(";")=3D=3D-1) { =
+_ubd.cookie=3D"__utmz=3D"+z+"; path=3D"+_utcp+";"+x+_udo; return ""; }=0A=
+ }=0A=
+ z=3Ddc.indexOf("__utmz=3D"+_udh+".");=0A=
+ if (z>-1) { z=3D_uGC(dc,"__utmz=3D"+_udh+".",";"); }=0A=
+ else { z=3D"-"; }=0A=
+ t=3D_uGC(s,_ucid+"=3D","&");=0A=
+ t2=3D_uGC(s,_ucsr+"=3D","&");=0A=
+ t3=3D_uGC(s,"gclid=3D","&");=0A=
+ if ((t!=3D"-" && t!=3D"") || (t2!=3D"-" && t2!=3D"") || (t3!=3D"-" && =
+t3!=3D"")) {=0A=
+  if (t!=3D"-" && t!=3D"") c+=3D"utmcid=3D"+_uEC(t);=0A=
+  if (t2!=3D"-" && t2!=3D"") { if (c !=3D "") c+=3D"|"; =
+c+=3D"utmcsr=3D"+_uEC(t2); }=0A=
+  if (t3!=3D"-" && t3!=3D"") { if (c !=3D "") c+=3D"|"; =
+c+=3D"utmgclid=3D"+_uEC(t3); }=0A=
+  t=3D_uGC(s,_uccn+"=3D","&");=0A=
+  if (t!=3D"-" && t!=3D"") c+=3D"|utmccn=3D"+_uEC(t);=0A=
+  else c+=3D"|utmccn=3D(not+set)";=0A=
+  t=3D_uGC(s,_ucmd+"=3D","&");=0A=
+  if (t!=3D"-" && t!=3D"") c+=3D"|utmcmd=3D"+_uEC(t);=0A=
+  else  c+=3D"|utmcmd=3D(not+set)";=0A=
+  t=3D_uGC(s,_uctr+"=3D","&");=0A=
+  if (t!=3D"-" && t!=3D"") c+=3D"|utmctr=3D"+_uEC(t);=0A=
+  else { t=3D_uOrg(1); if (t!=3D"-" && t!=3D"") =
+c+=3D"|utmctr=3D"+_uEC(t); }=0A=
+  t=3D_uGC(s,_ucct+"=3D","&");=0A=
+  if (t!=3D"-" && t!=3D"") c+=3D"|utmcct=3D"+_uEC(t);=0A=
+  t=3D_uGC(s,_ucno+"=3D","&");=0A=
+  if (t=3D=3D"1") o=3D1;=0A=
+  if (z!=3D"-" && o=3D=3D1) return "";=0A=
+ }=0A=
+ if (c=3D=3D"-" || c=3D=3D"") { c=3D_uOrg(); if (z!=3D"-" && =
+_ufno=3D=3D1)  return ""; }=0A=
+ if (c=3D=3D"-" || c=3D=3D"") { if (_ufns=3D=3D1)  c=3D_uRef(); if =
+(z!=3D"-" && _ufno=3D=3D1)  return ""; }=0A=
+ if (c=3D=3D"-" || c=3D=3D"") {=0A=
+  if (z=3D=3D"-" && _ufns=3D=3D1) { =
+c=3D"utmccn=3D(direct)|utmcsr=3D(direct)|utmcmd=3D(none)"; }=0A=
+  if (c=3D=3D"-" || c=3D=3D"") return "";=0A=
+ }=0A=
+ if (z!=3D"-") {=0A=
+  i=3Dz.indexOf(".");=0A=
+  if (i>-1) i=3Dz.indexOf(".",i+1);=0A=
+  if (i>-1) i=3Dz.indexOf(".",i+1);=0A=
+  if (i>-1) i=3Dz.indexOf(".",i+1);=0A=
+  t=3Dz.substring(i+1,z.length);=0A=
+  if (t.toLowerCase()=3D=3Dc.toLowerCase()) cs=3D1;=0A=
+  t=3Dz.substring(0,i);=0A=
+  if ((i=3Dt.lastIndexOf(".")) > -1) {=0A=
+   t=3Dt.substring(i+1,t.length);=0A=
+   cn=3D(t*1);=0A=
+  }=0A=
+ }=0A=
+ if (cs=3D=3D0 || _ufns=3D=3D1) {=0A=
+  t=3D_uGC(dc,"__utma=3D"+_udh+".",";");=0A=
+  if ((i=3Dt.lastIndexOf(".")) > 9) {=0A=
+   _uns=3Dt.substring(i+1,t.length);=0A=
+   _uns=3D(_uns*1);=0A=
+  }=0A=
+  cn++;=0A=
+  if (_uns=3D=3D0) _uns=3D1;=0A=
+  _ubd.cookie=3D"__utmz=3D"+_udh+"."+_ust+"."+_uns+"."+cn+"."+c+"; =
+path=3D"+_utcp+"; "+x+_udo;=0A=
+ }=0A=
+ if (cs=3D=3D0 || _ufns=3D=3D1) return "&utmcn=3D1";=0A=
+ else return "&utmcr=3D1";=0A=
+}=0A=
+function _uRef() {=0A=
+ if (_ur=3D=3D"0" || _ur=3D=3D"" || _ur=3D=3D"-") return "";=0A=
+ var i=3D0,h,k,n;=0A=
+ if ((i=3D_ur.indexOf("://"))<0 || _uGCse()) return "";=0A=
+ h=3D_ur.substring(i+3,_ur.length);=0A=
+ if (h.indexOf("/") > -1) {=0A=
+  k=3Dh.substring(h.indexOf("/"),h.length);=0A=
+  if (k.indexOf("?") > -1) k=3Dk.substring(0,k.indexOf("?"));=0A=
+  h=3Dh.substring(0,h.indexOf("/"));=0A=
+ }=0A=
+ h=3Dh.toLowerCase();=0A=
+ n=3Dh;=0A=
+ if ((i=3Dn.indexOf(":")) > -1) n=3Dn.substring(0,i);=0A=
+ for (var ii=3D0;ii<_uRno.length;ii++) {=0A=
+  if ((i=3Dn.indexOf(_uRno[ii].toLowerCase())) > -1 && =
+n.length=3D=3D(i+_uRno[ii].length)) { _ufno=3D1; break; }=0A=
+ }=0A=
+ if (h.indexOf("www.")=3D=3D0) h=3Dh.substring(4,h.length);=0A=
+ return =
+"utmccn=3D(referral)|utmcsr=3D"+_uEC(h)+"|"+"utmcct=3D"+_uEC(k)+"|utmcmd=3D=
+referral";=0A=
+}=0A=
+function _uOrg(t) {=0A=
+ if (_ur=3D=3D"0" || _ur=3D=3D"" || _ur=3D=3D"-") return "";=0A=
+ var i=3D0,h,k;=0A=
+ if ((i=3D_ur.indexOf("://"))<0 || _uGCse()) return "";=0A=
+ h=3D_ur.substring(i+3,_ur.length);=0A=
+ if (h.indexOf("/") > -1) {=0A=
+  h=3Dh.substring(0,h.indexOf("/"));=0A=
+ }=0A=
+ for (var ii=3D0;ii<_uOsr.length;ii++) {=0A=
+  if (h.toLowerCase().indexOf(_uOsr[ii].toLowerCase()) > -1) {=0A=
+   if ((i=3D_ur.indexOf("?"+_uOkw[ii]+"=3D")) > -1 || =
+(i=3D_ur.indexOf("&"+_uOkw[ii]+"=3D")) > -1) {=0A=
+    k=3D_ur.substring(i+_uOkw[ii].length+2,_ur.length);=0A=
+    if ((i=3Dk.indexOf("&")) > -1) k=3Dk.substring(0,i);=0A=
+    for (var yy=3D0;yy<_uOno.length;yy++) {=0A=
+     if (_uOno[yy].toLowerCase()=3D=3Dk.toLowerCase()) { _ufno=3D1; =
+break; }=0A=
+    }=0A=
+    if (t) return _uEC(k);=0A=
+    else return =
+"utmccn=3D(organic)|utmcsr=3D"+_uEC(_uOsr[ii])+"|"+"utmctr=3D"+_uEC(k)+"|=
+utmcmd=3Dorganic";=0A=
+   }=0A=
+  }=0A=
+ }=0A=
+ return "";=0A=
+}=0A=
+function _uGCse() {=0A=
+ var h,p;=0A=
+ h=3Dp=3D_ur.split("://")[1];=0A=
+ if(h.indexOf("/")>-1) {=0A=
+  h=3Dh.split("/")[0];=0A=
+  p=3Dp.substring(p.indexOf("/")+1,p.length);=0A=
+ }=0A=
+ if(p.indexOf("?")>-1) {=0A=
+  p=3Dp.split("?")[0];=0A=
+ }=0A=
+ if(h.toLowerCase().indexOf("google")>-1) {=0A=
+  if(_ur.indexOf("?q=3D")>-1 || _ur.indexOf("&q=3D")>-1) {=0A=
+   if (p.toLowerCase().indexOf("cse")>-1) {=0A=
+    return true;=0A=
+   }=0A=
+  }=0A=
+ }=0A=
+}=0A=
+function _uBInfo() {=0A=
+ var sr=3D"-",sc=3D"-",ul=3D"-",fl=3D"-",cs=3D"-",je=3D1;=0A=
+ var n=3Dnavigator;=0A=
+ if (self.screen) {=0A=
+  sr=3Dscreen.width+"x"+screen.height;=0A=
+  sc=3Dscreen.colorDepth+"-bit";=0A=
+ } else if (self.java) {=0A=
+  var j=3Djava.awt.Toolkit.getDefaultToolkit();=0A=
+  var s=3Dj.getScreenSize();=0A=
+  sr=3Ds.width+"x"+s.height;=0A=
+ }=0A=
+ if (n.language) { ul=3Dn.language.toLowerCase(); }=0A=
+ else if (n.browserLanguage) { ul=3Dn.browserLanguage.toLowerCase(); }=0A=
+ je=3Dn.javaEnabled()?1:0;=0A=
+ if (_uflash) fl=3D_uFlash();=0A=
+ if (_ubd.characterSet) cs=3D_uES(_ubd.characterSet);=0A=
+ else if (_ubd.charset) cs=3D_uES(_ubd.charset);=0A=
+ return =
+"&utmcs=3D"+cs+"&utmsr=3D"+sr+"&utmsc=3D"+sc+"&utmul=3D"+ul+"&utmje=3D"+j=
+e+"&utmfl=3D"+fl;=0A=
+}=0A=
+function __utmSetTrans() {=0A=
+ var e;=0A=
+ if (_ubd.getElementById) e=3D_ubd.getElementById("utmtrans");=0A=
+ else if (_ubd.utmform && _ubd.utmform.utmtrans) =
+e=3D_ubd.utmform.utmtrans;=0A=
+ if (!e) return;=0A=
+ var l=3De.value.split("UTM:");=0A=
+ var i,i2,c;=0A=
+ if (_userv=3D=3D0 || _userv=3D=3D2) i=3Dnew Array();=0A=
+ if (_userv=3D=3D1 || _userv=3D=3D2) { i2=3Dnew Array(); c=3D_uGCS(); }=0A=
+=0A=
+ for (var ii=3D0;ii<l.length;ii++) {=0A=
+  l[ii]=3D_uTrim(l[ii]);=0A=
+  if (l[ii].charAt(0)!=3D'T' && l[ii].charAt(0)!=3D'I') continue;=0A=
+  var r=3DMath.round(Math.random()*2147483647);=0A=
+  if (!_utsp || _utsp=3D=3D"") _utsp=3D"|";=0A=
+  var f=3Dl[ii].split(_utsp),s=3D"";=0A=
+  if (f[0].charAt(0)=3D=3D'T') {=0A=
+   s=3D"&utmt=3Dtran"+"&utmn=3D"+r;=0A=
+   f[1]=3D_uTrim(f[1]); if(f[1]&&f[1]!=3D"") =
+s+=3D"&utmtid=3D"+_uES(f[1]);=0A=
+   f[2]=3D_uTrim(f[2]); if(f[2]&&f[2]!=3D"") =
+s+=3D"&utmtst=3D"+_uES(f[2]);=0A=
+   f[3]=3D_uTrim(f[3]); if(f[3]&&f[3]!=3D"") =
+s+=3D"&utmtto=3D"+_uES(f[3]);=0A=
+   f[4]=3D_uTrim(f[4]); if(f[4]&&f[4]!=3D"") =
+s+=3D"&utmttx=3D"+_uES(f[4]);=0A=
+   f[5]=3D_uTrim(f[5]); if(f[5]&&f[5]!=3D"") =
+s+=3D"&utmtsp=3D"+_uES(f[5]);=0A=
+   f[6]=3D_uTrim(f[6]); if(f[6]&&f[6]!=3D"") =
+s+=3D"&utmtci=3D"+_uES(f[6]);=0A=
+   f[7]=3D_uTrim(f[7]); if(f[7]&&f[7]!=3D"") =
+s+=3D"&utmtrg=3D"+_uES(f[7]);=0A=
+   f[8]=3D_uTrim(f[8]); if(f[8]&&f[8]!=3D"") =
+s+=3D"&utmtco=3D"+_uES(f[8]);=0A=
+  } else {=0A=
+   s=3D"&utmt=3Ditem"+"&utmn=3D"+r;=0A=
+   f[1]=3D_uTrim(f[1]); if(f[1]&&f[1]!=3D"") =
+s+=3D"&utmtid=3D"+_uES(f[1]);=0A=
+   f[2]=3D_uTrim(f[2]); if(f[2]&&f[2]!=3D"") =
+s+=3D"&utmipc=3D"+_uES(f[2]);=0A=
+   f[3]=3D_uTrim(f[3]); if(f[3]&&f[3]!=3D"") =
+s+=3D"&utmipn=3D"+_uES(f[3]);=0A=
+   f[4]=3D_uTrim(f[4]); if(f[4]&&f[4]!=3D"") =
+s+=3D"&utmiva=3D"+_uES(f[4]);=0A=
+   f[5]=3D_uTrim(f[5]); if(f[5]&&f[5]!=3D"") =
+s+=3D"&utmipr=3D"+_uES(f[5]);=0A=
+   f[6]=3D_uTrim(f[6]); if(f[6]&&f[6]!=3D"") =
+s+=3D"&utmiqt=3D"+_uES(f[6]);=0A=
+  }=0A=
+  if (_udl.hostname && _udl.hostname!=3D"") =
+s+=3D"&utmhn=3D"+_uES(_udl.hostname);=0A=
+  if (_usample && _usample !=3D 100) s+=3D"&utmsp=3D"+_uES(_usample);=0A=
+=0A=
+  if ((_userv=3D=3D0 || _userv=3D=3D2) && _uSP()) {=0A=
+   i[ii]=3Dnew Image(1,1);=0A=
+   i[ii].src=3D_ugifpath+"?"+"utmwv=3D"+_uwv+s;=0A=
+   i[ii].onload=3Dfunction() { _uVoid(); }=0A=
+  }=0A=
+  if ((_userv=3D=3D1 || _userv=3D=3D2) && _uSP()) {=0A=
+   i2[ii]=3Dnew Image(1,1);=0A=
+   =
+i2[ii].src=3D_ugifpath2+"?"+"utmwv=3D"+_uwv+s+"&utmac=3D"+_uacct+"&utmcc=3D=
+"+c;=0A=
+   i2[ii].onload=3Dfunction() { _uVoid(); }=0A=
+  }=0A=
+ }=0A=
+ return;=0A=
+}=0A=
+function _uFlash() {=0A=
+ var f=3D"-",n=3Dnavigator;=0A=
+ if (n.plugins && n.plugins.length) {=0A=
+  for (var ii=3D0;ii<n.plugins.length;ii++) {=0A=
+   if (n.plugins[ii].name.indexOf('Shockwave Flash')!=3D-1) {=0A=
+    f=3Dn.plugins[ii].description.split('Shockwave Flash ')[1];=0A=
+    break;=0A=
+   }=0A=
+  }=0A=
+ } else {=0A=
+  var fl;=0A=
+  try {=0A=
+   fl =3D new ActiveXObject("ShockwaveFlash.ShockwaveFlash.7");=0A=
+   f =3D fl.GetVariable("$version");=0A=
+  } catch(e) {}=0A=
+  if (f =3D=3D "-") {=0A=
+   try {=0A=
+    fl =3D new ActiveXObject("ShockwaveFlash.ShockwaveFlash.6");=0A=
+    f =3D "WIN 6,0,21,0";=0A=
+    fl.AllowScriptAccess =3D "always";=0A=
+    f =3D fl.GetVariable("$version");=0A=
+   } catch(e) {}=0A=
+  }=0A=
+  if (f =3D=3D "-") {=0A=
+   try {=0A=
+    fl =3D new ActiveXObject("ShockwaveFlash.ShockwaveFlash");=0A=
+    f =3D fl.GetVariable("$version");=0A=
+   } catch(e) {}=0A=
+  }=0A=
+  if (f !=3D "-") {=0A=
+   f =3D f.split(" ")[1].split(",");=0A=
+   f =3D f[0] + "." + f[1] + " r" + f[2];=0A=
+  }=0A=
+ }=0A=
+ return f;=0A=
+}=0A=
+function __utmLinkerUrl(l,h) {=0A=
+ var p,k,a=3D"-",b=3D"-",c=3D"-",x=3D"-",z=3D"-",v=3D"-";=0A=
+ var dc=3D_ubd.cookie;=0A=
+ var iq =3D l.indexOf("?");=0A=
+ var ih =3D l.indexOf("#");=0A=
+ var url=3Dl;=0A=
+ if (dc) {=0A=
+  a=3D_uES(_uGC(dc,"__utma=3D"+_udh+".",";"));=0A=
+  b=3D_uES(_uGC(dc,"__utmb=3D"+_udh,";"));=0A=
+  c=3D_uES(_uGC(dc,"__utmc=3D"+_udh,";"));=0A=
+  x=3D_uES(_uGC(dc,"__utmx=3D"+_udh,";"));=0A=
+  z=3D_uES(_uGC(dc,"__utmz=3D"+_udh+".",";"));=0A=
+  v=3D_uES(_uGC(dc,"__utmv=3D"+_udh+".",";"));=0A=
+  k=3D(_uHash(a+b+c+x+z+v)*1)+(_udh*1);=0A=
+  =
+p=3D"__utma=3D"+a+"&__utmb=3D"+b+"&__utmc=3D"+c+"&__utmx=3D"+x+"&__utmz=3D=
+"+z+"&__utmv=3D"+v+"&__utmk=3D"+k;=0A=
+ }=0A=
+ if (p) {=0A=
+  if (h && ih>-1) return;=0A=
+  if (h) { url=3Dl+"#"+p; }=0A=
+  else {=0A=
+   if (iq=3D=3D-1 && ih=3D=3D-1) url=3Dl+"?"+p;=0A=
+   else if (ih=3D=3D-1) url=3Dl+"&"+p;=0A=
+   else if (iq=3D=3D-1) url=3Dl.substring(0,ih-1)+"?"+p+l.substring(ih);=0A=
+   else url=3Dl.substring(0,ih-1)+"&"+p+l.substring(ih);=0A=
+  }=0A=
+ }=0A=
+ return url;=0A=
+}=0A=
+function __utmLinker(l,h) {=0A=
+ if (!_ulink || !l || l=3D=3D"") return;=0A=
+ _udl.href=3D__utmLinkerUrl(l,h);=0A=
+}=0A=
+function __utmLinkPost(f,h) {=0A=
+ if (!_ulink || !f || !f.action) return;=0A=
+ f.action=3D__utmLinkerUrl(f.action, h);=0A=
+ return;=0A=
+}=0A=
+function __utmSetVar(v) {=0A=
+ if (!v || v=3D=3D"") return;=0A=
+ if (!_udo || _udo =3D=3D "") {=0A=
+  _udh=3D_uDomain();=0A=
+  if (_udn && _udn!=3D"") { _udo=3D" domain=3D"+_udn+";"; }=0A=
+ }=0A=
+ if (!_uVG()) return;=0A=
+ var r=3DMath.round(Math.random() * 2147483647);=0A=
+ _ubd.cookie=3D"__utmv=3D"+_udh+"."+_uES(v)+"; path=3D"+_utcp+"; =
+expires=3D"+_uNx()+";"+_udo;=0A=
+ var s=3D"&utmt=3Dvar&utmn=3D"+r;=0A=
+ if (_usample && _usample !=3D 100) s+=3D"&utmsp=3D"+_uES(_usample);=0A=
+ if ((_userv=3D=3D0 || _userv=3D=3D2) && _uSP()) {=0A=
+  var i=3Dnew Image(1,1);=0A=
+  i.src=3D_ugifpath+"?"+"utmwv=3D"+_uwv+s;=0A=
+  i.onload=3Dfunction() { _uVoid(); }=0A=
+ }=0A=
+ if ((_userv=3D=3D1 || _userv=3D=3D2) && _uSP()) {=0A=
+  var i2=3Dnew Image(1,1);=0A=
+  =
+i2.src=3D_ugifpath2+"?"+"utmwv=3D"+_uwv+s+"&utmac=3D"+_uacct+"&utmcc=3D"+=
+_uGCS();=0A=
+  i2.onload=3Dfunction() { _uVoid(); }=0A=
+ }=0A=
+}=0A=
+function _uGCS() {=0A=
+ var t,c=3D"",dc=3D_ubd.cookie;=0A=
+ if ((t=3D_uGC(dc,"__utma=3D"+_udh+".",";"))!=3D"-") =
+c+=3D_uES("__utma=3D"+t+";+");=0A=
+ if ((t=3D_uGC(dc,"__utmx=3D"+_udh,";"))!=3D"-") =
+c+=3D_uES("__utmx=3D"+t+";+");=0A=
+ if ((t=3D_uGC(dc,"__utmz=3D"+_udh+".",";"))!=3D"-") =
+c+=3D_uES("__utmz=3D"+t+";+");=0A=
+ if ((t=3D_uGC(dc,"__utmv=3D"+_udh+".",";"))!=3D"-") =
+c+=3D_uES("__utmv=3D"+t+";");=0A=
+ if (c.charAt(c.length-1)=3D=3D"+") c=3Dc.substring(0,c.length-1);=0A=
+ return c;=0A=
+}=0A=
+function _uGC(l,n,s) {=0A=
+ if (!l || l=3D=3D"" || !n || n=3D=3D"" || !s || s=3D=3D"") return "-";=0A=
+ var i,i2,i3,c=3D"-";=0A=
+ i=3Dl.indexOf(n);=0A=
+ i3=3Dn.indexOf("=3D")+1;=0A=
+ if (i > -1) {=0A=
+  i2=3Dl.indexOf(s,i); if (i2 < 0) { i2=3Dl.length; }=0A=
+  c=3Dl.substring((i+i3),i2);=0A=
+ }=0A=
+ return c;=0A=
+}=0A=
+function _uDomain() {=0A=
+ if (!_udn || _udn=3D=3D"" || _udn=3D=3D"none") { _udn=3D""; return 1; }=0A=
+ if (_udn=3D=3D"auto") {=0A=
+  var d=3D_ubd.domain;=0A=
+  if (d.substring(0,4)=3D=3D"www.") {=0A=
+   d=3Dd.substring(4,d.length);=0A=
+  }=0A=
+  _udn=3Dd;=0A=
+ }=0A=
+ _udn =3D _udn.toLowerCase(); =0A=
+ if (_uhash=3D=3D"off") return 1;=0A=
+ return _uHash(_udn);=0A=
+}=0A=
+function _uHash(d) {=0A=
+ if (!d || d=3D=3D"") return 1;=0A=
+ var h=3D0,g=3D0;=0A=
+ for (var i=3Dd.length-1;i>=3D0;i--) {=0A=
+  var c=3DparseInt(d.charCodeAt(i));=0A=
+  h=3D((h << 6) & 0xfffffff) + c + (c << 14);=0A=
+  if ((g=3Dh & 0xfe00000)!=3D0) h=3D(h ^ (g >> 21));=0A=
+ }=0A=
+ return h;=0A=
+}=0A=
+function _uFixA(c,s,t) {=0A=
+ if (!c || c=3D=3D"" || !s || s=3D=3D"" || !t || t=3D=3D"") return "-";=0A=
+ var a=3D_uGC(c,"__utma=3D"+_udh+".",s);=0A=
+ var lt=3D0,i=3D0;=0A=
+ if ((i=3Da.lastIndexOf(".")) > 9) {=0A=
+  _uns=3Da.substring(i+1,a.length);=0A=
+  _uns=3D(_uns*1)+1;=0A=
+  a=3Da.substring(0,i);=0A=
+  if ((i=3Da.lastIndexOf(".")) > 7) {=0A=
+   lt=3Da.substring(i+1,a.length);=0A=
+   a=3Da.substring(0,i);=0A=
+  }=0A=
+  if ((i=3Da.lastIndexOf(".")) > 5) {=0A=
+   a=3Da.substring(0,i);=0A=
+  }=0A=
+  a+=3D"."+lt+"."+t+"."+_uns;=0A=
+ }=0A=
+ return a;=0A=
+}=0A=
+function _uTrim(s) {=0A=
+  if (!s || s=3D=3D"") return "";=0A=
+  while ((s.charAt(0)=3D=3D' ') || (s.charAt(0)=3D=3D'\n') || =
+(s.charAt(0,1)=3D=3D'\r')) s=3Ds.substring(1,s.length);=0A=
+  while ((s.charAt(s.length-1)=3D=3D' ') || =
+(s.charAt(s.length-1)=3D=3D'\n') || (s.charAt(s.length-1)=3D=3D'\r')) =
+s=3Ds.substring(0,s.length-1);=0A=
+  return s;=0A=
+}=0A=
+function _uEC(s) {=0A=
+  var n=3D"";=0A=
+  if (!s || s=3D=3D"") return "";=0A=
+  for (var i=3D0;i<s.length;i++) {if (s.charAt(i)=3D=3D" ") n+=3D"+"; =
+else n+=3Ds.charAt(i);}=0A=
+  return n;=0A=
+}=0A=
+function __utmVisitorCode(f) {=0A=
+ var r=3D0,t=3D0,i=3D0,i2=3D0,m=3D31;=0A=
+ var a=3D_uGC(_ubd.cookie,"__utma=3D"+_udh+".",";");=0A=
+ if ((i=3Da.indexOf(".",0))<0) return;=0A=
+ if ((i2=3Da.indexOf(".",i+1))>0) r=3Da.substring(i+1,i2); else return =
+"";  =0A=
+ if ((i=3Da.indexOf(".",i2+1))>0) t=3Da.substring(i2+1,i); else return =
+"";  =0A=
+ if (f) {=0A=
+  return r;=0A=
+ } else {=0A=
+  var c=3Dnew =
+Array('A','B','C','D','E','F','G','H','J','K','L','M','N','P','R','S','T'=
+,'U','V','W','X','Y','Z','1','2','3','4','5','6','7','8','9');=0A=
+  return =
+c[r>>28&m]+c[r>>23&m]+c[r>>18&m]+c[r>>13&m]+"-"+c[r>>8&m]+c[r>>3&m]+c[((r=
+&7)<<2)+(t>>30&3)]+c[t>>25&m]+c[t>>20&m]+"-"+c[t>>15&m]+c[t>>10&m]+c[t>>5=
+&m]+c[t&m];=0A=
+ }=0A=
+}=0A=
+function _uIN(n) {=0A=
+ if (!n) return false;=0A=
+ for (var i=3D0;i<n.length;i++) {=0A=
+  var c=3Dn.charAt(i);=0A=
+  if ((c<"0" || c>"9") && (c!=3D".")) return false;=0A=
+ }=0A=
+ return true;=0A=
+}=0A=
+function _uES(s,u) {=0A=
+ if (typeof(encodeURIComponent) =3D=3D 'function') {=0A=
+  if (u) return encodeURI(s);=0A=
+  else return encodeURIComponent(s);=0A=
+ } else {=0A=
+  return escape(s);=0A=
+ }=0A=
+}=0A=
+function _uUES(s) {=0A=
+ if (typeof(decodeURIComponent) =3D=3D 'function') {=0A=
+  return decodeURIComponent(s);=0A=
+ } else {=0A=
+  return unescape(s);=0A=
+ }=0A=
+}=0A=
+function _uVG() {=0A=
+ if((_udn.indexOf("www.google.") =3D=3D 0 || _udn.indexOf(".google.") =
+=3D=3D 0 || _udn.indexOf("google.") =3D=3D 0) && _utcp=3D=3D'/' && =
+_udn.indexOf("google.org")=3D=3D-1) {=0A=
+  return false;=0A=
+ }=0A=
+ return true;=0A=
+}=0A=
+function _uSP() {=0A=
+ var s=3D100;=0A=
+ if (_usample) s=3D_usample;=0A=
+ if(s>=3D100 || s<=3D0) return true;=0A=
+ return ((__utmVisitorCode(1)%10000)<(s*100));=0A=
+}=0A=
+function urchinPathCopy(p){=0A=
+ var d=3Ddocument,nx,tx,sx,i,c,cs,t,h,o;=0A=
+ cs=3Dnew Array("a","b","c","v","x","z");=0A=
+ h=3D_uDomain(); if (_udn && _udn!=3D"") o=3D" domain=3D"+_udn+";";=0A=
+ nx=3D_uNx()+";";=0A=
+ tx=3Dnew Date(); tx.setTime(tx.getTime()+(_utimeout*1000));=0A=
+ tx=3Dtx.toGMTString()+";";=0A=
+ sx=3Dnew Date(); sx.setTime(sx.getTime()+(_ucto*1000));=0A=
+ sx=3Dsx.toGMTString()+";";=0A=
+ for (i=3D0;i<6;i++){=0A=
+  t=3D" expires=3D";=0A=
+  if (i=3D=3D1) t+=3Dtx; else if (i=3D=3D2) t=3D""; else if (i=3D=3D5) =
+t+=3Dsx; else t+=3Dnx;=0A=
+  c=3D_uGC(d.cookie,"__utm"+cs[i]+"=3D"+h,";");=0A=
+  if (c!=3D"-") d.cookie=3D"__utm"+cs[i]+"=3D"+c+"; path=3D"+p+";"+t+o;=0A=
+ }=0A=
+}=0A=
+function _uCO() {=0A=
+ if (!_utk || _utk=3D=3D"" || _utk.length<10) return;=0A=
+ var d=3D'www.google.com';=0A=
+ if (_utk.charAt(0)=3D=3D'!') d=3D'analytics.corp.google.com';=0A=
+ _ubd.cookie=3D"GASO=3D"+_utk+"; path=3D"+_utcp+";"+_udo;=0A=
+ var sc=3Ddocument.createElement('script');=0A=
+ sc.type=3D'text/javascript';=0A=
+ sc.id=3D"_gasojs";=0A=
+ =
+sc.src=3D'https://'+d+'/analytics/reporting/overlay_js?gaso=3D'+_utk+'&'+=
+Math.random();=0A=
+ document.getElementsByTagName('head')[0].appendChild(sc);  =0A=
+}=0A=
+function _uGT() {=0A=
+ var h=3Dlocation.hash, a;=0A=
+ if (h && h!=3D"" && h.indexOf("#gaso=3D")=3D=3D0) {=0A=
+  a=3D_uGC(h,"gaso=3D","&");=0A=
+ } else {=0A=
+  a=3D_uGC(_ubd.cookie,"GASO=3D",";");=0A=
+ }=0A=
+ return a;=0A=
+}=0A=
+var _utk=3D_uGT();=0A=
+if (_utk && _utk!=3D"" && _utk.length>10 && _utk.indexOf("=3D")=3D=3D-1) =
+{=0A=
+ if (window.addEventListener) {=0A=
+  window.addEventListener('load', _uCO, false); =0A=
+ } else if (window.attachEvent) { =0A=
+  window.attachEvent('onload', _uCO);=0A=
+ }=0A=
+}=0A=
+=0A=
+function _uNx() {=0A=
+  return (new Date((new Date()).getTime()+63072000000)).toGMTString();=0A=
+}=0A=
+
+------=_NextPart_000_0000_01CB33D6.7E13DD00--
