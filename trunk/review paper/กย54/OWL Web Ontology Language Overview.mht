@@ -1,0 +1,2203 @@
+From: <Saved by Windows Internet Explorer 7>
+Subject: OWL Web Ontology Language Overview
+Date: Fri, 23 Sep 2011 15:14:06 +0700
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----=_NextPart_000_0133_01CC7A03.6FF5EBE0"
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.3028
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0133_01CC7A03.6FF5EBE0
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://www.w3.org/TR/owl-features/
+
+=EF=BB=BF<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" =
+"http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd">
+<HTML xmlns=3D"http://www.w3.org/1999/xhtml"><HEAD><TITLE>OWL Web =
+Ontology Language Overview</TITLE>
+<META http-equiv=3DContent-Type content=3D"text/html; charset=3Dutf-8">
+<STYLE type=3Dtext/css>.PrePublicationWarning {
+	PADDING-RIGHT: 1em; PADDING-LEFT: 1em; FONT-WEIGHT: bold; =
+BORDER-LEFT-COLOR: black; BACKGROUND: yellow; BORDER-BOTTOM-COLOR: =
+black; PADDING-BOTTOM: 1em; MARGIN: 1em 0em; BORDER-TOP-STYLE: double; =
+BORDER-TOP-COLOR: black; PADDING-TOP: 1em; BORDER-RIGHT-STYLE: double; =
+BORDER-LEFT-STYLE: double; BORDER-RIGHT-COLOR: black; =
+BORDER-BOTTOM-STYLE: double
+}
+</STYLE>
+<LINK href=3D"http://www.w3.org/StyleSheets/TR/W3C-REC" type=3Dtext/css=20
+rel=3Dstylesheet>
+<META content=3D"$Id: Overview.html,v 1.11 2009/11/13 14:31:48 bertails =
+Exp $"=20
+name=3DRCSId>
+<META content=3D"MSHTML 6.00.6000.16414" name=3DGENERATOR></HEAD>
+<BODY lang=3DEN>
+<DIV class=3Dhead><A href=3D"http://www.w3.org/"><IMG height=3D48 =
+alt=3DW3C=20
+src=3D"http://www.w3.org/Icons/w3c_home" width=3D72></A>=20
+<H1 id=3DmainTitle>OWL Web Ontology Language<BR>Overview </H1>
+<H2><A id=3Dw3c-doctype name=3Dw3c-doctype></A>W3C Recommendation 10 =
+February 2004=20
+</H2>
+<DIV id=3Dowl_2_notice=20
+style=3D"BORDER-RIGHT: black 1px solid; PADDING-RIGHT: 0.5em; =
+BORDER-TOP: black 1px solid; PADDING-LEFT: 0.5em; BACKGROUND: #ffb; =
+PADDING-BOTTOM: 0.5em; BORDER-LEFT: black 1px solid; PADDING-TOP: 0.5em; =
+BORDER-BOTTOM: black 1px solid">
+<P style=3D"MARGIN-TOP: 0px; FONT-WEIGHT: bold">New Version Available: =
+OWL 2 <SPAN=20
+style=3D"PADDING-LEFT: 2em"></SPAN>(Document Status Update, 12 November =
+2009)</P>
+<P style=3D"MARGIN-BOTTOM: 0px">The OWL Working Group has produced a W3C =
+
+Recommendation for a new version of OWL which adds features to this 2004 =
+
+version, while remaining compatible. Please see <A=20
+href=3D"http://www.w3.org/TR/owl2-overview">OWL 2 Document Overview</A> =
+for an=20
+introduction to OWL 2 and a guide to the OWL 2 document set.</P></DIV>
+<DL>
+  <DT>This version:=20
+  <DD><A=20
+  =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/">http://www.=
+w3.org/TR/2004/REC-owl-features-20040210/</A>=20
+
+  <DT>Latest version:=20
+  <DD><A=20
+  =
+href=3D"http://www.w3.org/TR/owl-features/">http://www.w3.org/TR/owl-feat=
+ures/</A>=20
+
+  <DT>Previous version:=20
+  <DD><A=20
+  =
+href=3D"http://www.w3.org/TR/2003/PR-owl-features-20031215/">http://www.w=
+3.org/TR/2003/PR-owl-features-20031215/</A>=20
+
+  <DT>Editors:=20
+  <DD>Deborah L. McGuinness (Knowledge Systems Laboratory, Stanford =
+University)=20
+  <IMG alt=3D"d l m at k s l dot stanford dot edu"=20
+  =
+src=3D"http://www.w3.org/2001/sw/WebOnt/guide-src/Email.Deborah.McGuinnes=
+s.gif"=20
+  align=3Dmiddle><BR>
+  <DD>Frank van Harmelen (Vrije Universiteit, Amsterdam)=20
+  Frank.van.Harmelen@cs.vu.nl </DD></DL>
+<P>Please refer to the <A=20
+href=3D"http://www.w3.org/2001/sw/WebOnt/errata#owl-features"><STRONG>err=
+ata</STRONG></A>=20
+for this document, which may include some normative corrections.</P>
+<P>See also <A=20
+href=3D"http://www.w3.org/2001/sw/RDFCore/translation/owl-features">trans=
+lations</A>.</P>
+<P class=3Dcopyright><A=20
+href=3D"http://www.w3.org/Consortium/Legal/ipr-notice#Copyright">Copyrigh=
+t</A> =C2=A9=20
+2004 <A href=3D"http://www.w3.org/"><ACRONYM=20
+title=3D"World Wide Web&#10;                  =
+Consortium">W3C</ACRONYM></A><SUP>=C2=AE</SUP>=20
+(<A href=3D"http://www.csail.mit.edu/"><ACRONYM=20
+title=3D"Massachusetts Institute of Technology">MIT</ACRONYM></A>, <A=20
+href=3D"http://www.ercim.org/"><ACRONYM=20
+title=3D"European Research&#10;                  Consortium for =
+Informatics and Mathematics">ERCIM</ACRONYM></A>,=20
+<A href=3D"http://www.keio.ac.jp/">Keio</A>), All Rights Reserved. W3C =
+<A=20
+href=3D"http://www.w3.org/Consortium/Legal/ipr-notice#Legal_Disclaimer">l=
+iability</A>,=20
+<A=20
+href=3D"http://www.w3.org/Consortium/Legal/ipr-notice#W3C_Trademarks">tra=
+demark</A>,=20
+<A =
+href=3D"http://www.w3.org/Consortium/Legal/copyright-documents">document =
+
+use</A> and <A=20
+href=3D"http://www.w3.org/Consortium/Legal/copyright-software">software=20
+licensing</A> rules apply. </P>
+<HR title=3D"Separator for header">
+</DIV>
+<H2><A id=3Dabstract name=3Dabstract>Abstract</A> </H2>
+<P>The OWL Web Ontology Language is designed for use by applications =
+that need=20
+to process the content of information instead of just presenting =
+information to=20
+humans. OWL facilitates greater machine interpretability of Web content =
+than=20
+that supported by XML, RDF, and RDF Schema (RDF-S) by providing =
+additional=20
+vocabulary along with a formal semantics. OWL has three =
+increasingly-expressive=20
+sublanguages: OWL Lite, OWL DL, and OWL Full. </P>
+<P>This document is written for readers who want a first impression of =
+the=20
+capabilities of OWL. It provides an introduction to OWL by informally =
+describing=20
+the features of each of the sublanguages of OWL. Some knowledge of <A=20
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#ref-rdf-sche=
+ma">RDF=20
+Schema</A> is useful for understanding this document, but not essential. =
+After=20
+this document, interested readers may turn to the <A=20
+href=3D"http://www.w3.org/TR/owl-guide/">OWL Guide</A> for more detailed =
+
+descriptions and extensive examples on the features of OWL. The =
+normative formal=20
+definition of OWL can be found in the <A=20
+href=3D"http://www.w3.org/TR/owl-semantics/">OWL Semantics and Abstract=20
+Syntax</A>. </P>
+<H2><A id=3Dstatus name=3Dstatus></A>Status of this document </H2>
+<DIV class=3Dstatus><!-- Start Status-Of-This-Document Text -->
+<P>This document has been reviewed by W3C Members and other interested =
+parties,=20
+and it has been endorsed by the Director as a <A=20
+href=3D"http://www.w3.org/2003/06/Process-20030618/tr.html#RecsW3C">W3C=20
+Recommendation</A>. W3C's role in making the Recommendation is to draw =
+attention=20
+to the specification and to promote its widespread deployment. This =
+enhances the=20
+functionality and interoperability of the Web.</P>
+<P>This is one of <A=20
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#s1.1">six =
+parts</A>=20
+of the W3C Recommendation for OWL, the Web Ontology Language. It has =
+been=20
+developed by the <A href=3D"http://www.w3.org/2001/sw/WebOnt/">Web =
+Ontology=20
+Working Group</A> as part of the <A =
+href=3D"http://www.w3.org/2001/sw/">W3C=20
+Semantic Web Activity</A> (<A =
+href=3D"http://www.w3.org/2001/sw/Activity">Activity=20
+Statement</A>, <A =
+href=3D"http://www.w3.org/2001/sw/WebOnt/charter">Group=20
+Charter</A>) for publication on 10 February 2004. </P>
+<P>The design of OWL expressed in earlier versions of these documents =
+has been=20
+widely reviewed and satisfies the Working Group's <A=20
+href=3D"http://www.w3.org/TR/webont-req/">technical requirements</A>. =
+The Working=20
+Group has addressed <A=20
+href=3D"http://lists.w3.org/Archives/Public/public-webont-comments/">all =
+comments=20
+received</A>, making changes as necessary. Changes to this document =
+since <A=20
+href=3D"http://www.w3.org/TR/2003/PR-owl-features-20031215/">the =
+Proposed=20
+Recommendation version</A> are detailed in the <A=20
+href=3D"http://www.w3.org/TR/owl-features/#changes-since-PR">change =
+log</A>.</P>
+<P>Comments are welcome at <A=20
+href=3D"mailto:public-webont-comments@w3.org">public-webont-comments@w3.o=
+rg</A>=20
+(<A=20
+href=3D"http://lists.w3.org/Archives/Public/public-webont-comments/">arch=
+ive</A>)=20
+and general discussion of related technology is welcome at <A=20
+href=3D"mailto:www-rdf-logic@w3.org">www-rdf-logic@w3.org</A> (<A=20
+href=3D"http://lists.w3.org/Archives/Public/www-rdf-logic/"=20
+shape=3Drect>archive</A>). </P>
+<P>A list of <A=20
+href=3D"http://www.w3.org/2001/sw/WebOnt/impls">implementations</A> is=20
+available.</P>
+<P>The W3C maintains a list of <A =
+href=3D"http://www.w3.org/2001/sw/WebOnt/discl"=20
+rel=3Ddisclosure>any patent disclosures related to this work</A>. </P>
+<P><EM>This section describes the status of this document at the time of =
+its=20
+publication. Other documents may supersede this document. A list of =
+current W3C=20
+publications and the latest revision of this technical report can be =
+found in=20
+the <A href=3D"http://www.w3.org/TR/">W3C technical reports index</A> at =
+
+http://www.w3.org/TR/.</EM></P><!-- End Status-Of-This-Document Text -->
+<HR>
+</DIV>
+<H2><A id=3Dcontents name=3Dcontents>Table of contents</A> </H2>
+<OL>
+  <LI><A=20
+  =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#s1">Introduc=
+tion</A>=20
+
+  <OL>
+    <LI><A=20
+    =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#s1.1">Docume=
+nt=20
+    Roadmap</A>=20
+    <LI><A =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#s1.2">Why=20
+    OWL?</A>=20
+    <LI><A =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#s1.3">The=20
+    three sublanguages of OWL</A>=20
+    <LI><A =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#s1.4">The=20
+    structure of this document</A> </LI></OL>
+  <LI><A =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#s2">Language=
+=20
+  Synopsis</A>=20
+  <OL>
+    <LI><A =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#s2.1">OWL=20
+    Lite Synopsis</A>=20
+    <LI><A =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#s2.2">OWL=20
+    DL and OWL Full Synopsis</A> </LI></OL>
+  <LI><A =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#s3">Language=
+=20
+  Description of OWL Lite</A>=20
+  <OL>
+    <LI><A =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#s3.1">OWL=20
+    Lite RDF Schema Features</A>=20
+    <LI><A =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#s3.2">OWL=20
+    Lite Equality and Inequality</A>=20
+    <LI><A =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#s3.3">OWL=20
+    Lite Property Characteristics</A>=20
+    <LI><A =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#s3.4">OWL=20
+    Lite Property Restrictions</A>=20
+    <LI><A =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#s3.5">OWL=20
+    Lite Restricted Cardinality</A>=20
+    <LI><A =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#s3.6">OWL=20
+    Lite Class Intersection</A>=20
+    <LI><A =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#s3.7">OWL=20
+    Datatypes</A>=20
+    <LI><A =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#s3.8">OWL=20
+    Lite Header Information</A>=20
+    <LI><A =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#s3.9">OWL=20
+    Lite Annotation Properties</A>=20
+    <LI><A =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#s3.10">OWL=20
+    Lite Versioning</A> </LI></OL>
+  <LI><A=20
+  =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#s4">Incremen=
+tal=20
+  Language Description of OWL DL and OWL Full</A>=20
+  <LI><A=20
+  =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#s5">Summary<=
+/A>=20
+  <LI style=3D"LIST-STYLE-TYPE: none"><BR><A=20
+  =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#s6">Referenc=
+es</A>=20
+  <LI style=3D"LIST-STYLE-TYPE: none"><A=20
+  =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#s7">Acknowle=
+dgements</A>=20
+
+  <LI style=3D"LIST-STYLE-TYPE: none"><A=20
+  =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#s8">Change =
+Log</A>=20
+  </LI></OL>
+<HR>
+
+<H2><A id=3Ds1 name=3Ds1></A>1. Introduction </H2>
+<P>This document describes the OWL Web Ontology Language. OWL is =
+intended to be=20
+used when the information contained in documents needs to be processed =
+by=20
+applications, as opposed to situations where the content only needs to =
+be=20
+presented to humans. OWL can be used to explicitly represent the meaning =
+of=20
+terms in vocabularies and the relationships between those terms. This=20
+representation of terms and their interrelationships is called an =
+ontology. OWL=20
+has more facilities for expressing meaning and semantics than XML, RDF, =
+and=20
+RDF-S, and thus OWL goes beyond these languages in its ability to =
+represent=20
+machine interpretable content on the Web. OWL is a revision of the <A=20
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#DAMLReferenc=
+e">DAML+OIL=20
+web ontology language</A> incorporating lessons learned from the design =
+and=20
+application of DAML+OIL. </P>
+<H3><A id=3Ds1.1 name=3Ds1.1></A>1.1 Document Roadmap </H3>
+<P>The OWL Language is described by a set of documents, each fulfilling =
+a=20
+different purpose, and catering to a different audience. The following =
+provides=20
+a brief roadmap for navigating through this set of documents: </P>
+<UL>
+  <LI>This <A href=3D"http://www.w3.org/TR/owl-features/">OWL =
+Overview</A> gives a=20
+  simple introduction to OWL by providing a language feature listing =
+with very=20
+  brief feature descriptions;=20
+  <LI>The <A href=3D"http://www.w3.org/TR/owl-guide/">OWL Guide</A> =
+demonstrates=20
+  the use of the OWL language by providing an extended example. It also =
+provides=20
+  a <A href=3D"http://www.w3.org/TR/owl-guide/#OWLGlossary">glossary</A> =
+of the=20
+  terminology used in these documents;=20
+  <LI>The <A href=3D"http://www.w3.org/TR/owl-ref/">OWL Reference</A> =
+gives a=20
+  systematic and compact (but still informally stated) description of =
+all the=20
+  modelling primitives of OWL;=20
+  <LI>The <A href=3D"http://www.w3.org/TR/owl-semantics/">OWL Semantics =
+and=20
+  Abstract Syntax</A> document is the final and formally stated =
+normative=20
+  definition of the language;=20
+  <LI>The <A href=3D"http://www.w3.org/TR/owl-test/">OWL Web Ontology =
+Language=20
+  Test Cases</A> document contains a large set of test cases for the =
+language;=20
+  <LI>The <A href=3D"http://www.w3.org/TR/webont-req/">OWL Use Cases and =
+
+  Requirements</A> document contains a set of use cases for a web =
+ontology=20
+  language and compiles a set of requirements for OWL. </LI></UL>The =
+suggested=20
+reading order of the first four documents is as given since they have =
+been=20
+listed in increasing degree of technical content. The last two documents =
+
+complete the documentation set.=20
+<H3><A id=3Ds1.2 name=3Ds1.2></A>1.2 Why OWL? </H3>
+<P>The Semantic Web is a vision for the future of the Web in which =
+information=20
+is given explicit meaning, making it easier for machines to =
+automatically=20
+process and integrate information available on the Web. The Semantic Web =
+will=20
+build on XML's ability to define customized tagging schemes and RDF's =
+flexible=20
+approach to representing data. The first level above RDF required for =
+the=20
+Semantic Web is an ontology language what can formally describe the =
+meaning of=20
+terminology used in Web documents. If machines are expected to perform =
+useful=20
+reasoning tasks on these documents, the language must go beyond the =
+basic=20
+semantics of RDF Schema. The <A =
+href=3D"http://www.w3.org/TR/webont-req/">OWL Use=20
+Cases and Requirements Document</A> provides more <A=20
+href=3D"http://www.w3.org/TR/webont-req/#onto-def">details on =
+ontologies</A>,=20
+motivates the need for a Web Ontology Language in terms of <A=20
+href=3D"http://www.w3.org/TR/webont-req/#section-use-cases">six use =
+cases</A>, and=20
+formulates <A =
+href=3D"http://www.w3.org/TR/webont-req/#section-goals">design=20
+goals</A>, <A=20
+href=3D"http://www.w3.org/TR/webont-req/#section-requirements">requiremen=
+ts</A>=20
+and <A =
+href=3D"http://www.w3.org/TR/webont-req/#section-objectives">objectives</=
+A>=20
+for OWL. </P>
+<P>OWL has been designed to meet this need for a Web Ontology Language. =
+OWL is=20
+part of the growing stack of W3C recommendations related to the Semantic =
+Web.=20
+</P>
+<UL compact>
+  <LI>
+  <P><A href=3D"http://www.w3.org/XML/">XML</A> provides a surface =
+syntax for=20
+  structured documents, but imposes no semantic constraints on the =
+meaning of=20
+  these documents. </P>
+  <LI>
+  <P><A href=3D"http://www.w3.org/XML/Schema">XML Schema</A> is a =
+language for=20
+  restricting the structure of XML documents and also extends XML with=20
+  datatypes. </P>
+  <LI>
+  <P><A =
+href=3D"http://www.w3.org/TR/2002/WD-rdf-concepts-20021108/">RDF</A> is =
+a=20
+  datamodel for objects ("resources") and relations between them, =
+provides a=20
+  simple semantics for this datamodel, and these datamodels can be =
+represented=20
+  in an XML syntax. </P>
+  <LI>
+  <P><A href=3D"http://www.w3.org/TR/2002/WD-rdf-schema-20021112/">RDF =
+Schema</A>=20
+  is a vocabulary for describing properties and classes of RDF =
+resources, with a=20
+  semantics for generalization-hierarchies of such properties and =
+classes. </P>
+  <LI>
+  <P>OWL adds more vocabulary for describing properties and classes: =
+among=20
+  others, relations between classes (e.g. disjointness), cardinality =
+(e.g.=20
+  "exactly one"), equality, richer typing of properties, characteristics =
+of=20
+  properties (e.g. symmetry), and enumerated classes. </P></LI></UL>
+<H3><A id=3Ds1.3 name=3Ds1.3></A>1.3 The three sublanguages of OWL </H3>
+<P>OWL provides three increasingly expressive sublanguages designed for =
+use by=20
+specific communities of implementers and users. </P>
+<UL>
+  <LI>
+  <P><A id=3Dterm_OWLLite name=3Dterm_OWLLite></A><EM>OWL Lite</EM> =
+supports those=20
+  users primarily needing a classification hierarchy and simple =
+constraints. For=20
+  example, while it supports cardinality constraints, it only permits=20
+  cardinality values of 0 or 1. It should be simpler to provide tool =
+support for=20
+  OWL Lite than its more expressive relatives, and OWL Lite provides a =
+quick=20
+  migration path for thesauri and other taxonomies. Owl Lite also has a =
+lower=20
+  formal complexity than OWL DL, see <A=20
+  href=3D"http://www.w3.org/TR/owl-ref/#OWLLite">the section on OWL Lite =
+in the=20
+  OWL Reference</A> for further details. </P>
+  <LI>
+  <P><A id=3Dterm_OWLDL name=3Dterm_OWLDL></A><EM>OWL DL</EM> supports =
+those users=20
+  who want the maximum expressiveness while retaining computational =
+completeness=20
+  (all conclusions are guaranteed to be computable) and decidability =
+(all=20
+  computations will finish in finite time). OWL DL includes all OWL =
+language=20
+  constructs, but they can be used only under certain restrictions (for =
+example,=20
+  while a class may be a subclass of many classes, a class cannot be an =
+instance=20
+  of another class). <!-- FvH: DELETED because too technical=0A=
+                                                    with restrictions =
+such as type separation (a class can not also be an individual or=0A=
+                                                    property, a property =
+can not also be an individual or class).=0A=
+                                                    -->OWL=20
+  DL is so named due to its correspondence with <A=20
+  =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#DescriptionL=
+ogics"><EM>description=20
+  logics</EM></A>, a field of research that has studied the logics that =
+form the=20
+  formal foundation of OWL. </P>
+  <LI>
+  <P><A id=3Dterm_OWLFull name=3Dterm_OWLFull></A><EM>OWL Full</EM> is =
+meant for=20
+  users who want maximum expressiveness and the syntactic freedom of RDF =
+with no=20
+  computational guarantees. For example, in OWL Full a class can be =
+treated=20
+  simultaneously as a collection of individuals and as an individual in =
+its own=20
+  right. OWL Full allows an ontology to augment the meaning of the =
+pre-defined=20
+  (RDF or OWL) vocabulary. It is unlikely that any reasoning software =
+will be=20
+  able to support complete reasoning for every feature of OWL Full. =
+</P></LI></UL>
+<P>Each of these sublanguages is an extension of its simpler =
+predecessor, both=20
+in what can be legally expressed and in what can be validly concluded. =
+The=20
+following set of relations hold. Their inverses do not. </P>
+<UL>
+  <LI>Every legal OWL Lite ontology is a legal OWL DL ontology.=20
+  <LI>Every legal OWL DL ontology is a legal OWL Full ontology.=20
+  <LI>Every valid OWL Lite conclusion is a valid OWL DL conclusion.=20
+  <LI>Every valid OWL DL conclusion is a valid OWL Full conclusion. =
+</LI></UL>
+<P>Ontology developers adopting OWL should consider which sublanguage =
+best suits=20
+their needs. The choice between OWL Lite and OWL DL depends on the =
+extent to=20
+which users require the more-expressive constructs provided by OWL DL. =
+The=20
+choice between OWL DL and OWL Full mainly depends on the extent to which =
+users=20
+require the meta-modeling facilities of RDF Schema (e.g. defining =
+classes of=20
+classes, or attaching properties to classes). When using OWL Full as =
+compared to=20
+OWL DL, reasoning support is less predictable since complete OWL Full=20
+implementations do not currently exist. </P>OWL Full can be viewed as an =
+
+extension of RDF, while OWL Lite and OWL DL can be viewed as extensions =
+of a=20
+restricted view of RDF. Every OWL (Lite, DL, Full) document is an RDF =
+document,=20
+and every RDF document is an OWL Full document, but only some RDF =
+documents will=20
+be a legal OWL Lite or OWL DL document. Because of this, some care has =
+to be=20
+taken when a user wants to migrate an RDF document to OWL. When the=20
+expressiveness of OWL DL or OWL Lite is deemed appropriate, some =
+precautions=20
+have to be taken to ensure that the original RDF document complies with =
+the=20
+additional constraints imposed by OWL DL and OWL Lite. Among others, =
+every URI=20
+that is used as a class name must be explicitly asserted to be of type =
+owl:Class=20
+(and similarly for properties), every individual must be asserted to =
+belong to=20
+at least one class (even if only owl:Thing), the URI's used for classes, =
+
+properties and individuals must be mutually disjoint. The details of =
+these and=20
+other constraints on OWL DL and OWL Lite are explained in <A=20
+href=3D"http://www.w3.org/TR/owl-ref/#app-DLinRDF">appendix E of the OWL =
+
+Reference</A>.=20
+<H3><A id=3Ds1.4 name=3Ds1.4></A>1.4 The structure of this document =
+</H3>
+<P>This document first describes the features in OWL Lite, followed by a =
+
+description of the features that are added in OWL DL and OWL Full (OWL =
+DL and=20
+OWL Full contain the same features, but OWL Full is more liberal about =
+how these=20
+features can be combined). </P>
+<H2><A id=3Ds2 name=3Ds2></A>2. Language Synopsis </H2>This section =
+provides a quick=20
+index to all the language features for OWL Lite, OWL DL, and OWL Full.=20
+<P>In this document, italicized terms are terms in OWL. Prefixes of rdf: =
+or=20
+rdfs: are used when terms are already present in RDF or RDF Schema. =
+Otherwise=20
+terms are introduced by OWL. Thus, the term <I>rdfs:subPropertyOf</I> =
+indicates=20
+that subPropertyOf is already in the rdfs vocabulary (technically : the =
+rdfs=20
+namespace). Also, the term <I>Class</I> is more precisely stated as=20
+<I>owl:Class</I> and is a term introduced by OWL. </P>
+<H3><A id=3Ds2.1 name=3Ds2.1></A>2.1 OWL Lite Synopsis </H3>
+<P>The list of OWL Lite language constructs is given below. </P>
+<TABLE cellSpacing=3D27 width=3D"100%">
+  <TBODY>
+  <TR>
+    <TD class=3Dindex vAlign=3Dtop><B>RDF Schema Features:</B>=20
+      <UL>
+        <LI><I><A=20
+        =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#Class">Class=
+=20
+        (Thing, Nothing)</A></I>=20
+        <LI><I><A=20
+        =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#subClassOf">=
+rdfs:subClassOf</A></I>=20
+
+        <LI><I><A=20
+        =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#property">rd=
+f:Property</A></I>=20
+
+        <LI><I><A=20
+        =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#subPropertyO=
+f">rdfs:subPropertyOf</A></I>=20
+
+        <LI><I><A=20
+        =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#domain">rdfs=
+:domain</A></I>=20
+
+        <LI><I><A=20
+        =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#range">rdfs:=
+range</A></I>=20
+
+        <LI><I><A=20
+        =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#Individual">=
+Individual</A></I>=20
+        </LI></UL></TD>
+    <TD class=3Dindex vAlign=3Dtop><B>(In)Equality:</B>=20
+      <UL>
+        <LI><I><A=20
+        =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#equivalentCl=
+ass">equivalentClass</A></I>=20
+
+        <LI><I><A=20
+        =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#equivalentPr=
+operty">equivalentProperty</A></I>=20
+
+        <LI><I><A=20
+        =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#sameAs">same=
+As</A></I>=20
+
+        <LI><I><A=20
+        =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#differentFro=
+m">differentFrom</A></I>=20
+
+        <LI><I><A=20
+        =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#AllDifferent=
+">AllDifferent</A></I>=20
+
+        <LI><I><A=20
+        =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#AllDifferent=
+">distinctMembers</A></I>=20
+        </LI></UL></TD>
+    <TD class=3Dindex vAlign=3Dtop><B>Property Characteristics:</B>=20
+      <UL>
+        <LI><I><A=20
+        =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#property">Ob=
+jectProperty</A></I>=20
+
+        <LI><I><A=20
+        =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#property">Da=
+tatypeProperty</A></I>=20
+
+        <LI><I><A=20
+        =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#inverseOf">i=
+nverseOf</A></I>=20
+
+        <LI><I><A=20
+        =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#TransitivePr=
+operty">TransitiveProperty</A></I>=20
+
+        <LI><I><A=20
+        =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#SymmetricPro=
+perty">SymmetricProperty</A></I>=20
+
+        <LI><I><A=20
+        =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#FunctionalPr=
+operty">FunctionalProperty</A></I>=20
+
+        <LI><I><A=20
+        =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#InverseFunct=
+ionalProperty">InverseFunctionalProperty</A></I>=20
+        </LI></UL></TD></TR>
+  <TR>
+    <TD class=3Dindex vAlign=3Dtop><B>Property Restrictions:</B>=20
+      <UL>
+        <LI><I><A=20
+        =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#s3.4">Restri=
+ction</A></I>=20
+
+        <LI><I><A=20
+        =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#s3.4">onProp=
+erty</A></I>=20
+
+        <LI><I><A=20
+        =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#allValuesFro=
+m">allValuesFrom</A></I>=20
+
+        <LI><I><A=20
+        =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#someValuesFr=
+om">someValuesFrom</A></I>=20
+        </LI></UL></TD>
+    <TD class=3Dindex vAlign=3Dtop><B>Restricted Cardinality:</B>=20
+      <UL>
+        <LI><I><A=20
+        =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#minCardinali=
+ty">minCardinality</A></I>=20
+        (only 0 or 1)=20
+        <LI><I><A=20
+        =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#maxCardinali=
+ty">maxCardinality</A></I>=20
+        (only 0 or 1)=20
+        <LI><I><A=20
+        =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#Cardinality"=
+>cardinality</A></I>=20
+        (only 0 or 1) </LI></UL></TD>
+    <TD class=3Dindex vAlign=3Dtop><B>Header Information:</B>=20
+      <UL>
+        <LI><I><A=20
+        =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#s3.8">Ontolo=
+gy</A></I>=20
+
+        <LI><I><A=20
+        =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#s3.8">import=
+s</A></I>=20
+        </LI></UL></TD></TR>
+  <TR>
+    <TD class=3Dindex vAlign=3Dtop><B>Class Intersection:</B>=20
+      <UL>
+        <LI><I><A=20
+        =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#intersection=
+Of">intersectionOf</A></I>=20
+        </LI></UL></TD>
+    <TD class=3Dindex vAlign=3Dtop rowSpan=3D2><B>Versioning:</B>=20
+      <UL>
+        <LI><I><A=20
+        =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#s3.10">versi=
+onInfo</A></I>=20
+
+        <LI><I><A=20
+        =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#s3.10">prior=
+Version</A></I>=20
+
+        <LI><I><A=20
+        =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#s3.10">backw=
+ardCompatibleWith</A></I>=20
+
+        <LI><I><A=20
+        =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#s3.10">incom=
+patibleWith</A></I>=20
+
+        <LI><I><A=20
+        =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#s3.10">Depre=
+catedClass</A></I>=20
+
+        <LI><I><A=20
+        =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#s3.10">Depre=
+catedProperty</A></I>=20
+        </LI></UL></TD>
+    <TD class=3Dindex vAlign=3Dtop rowSpan=3D2><B>Annotation =
+Properties:</B>=20
+      <UL>
+        <LI><I><A=20
+        =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#s3.9">rdfs:l=
+abel</A></I>=20
+
+        <LI><I><A=20
+        =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#s3.9">rdfs:c=
+omment</A></I>=20
+
+        <LI><I><A=20
+        =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#s3.9">rdfs:s=
+eeAlso</A></I>=20
+
+        <LI><I><A=20
+        =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#s3.9">rdfs:i=
+sDefinedBy</A></I>=20
+
+        <LI><I><A=20
+        =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#s3.9">Annota=
+tionProperty</A></I>=20
+
+        <LI><I><A=20
+        =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#s3.9">Ontolo=
+gyProperty</A></I>=20
+        </LI></UL></TD></TR>
+  <TR>
+    <TD class=3Dindex vAlign=3Dtop><B>Datatypes</B>=20
+      <UL>
+        <LI><I><A=20
+        =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#s3.7">xsd=20
+        datatypes</A></I> </LI></UL></TD></TR></TBODY></TABLE>
+<H3><A id=3Ds2.2 name=3Ds2.2></A>2.2 OWL DL and Full Synopsis </H3>
+<P>The list of OWL DL and OWL Full language constructs that are in =
+addition to=20
+or expand those of OWL Lite is given below. </P>
+<TABLE cellSpacing=3D30 width=3D"100%">
+  <COLGROUP span=3D4 width=3D1></COLGROUP>
+  <TBODY>
+  <TR>
+    <TD class=3Dindex vAlign=3Dtop><B>Class Axioms:</B>=20
+      <UL>
+        <LI><I><A=20
+        =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#oneOf">oneOf=
+,=20
+        dataRange</A></I>=20
+        <LI><I><A=20
+        =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#disjointWith=
+">disjointWith</A></I>=20
+
+        <LI><I><A=20
+        =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#complexClass=
+Full">equivalentClass</A></I><BR>(applied=20
+        to class expressions)=20
+        <LI><I><A=20
+        =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#complexClass=
+Full">rdfs:subClassOf</A></I><BR>(applied=20
+        to class expressions) </LI></UL></TD>
+    <TD class=3Dindex vAlign=3Dtop><B>Boolean Combinations of Class=20
+      Expressions:</B>=20
+      <UL>
+        <LI><I><A=20
+        =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#booleanFull"=
+>unionOf</A></I>=20
+
+        <LI><I><A=20
+        =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#booleanFull"=
+>complementOf</A></I>=20
+
+        <LI><I><A=20
+        =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#booleanFull"=
+>intersectionOf</A></I>=20
+        </LI></UL></TD></TR></TBODY>
+  <TBODY>
+  <TR>
+    <TD class=3Dindex vAlign=3Dtop><B>Arbitrary Cardinality:</B>=20
+      <UL>
+        <LI><I><A=20
+        =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#cardinalityF=
+ull">minCardinality</A></I>=20
+
+        <LI><I><A=20
+        =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#cardinalityF=
+ull">maxCardinality</A></I>=20
+
+        <LI><I><A=20
+        =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#cardinalityF=
+ull">cardinality</A></I>=20
+        </LI></UL></TD>
+    <TD class=3Dindex vAlign=3Dtop><B>Filler Information:</B>=20
+      <UL>
+        <LI><I><A=20
+        =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#hasValue">ha=
+sValue</A></I>=20
+        </LI></UL></TD></TR></TBODY></TABLE>
+<H2><A id=3Ds3 name=3Ds3></A>3. Language Description of OWL Lite </H2>
+<P>This section provides an informal description of the OWL Lite =
+language=20
+features. We do not discuss the specific syntax of these features (see =
+the <A=20
+href=3D"http://www.w3.org/TR/owl-ref/">OWL Reference</A> for =
+definitions). Each=20
+language feature is hyperlinked to the appropriate place in the <A=20
+href=3D"http://www.w3.org/TR/owl-guide/">OWL Guide</A> for more examples =
+and=20
+guidance on usage. </P>
+<P>OWL Lite uses only some of the OWL language features and has more =
+limitations=20
+on the use of the features than OWL DL or OWL Full. For example, in OWL =
+Lite=20
+classes can only be defined in terms of named superclasses (superclasses =
+cannot=20
+be arbitrary expressions), and only certain kinds of class restrictions =
+can be=20
+used. Equivalence between classes and subclass relationships between =
+classes are=20
+also only allowed between named classes, and not between arbitrary class =
+
+expressions. Similarly, restrictions in OWL Lite use only named classes. =
+OWL=20
+Lite also has a limited notion of cardinality - the only cardinalities =
+allowed=20
+to be explicitly stated are 0 or 1. </P>
+<H3><A id=3Ds3.1 name=3Ds3.1></A>3.1 OWL Lite RDF Schema Features =
+</H3><!-- FvH: now obsolete because of term glossary in Guide=0A=
+                    This document uses the term "individual" to refer =0A=
+                    to objects that belong to classes (e.g., the =
+individual Deborah belongs to the =0A=
+                    class Person) as well as to objects that are =
+datatypes (e.g., the individual 4 is an integer).=0A=
+                    -->
+<P>The following OWL Lite features related to RDF Schema are included. =
+</P>
+<UL>
+  <LI><B><I><A id=3DClass name=3DClass></A><A=20
+  href=3D"http://www.w3.org/TR/owl-guide/#owl_Class">Class</A></I></B>: =
+A class=20
+  defines a group of individuals that belong together because they share =
+some=20
+  properties. For example, Deborah and Frank are both members of the =
+class=20
+  Person. Classes can be organized in a specialization hierarchy using =
+<A=20
+  =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#subClassOf">=
+<I>subClassOf</I></A>.=20
+  There is a built-in most general class named <A=20
+  =
+href=3D"http://www.w3.org/TR/owl-guide/#DefiningSimpleClasses">Thing</A> =
+that is=20
+  the class of all individuals and is a superclass of all OWL classes. =
+There is=20
+  also a built-in most specific class named <A=20
+  =
+href=3D"http://www.w3.org/TR/owl-guide/#DefiningSimpleClasses">Nothing</A=
+> that=20
+  is the class that has no instances and a subclass of all OWL classes.=20
+  <LI><B><I><A id=3DsubClassOf name=3DsubClassOf></A><A=20
+  =
+href=3D"http://www.w3.org/TR/owl-guide/#rdfs_subClassOf">rdfs:subClassOf<=
+/A></I></B>:=20
+  Class hierarchies may be created by making one or more statements that =
+a class=20
+  is a subclass of another class. For example, the class Person could be =
+stated=20
+  to be a subclass of the class Mammal. From this a reasoner can deduce =
+that if=20
+  an individual is a Person, then it is also a Mammal.=20
+  <LI><B><I><A id=3Dproperty name=3Dproperty></A><A=20
+  =
+href=3D"http://www.w3.org/TR/owl-guide/#DefiningProperties">rdf:Property<=
+/A></I></B>:=20
+  Properties can be used to state relationships between individuals or =
+from=20
+  individuals to data values. Examples of properties include hasChild,=20
+  hasRelative, hasSibling, and hasAge. The first three can be used to =
+relate an=20
+  instance of a class Person to another instance of the class Person =
+(and are=20
+  thus occurences of <A=20
+  =
+href=3D"http://www.w3.org/TR/owl-guide/#DefiningProperties">ObjectPropert=
+y</A>),=20
+  and the last (hasAge) can be used to relate an instance of the class =
+Person to=20
+  an instance of the datatype Integer (and is thus an occurence of <A=20
+  =
+href=3D"http://www.w3.org/TR/owl-guide/#DefiningProperties">DatatypePrope=
+rty</A>).=20
+  Both owl:ObjectProperty and owl:DatatypeProperty are <A=20
+  =
+href=3D"http://www.w3.org/TR/owl-ref/#ObjectProperty-def">subclasses</A> =
+of the=20
+  RDF class rdf:Property.=20
+  <LI><B><I><A id=3DsubPropertyOf name=3DsubPropertyOf></A><A=20
+  =
+href=3D"http://www.w3.org/TR/owl-guide/#rdfs_subPropertyOf">rdfs:subPrope=
+rtyOf</A></I></B>:=20
+  Property hierarchies may be created by making one or more statements =
+that a=20
+  property is a subproperty of one or more other properties. For =
+example,=20
+  hasSibling may be stated to be a subproperty of hasRelative. From this =
+a=20
+  reasoner can deduce that if an individual is related to another by the =
+
+  hasSibling property, then it is also related to the other by the =
+hasRelative=20
+  property.=20
+  <LI><B><I><A id=3Ddomain name=3Ddomain></A><A=20
+  =
+href=3D"http://www.w3.org/TR/owl-guide/#term_domain">rdfs:domain</A></I><=
+/B>: A=20
+  domain of a property limits the individuals to which the property can =
+be=20
+  applied. If a property relates an individual to another individual, =
+and the=20
+  property has a class as one of its domains, then the individual must =
+belong to=20
+  the class. For example, the property hasChild may be stated to have =
+the domain=20
+  of Mammal. From this a reasoner can deduce that if Frank hasChild =
+Anna, then=20
+  Frank must be a Mammal. Note that <I>rdfs:domain</I> is called a =
+global=20
+  restriction since the restriction is stated on the property and not =
+just on=20
+  the property when it is associated with a particular class. See the =
+discussion=20
+  below on property restrictions for more information.=20
+  <LI><B><I><A id=3Drange name=3Drange></A><A=20
+  =
+href=3D"http://www.w3.org/TR/owl-guide/#term_range">rdfs:range</A></I></B=
+>: The=20
+  range of a property limits the individuals that the property may have =
+as its=20
+  value. If a property relates an individual to another individual, and =
+the=20
+  property has a class as its range, then the other individual must =
+belong to=20
+  the range class. For example, the property hasChild may be stated to =
+have the=20
+  range of Mammal. From this a reasoner can deduce that if Louise is =
+related to=20
+  Deborah by the hasChild property, (i.e., Deborah is the child of =
+Louise), then=20
+  Deborah is a Mammal. Range is also a global restriction as is domain =
+above.=20
+  Again, see the discussion below on local restrictions (e.g. <A=20
+  =
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#allValuesFro=
+m">AllValuesFrom</A>)=20
+  for more information.=20
+  <LI><B><I><A=20
+  =
+href=3D"http://www.w3.org/TR/owl-guide/#term_individual">Individual</A><A=
+=20
+  id=3DIndividual name=3DIndividual></A></I></B> : Individuals are =
+instances of=20
+  classes, and properties may be used to relate one individual to =
+another. For=20
+  example, an individual named Deborah may be described as an instance =
+of the=20
+  class Person and the property hasEmployer may be used to relate the =
+individual=20
+  Deborah to the individual StanfordUniversity. </LI></UL>
+<H3><A id=3Ds3.2 name=3Ds3.2></A>3.2 OWL Lite Equality and Inequality =
+</H3>The=20
+following OWL Lite features are related to equality or inequality.=20
+<UL>
+  <LI><B><I><A=20
+  =
+href=3D"http://www.w3.org/TR/owl-guide/#owl_equivalentClass">equivalentCl=
+ass</A><A=20
+  id=3DequivalentClass name=3DequivalentClass></A></I></B> : Two classes =
+may be=20
+  stated to be equivalent. Equivalent classes have the same instances. =
+Equality=20
+  can be used to create synonymous classes. For example, Car can be =
+stated to be=20
+  <I>equivalentClass</I> to Automobile. From this a reasoner can deduce =
+that any=20
+  individual that is an instance of Car is also an instance of =
+Automobile and=20
+  vice versa.=20
+  <LI><B><I><A id=3DequivalentProperty name=3DequivalentProperty></A><A=20
+  =
+href=3D"http://www.w3.org/TR/owl-guide/#owl_equivalentProperty">equivalen=
+tProperty</A></I></B>:=20
+  Two properties may be stated to be equivalent. Equivalent properties =
+relate=20
+  one individual to the same set of other individuals. Equality may be =
+used to=20
+  create synonymous properties. For example, hasLeader may be stated to =
+be the=20
+  <I>equivalentProperty</I> to hasHead. From this a reasoner can deduce =
+that if=20
+  X is related to Y by the property hasLeader, X is also related to Y by =
+the=20
+  property hasHead and vice versa. A reasoner can also deduce that =
+hasLeader is=20
+  a subproperty of hasHead and hasHead is a subProperty of hasLeader.=20
+  <LI><A id=3DsameAs name=3DsameAs></A><B><I><A=20
+  =
+href=3D"http://www.w3.org/TR/owl-guide/#owl_sameAs">sameAs</A></I></B>: =
+Two=20
+  individuals may be stated to be the same. These constructs may be used =
+to=20
+  create a number of different names that refer to the same individual. =
+For=20
+  example, the individual Deborah may be stated to be the same =
+individual as=20
+  DeborahMcGuinness.=20
+  <LI><B><I><A id=3DdifferentFrom name=3DdifferentFrom></A><A=20
+  =
+href=3D"http://www.w3.org/TR/owl-guide/#differentFrom">differentFrom</A><=
+/I></B>:=20
+  An individual may be stated to be different from other individuals. =
+For=20
+  example, the individual Frank may be stated to be different from the=20
+  individuals Deborah and Jim. Thus, if the individuals Frank and =
+Deborah are=20
+  both values for a property that is stated to be functional (thus the =
+property=20
+  has at most one value), then there is a contradiction. Explicitly =
+stating that=20
+  individuals are different can be important in when using languages =
+such as OWL=20
+  (and RDF) that do not assume that individuals have one and only one =
+name. For=20
+  example, with no additional information, a reasoner will not deduce =
+that Frank=20
+  and Deborah refer to distinct individuals.=20
+  <LI><B><I><A id=3DAllDifferent name=3DAllDifferent></A><A=20
+  =
+href=3D"http://www.w3.org/TR/owl-guide/#owl_AllDifferent">AllDifferent</A=
+></I></B>:=20
+  A number of individuals may be stated to be mutually distinct in one=20
+  AllDifferent statement. For example, Frank, Deborah, and Jim could be =
+stated=20
+  to be mutually distinct using the AllDifferent construct. Unlike the=20
+  differentFrom statement above, this would also enforce that Jim and =
+Deborah=20
+  are distinct (not just that Frank is distinct from Deborah and Frank =
+is=20
+  distinct from Jim). The AllDifferent construct is particularly useful =
+when=20
+  there are sets of distinct objects and when modelers are interested in =
+
+  enforcing the unique names assumption within those sets of objects. It =
+is used=20
+  in conjunction with <A=20
+  =
+href=3D"http://www.w3.org/TR/owl-guide/#owl_distinctMembers">distinctMemb=
+ers</A>=20
+  to state that all members of a list are distinct and pairwise =
+disjoint.=20
+</LI></UL>
+<H3><A id=3Ds3.3 name=3Ds3.3></A>3.3 OWL Lite Property Characteristics =
+</H3>There=20
+are special identifiers in OWL Lite that are used to provide information =
+
+concerning properties and their values. The distinction between =
+ObjectProperty=20
+and DatatypeProperty is mentioned <A=20
+href=3D"http://www.w3.org/TR/2004/REC-owl-features-20040210/#property">ab=
+ove</A>=20
+in the property description.=20
+<UL>
+  <LI><B><I><A id=3DinverseOf name=3DinverseOf></A><A=20
+  =
+href=3D"http://www.w3.org/TR/owl-guide/#owl_inverseOf">inverseOf</A></I><=
+/B>:=20
+  One property may be stated to be the inverse of another property. If =
+the=20
+  property P1 is stated to be the inverse of the property P2, then if X =
+is=20
+  related to Y by the P2 property, then Y is related to X by the P1 =
+property.=20
+  For example, if hasChild is the inverse of hasParent and Deborah =
+hasParent=20
+  Louise, then a reasoner can deduce that Louise hasChild Deborah.=20
+  <LI><B><I><A id=3DTransitiveProperty name=3DTransitiveProperty></A><A=20
+  =
+href=3D"http://www.w3.org/TR/owl-guide/#owl_TransitiveProperty">Transitiv=
+eProperty</A></I></B>:=20
+  Properties may be stated to be transitive. If a property is =
+transitive, then=20
+  if the pair (x,y) is an instance of the transitive property P, and the =
+pair=20
+  (y,z) is an instance of P, then the pair (x,z) is also an instance of =
+P. For=20
+  example, if ancestor is stated to be transitive, and if Sara is an =
+ancestor of=20
+  Louise (i.e., (Sara,Louise) is an instance of the property ancestor) =
+and=20
+  Louise is an ancestor of Deborah (i.e., (Louise,Deborah) is an =
+instance of the=20
+  property ancestor), then a reasoner can deduce that Sara is an =
+ancestor of=20
+  Deborah (i.e., (Sara,Deborah) is an instance of the property =
+ancestor).<BR>OWL=20
+  Lite (and OWL DL) impose the side condition that transitive properties =
+(and=20
+  their superproperties) cannot have a maxCardinality 1 restriction. =
+Without=20
+  this side-condition, OWL Lite and OWL DL would become undecidable =
+languages.=20
+  See the property axiom section of the <A=20
+  href=3D"http://www.w3.org/TR/owl-semantics/">OWL Semantics and =
+Abstract=20
+  Syntax</A> document for more information.=20
+  <LI><B><I><A id=3DSymmetricProperty name=3DSymmetricProperty></A><A=20
+  =
+href=3D"http://www.w3.org/TR/owl-guide/#owl_SymmetricProperty">SymmetricP=
+roperty</A></I></B>:=20
+  Properties may be stated to be symmetric. If a property is symmetric, =
+then if=20
+  the pair (x,y) is an instance of the symmetric property P, then the =
+pair (y,x)=20
+  is also an instance of P. For example, friend may be stated to be a =
+symmetric=20
+  property. Then a reasoner that is given that Frank is a friend of =
+Deborah can=20
+  deduce that Deborah is a friend of Frank.=20
+  <LI><B><I><A id=3DFunctionalProperty name=3DFunctionalProperty></A><A=20
+  =
+href=3D"http://www.w3.org/TR/owl-guide/#owl_FunctionalProperty">Functiona=
+lProperty</A></I></B>=20
+  : Properties may be stated to have a unique value. If a property is a=20
+  FunctionalProperty, then it has no more than one value for each =
+individual (it=20
+  may have no values for an individual). This characteristic has been =
+referred=20
+  to as having a unique property. FunctionalProperty is shorthand for =
+stating=20
+  that the property's minimum cardinality is zero and its maximum =
+cardinality is=20
+  1. For example, hasPrimaryEmployer may be stated to be a =
+FunctionalProperty.=20
+  From this a reasoner may deduce that no individual may have more than =
+one=20
+  primary employer. This does not imply that every Person must have at =
+least one=20
+  primary employer however.=20
+  <LI><B><I><A id=3DInverseFunctionalProperty=20
+  name=3DInverseFunctionalProperty></A><A=20
+  =
+href=3D"http://www.w3.org/TR/owl-guide/#owl_InverseFunctionalProperty">In=
+verseFunctionalProperty</A></I></B>:=20
+  Properties may be stated to be inverse functional. If a property is =
+inverse=20
+  functional then the inverse of the property is functional. Thus the =
+inverse of=20
+  the property has at most one value for each individual. This =
+characteristic=20
+  has also been referred to as an unambiguous property. For example,=20
+  hasUSSocialSecurityNumber (a unique identifier for United States =
+residents)=20
+  may be stated to be inverse functional (or unambiguous). The inverse =
+of this=20
+  property (which may be referred to as isTheSocialSecurityNumberFor) =
+has at=20
+  most one value for any individual in the class of social security =
+numbers.=20
+  Thus any one person's social security number is the only value for =
+their=20
+  isTheSocialSecurityNumberFor property. From this a reasoner can deduce =
+that no=20
+  two different individual instances of Person have the identical US =
+Social=20
+  Security Number. Also, a reasoner can deduce that if two instances of =
+Person=20
+  have the same social security number, then those two instances refer =
+to the=20
+  same individual. </LI></UL>
+<H3><A id=3Ds3.4 name=3Ds3.4></A>3.4 OWL Lite Property Restrictions =
+</H3>OWL Lite=20
+allows restrictions to be placed on how properties can be used by =
+instances of a=20
+class. These type (and the cardinality restrictions in the next =
+subsection) are=20
+used within the context of an <A=20
+href=3D"http://www.w3.org/TR/owl-guide/#PropertyRestrictions">owl:Restric=
+tion</A>.=20
+The <A=20
+href=3D"http://www.w3.org/TR/owl-guide/#PropertyRestrictions">owl:onPrope=
+rty</A>=20
+element indicates the restricted property. The following two =
+restrictions limit=20
+which values can be used while the next section's restrictions limit how =
+many=20
+values can be used.=20
+<UL>
+  <LI><B><I><A id=3DallValuesFrom name=3DallValuesFrom></A><A=20
+  =
+href=3D"http://www.w3.org/TR/owl-guide/#owl_allValuesFrom">allValuesFrom<=
+/A></I></B>:=20
+  The restriction allValuesFrom is stated on a property with respect to =
+a class.=20
+  It means that this property on this particular class has a local range =
+
+  restriction associated with it. Thus if an instance of the class is =
+related by=20
+  the property to a second individual, then the second individual can be =
+
+  inferred to be an instance of the local range restriction class. For =
+example,=20
+  the class Person may have a property called hasDaughter restricted to =
+have=20
+  allValuesFrom the class Woman. This means that if an individual person =
+Louise=20
+  is related by the property hasDaughter to the individual Deborah, then =
+from=20
+  this a reasoner can deduce that Deborah is an instance of the class =
+Woman.=20
+  This restriction allows the property hasDaughter to be used with other =
+
+  classes, such as the class Cat, and have an appropriate value =
+restriction=20
+  associated with the use of the property on that class. In this case,=20
+  hasDaughter would have the local range restriction of Cat when =
+associated with=20
+  the class Cat and would have the local range restriction Person when=20
+  associated with the class Person. Note that a reasoner can not deduce =
+from an=20
+  allValuesFrom restriction alone that there actually is at least one =
+value for=20
+  the property.=20
+  <LI><B><I><A id=3DsomeValuesFrom name=3DsomeValuesFrom></A><A=20
+  =
+href=3D"http://www.w3.org/TR/owl-guide/#owl_someValuesFrom">someValuesFro=
+m</A></I></B>:=20
+  The restriction <I>someValuesFrom</I> is stated on a property with =
+respect to=20
+  a class. A particular class may have a restriction on a property that =
+at least=20
+  one value for that property is of a certain type. For example, the =
+class=20
+  SemanticWebPaper may have a <I>someValuesFrom</I> restriction on the=20
+  hasKeyword property that states that <U>some</U> value for the =
+hasKeyword=20
+  property should be an instance of the class SemanticWebTopic. This =
+allows for=20
+  the option of having multiple keywords and as long as one or more is =
+an=20
+  instance of the class SemanticWebTopic, then the paper would be =
+consistent=20
+  with the <I>someValuesFrom</I> restriction. Unlike =
+<I>allValuesFrom</I>,=20
+  <I>someValuesFrom</I> does not restrict all the values of the property =
+to be=20
+  instances of the same class. If myPaper is an instance of the =
+SemanticWebPaper=20
+  class, then myPaper is related by the <I>hasKeyword</I> property to at =
+least=20
+  one instance of the SemanticWebTopic class. Note that a reasoner can =
+not=20
+  deduce (as it could with <I>allValuesFrom</I> restrictions) that =
+<U>all</U>=20
+  values of hasKeyword are instances of the SemanticWebTopic class =
+</LI></UL>
+<H3><A id=3Ds3.5 name=3Ds3.5></A>3.5 OWL Lite Restricted Cardinality =
+</H3>
+<P>OWL Lite includes a limited form of cardinality restrictions. OWL =
+(and OWL=20
+Lite) cardinality restrictions are referred to as local restrictions, =
+since they=20
+are stated on properties with respect to a particular class. That is, =
+the=20
+restrictions constrain the cardinality of that property on instances of =
+that=20
+class. OWL Lite cardinality restrictions are limited because they only =
+allow=20
+statements concerning cardinalities of value 0 or 1 (they do not allow =
+arbitrary=20
+values for cardinality, as is the case in OWL DL and OWL Full). </P>
+<UL>
+  <LI><B><I><A id=3DminCardinality name=3DminCardinality></A><A=20
+  =
+href=3D"http://www.w3.org/TR/owl-guide/#owl_minCardinality">minCardinalit=
+y</A></I></B>:=20
+  Cardinality is stated on a property with respect to a particular =
+class. If a=20
+  <I>minCardinality</I> of 1 is stated on a property with respect to a =
+class,=20
+  then any instance of that class will be related to at least one =
+individual by=20
+  that property. This restriction is another way of saying that the =
+property is=20
+  <U>required</U> to have a value for all instances of the class. For =
+example,=20
+  the class Person would not have any minimum cardinality restrictions =
+stated on=20
+  a hasOffspring property since not all persons have offspring. The =
+class=20
+  Parent, however would have a minimum cardinality of 1 on the =
+hasOffspring=20
+  property. If a reasoner knows that Louise is a Person, then nothing =
+can be=20
+  deduced about a minimum cardinality for her hasOffspring property. =
+Once it is=20
+  discovered that Louise is an instance of Parent, then a reasoner can =
+deduce=20
+  that Louise is related to at least one individual by the hasOffspring=20
+  property. From this information alone, a reasoner can not deduce any =
+maximum=20
+  number of offspring for individual instances of the class parent. In =
+OWL Lite=20
+  the only minimum cardinalities allowed are 0 or 1. A minimum =
+cardinality of=20
+  zero on a property just states (in the absence of any more specific=20
+  information) that the property is optional with respect to a class. =
+For=20
+  example, the property hasOffspring may have a minimum cardinality of =
+zero on=20
+  the class Person (while it is stated to have the more specific =
+information of=20
+  minimum cardinality of one on the class Parent).=20
+  <LI><B><I><A id=3DmaxCardinality name=3DmaxCardinality></A><A=20
+  =
+href=3D"http://www.w3.org/TR/owl-guide/#owl_maxCardinality">maxCardinalit=
+y</A></I></B>:=20
+  Cardinality is stated on a property with respect to a particular =
+class. If a=20
+  <I>maxCardinality</I> of 1 is stated on a property with respect to a =
+class,=20
+  then any instance of that class will be related to at most one =
+individual by=20
+  that property. A maxCardinality 1 restriction is sometimes called a =
+functional=20
+  or unique property. For example, the property hasRegisteredVotingState =
+on the=20
+  class UnitedStatesCitizens may have a maximum cardinality of one =
+(because=20
+  people are only allowed to vote in only one state). From this a =
+reasoner can=20
+  deduce that individual instances of the class USCitizens may not be =
+related to=20
+  two or more distinct individuals through the hasRegisteredVotingState=20
+  property. From a maximum cardinality one restriction alone, a reasoner =
+can not=20
+  deduce a minimum cardinality of 1. It may be useful to state that =
+certain=20
+  classes have no values for a particular property. For example, =
+instances of=20
+  the class UnmarriedPerson should not be related to <U>any</U> =
+individuals by=20
+  the property hasSpouse. This situation is represented by a maximum =
+cardinality=20
+  of zero on the hasSpouse property on the class UnmarriedPerson.=20
+  <LI><B><I><A id=3DCardinality name=3DCardinality></A><A=20
+  =
+href=3D"http://www.w3.org/TR/owl-guide/#owl_cardinality">cardinality</A><=
+/I></B>:=20
+  Cardinality is provided as a convenience when it is useful to state =
+that a=20
+  property on a class has both <I>minCardinality</I> 0 and =
+<I>maxCardinality</I>=20
+  0 or both <I>minCardinality</I> 1 and <I>maxCardinality</I> 1. For =
+example,=20
+  the class Person has exactly one value for the property =
+hasBirthMother. From=20
+  this a reasoner can deduce that no two distinct individual instances =
+of the=20
+  class Mother may be values for the hasBirthMother property of the same =
+person.=20
+  </LI></UL>Alternate namings for these restricted forms of cardinality =
+were=20
+discussed. Current recommendations are to include any such names in a =
+front end=20
+system. More on this topic is available on the publicly available webont =
+mail=20
+archives with the most relevant message at <A=20
+href=3D"http://lists.w3.org/Archives/Public/www-webont-wg/2002Oct/0063.ht=
+ml">http://lists.w3.org/Archives/Public/www-webont-wg/2002Oct/0063.html</=
+A>.=20
+
+<H3><A id=3Ds3.6 name=3Ds3.6></A>3.6 OWL Lite Class Intersection =
+</H3>OWL Lite=20
+contains an intersection constructor but limits its usage. <!--(OWL full =
+does not place limitations=0A=
+                    on the use of boolean constructors such as =
+intersection.=0A=
+                    -->
+<UL>
+  <LI><B><I><A id=3DintersectionOf name=3DintersectionOf></A><A=20
+  =
+href=3D"http://www.w3.org/TR/owl-guide/#owl_intersectionOf">intersectionO=
+f</A></I></B>:=20
+  OWL Lite allows intersections of named classes and restrictions. For =
+example,=20
+  the class EmployedPerson can be described as the <I>intersectionOf</I> =
+Person=20
+  and EmployedThings (which could be defined as things that have a =
+minimum=20
+  cardinality of 1 on the hasEmployer property). From this a reasoner =
+may deduce=20
+  that any particular EmployedPerson has at least one employer. <!-- OWL =
+Lite requires <i>intersectionOf</i> to take named classes thus it would =
+not be allowed in OWL Lite to describe EmployedPerson as the =
+intersection of Person and the unnamed the class of things that have at =
+least one employer and is simultaneously an instance of the class Person.=0A=
+          The ability to use unnamed classes is introduced in OWL DL and =
+OWL Full.  --></LI></UL>
+<H3><A id=3Ds3.7 name=3Ds3.7></A>3.7 OWL Datatypes </H3>
+<P>OWL uses the RDF mechanisms for data values. <!-- dlm: removed with =
+suggestion from pfps.  too much detail.=0A=
+                 datatyping scheme, which provides a mechanism for =
+referring to pointer =
+href=3D"http://www.daml.org/2002/06/webont/owl-ref-proposed#ref-xml-schem=
+a2">XML Schema datatypes</A>. Such XML Schema datatypes are identified =
+by a URI, and =0A=
+                            each time an instance of such a datatype =
+occurs, it must have an RDF attribute=0A=
+                            rdf:datatype whose value should be the URI =
+reference of the XML Schema datatype.=0A=
+                                -->See=20
+the OWL Guide <A =
+href=3D"http://www.w3.org/TR/owl-guide/#Datatypes1">section on=20
+datatypes</A> for a more detailed description of the built-in OWL =
+datatypes=20
+taken largely from the XML Schema datatypes. </P>
+<H3><A id=3Ds3.8 name=3Ds3.8></A>3.8 OWL Lite Header Information =
+</H3>OWL Lite=20
+supports notions of ontology inclusion and relationships and attaching=20
+information to ontologies. <!-- dlm: removed specificity of section =
+previously included=0A=
+                    OWL supports =0A=
+                    standard notions of ontology referencing, inclusion, =
+and meta-information. All =0A=
+                    three levels of OWL include ways of specifying =
+ontologies to import, ontology =0A=
+                    version information, prior ontology version =
+information, ontologies known to be =0A=
+                    backward compatible, and ontologies known to be =
+incompatible.=0A=
+                    -->See=20
+the <A href=3D"http://www.w3.org/TR/owl-ref/">OWL Reference</A> for =
+details and=20
+the <A href=3D"http://www.w3.org/TR/owl-guide/">OWL Guide</A> for =
+examples.=20
+<H3><A id=3Ds3.9 name=3Ds3.9></A>3.9 OWL Lite Annotation Properties =
+</H3>OWL Lite=20
+allows annotations on classes, properties, individuals and ontology =
+headers. The=20
+use of these annotations is subject to certain restrictions. See the <A=20
+href=3D"http://www.w3.org/TR/owl-ref/#Annotations">section on =
+Annotations in the=20
+OWL Reference</A> for details.=20
+<H3><A id=3Ds3.10 name=3Ds3.10></A>3.10 OWL Lite Versioning </H3>RDF =
+already has a=20
+small vocabulary for describing versioning information. OWL =
+significantly=20
+extends this vocabulary. See the <A=20
+href=3D"http://www.w3.org/TR/owl-ref/#Header">OWL Reference</A> for =
+further=20
+details.=20
+<H2><A id=3Ds4 name=3Ds4></A>4. Incremental Language Description of OWL =
+DL and OWL=20
+Full </H2>Both OWL DL and OWL Full use the same vocabulary although OWL =
+DL is=20
+subject to some restrictions. Roughly, OWL DL requires type separation =
+(a class=20
+can not also be an individual or property, a property can not also be an =
+
+individual or class). This implies that restrictions cannot be applied =
+to the=20
+language elements of OWL itself (something that is allowed in OWL Full). =
+
+Furthermore, OWL DL requires that properties are either ObjectProperties =
+or=20
+DatatypeProperties: DatatypeProperties are relations between instances =
+of=20
+classes and RDF literals and XML Schema datatypes, while =
+ObjectProperties are=20
+relations between instances of two classes. The <A=20
+href=3D"http://www.w3.org/TR/owl-semantics/">OWL Semantics and Abstract =
+Syntax</A>=20
+document explains the distinctions and limitations. We describe the OWL =
+DL and=20
+OWL Full vocabulary that extends the constructions of OWL Lite below.=20
+<UL>
+  <LI><B><I><A id=3DoneOf name=3DoneOf></A><A=20
+  href=3D"http://www.w3.org/TR/owl-guide/#owl_oneOf">oneOf</A></I></B>:=20
+  (enumerated classes): Classes can be described by enumeration of the=20
+  individuals that make up the class. The members of the class are =
+exactly the=20
+  set of enumerated individuals; no more, no less. For example, the =
+class of=20
+  daysOfTheWeek can be described by simply enumerating the individuals =
+Sunday,=20
+  Monday, Tuesday, Wednesday, Thursday, Friday, Saturday. From this a =
+reasoner=20
+  can deduce the maximum cardinality (7) of any property that has =
+daysOfTheWeek=20
+  as its allValuesFrom restriction.=20
+  <LI><B><I><A id=3DhasValue name=3DhasValue></A><A=20
+  =
+href=3D"http://www.w3.org/TR/owl-guide/#owl_hasValue">hasValue</A></I></B=
+>:=20
+  (property values): A property can be required to have a certain =
+individual as=20
+  a value (also sometimes referred to as property values). For example,=20
+  instances of the class of dutchCitizens can be characterized as those =
+people=20
+  that have theNetherlands as a value of their nationality. (The =
+nationality=20
+  value, theNetherlands, is an instance of the class of Nationalities).=20
+  <LI><B><I><A id=3DdisjointWith name=3DdisjointWith></A><A=20
+  =
+href=3D"http://www.w3.org/TR/owl-guide/#owl_disjointWith">disjointWith</A=
+></I></B>:=20
+  Classes may be stated to be disjoint from each other. For example, Man =
+and=20
+  Woman can be stated to be disjoint classes. From this disjointWith =
+statement,=20
+  a reasoner can deduce an inconsistency when an individual is stated to =
+be an=20
+  instance of both and similarly a reasoner can deduce that if A is an =
+instance=20
+  of Man, then A is <I>not</I> an instance of Woman.=20
+  <LI><B><I><A id=3DbooleanFull name=3DbooleanFull></A><A=20
+  href=3D"http://www.w3.org/TR/owl-guide/#owl_unionOf">unionOf, =
+complementOf,=20
+  intersectionOf</A></I></B> (Boolean combinations): OWL DL and OWL Full =
+allow=20
+  arbitrary Boolean combinations of classes and restrictions: unionOf,=20
+  complementOf, and intersectionOf. For example, using unionOf, we can =
+state=20
+  that a class contains things that are either USCitizens or =
+DutchCitizens.=20
+  Using complementOf, we could state that children are <I>not</I>=20
+  SeniorCitizens. (i.e. the class Children is a subclass of the =
+complement of=20
+  SeniorCitizens). Citizenship of the European Union could be described =
+as the=20
+  union of the citizenship of all member states.=20
+  <LI><B><I><A=20
+  =
+href=3D"http://www.w3.org/TR/owl-guide/#owl_cardinality">minCardinality, =
+
+  maxCardinality, cardinality</A><A id=3DcardinalityFull=20
+  name=3DcardinalityFull></A></I></B> (full cardinality): While in OWL =
+Lite,=20
+  cardinalities are restricted to at least, at most or exactly 1 or 0, =
+full OWL=20
+  allows cardinality statements for arbitrary non-negative integers. For =
+example=20
+  the class of DINKs ("Dual Income, No Kids") would restrict the =
+cardinality of=20
+  the property hasIncome to a minimum cardinality of two (while the =
+property=20
+  hasChild would have to be restricted to cardinality 0).=20
+  <LI><B><I><A id=3DcomplexClassFull name=3DcomplexClassFull>complex=20
+  classes</A></I></B> : In many constructs, OWL Lite restricts the =
+syntax to=20
+  single class names (e.g. in subClassOf or equivalentClass statements). =
+OWL=20
+  Full extends this restriction to allow arbitrarily complex class =
+descriptions,=20
+  consisting of enumerated classes, property restrictions, and Boolean=20
+  combinations. Also, OWL Full allows classes to be used as instances =
+(and OWL=20
+  DL and OWL Lite do not). For more on this topic, see the "Design for =
+Use"=20
+  section of the Guide document. </LI></UL>
+<H2><A id=3Ds5 name=3Ds5>5. Summary</A> </H2>This document provides an =
+overview of=20
+the Web Ontology Language by providing a brief introduction to why one =
+might=20
+need a Web ontology language and how OWL fits in with related W3C =
+languages. It=20
+also provides a brief description of the three OWL sublanguages: OWL =
+Lite, OWL=20
+DL, and OWL Full along with a feature synopsis for each of the =
+languages. This=20
+document is an update to the Feature Synopsis Document. It provides =
+simple=20
+descriptions of the constructs along with simple examples. It references =
+the <A=20
+href=3D"http://www.w3.org/TR/owl-ref/">OWL reference</A> document, the =
+<A=20
+href=3D"http://www.w3.org/TR/owl-guide/">OWL Guide</A>, and the <A=20
+href=3D"http://www.w3.org/TR/owl-semantics/">OWL Semantics and Abstract =
+Syntax</A>=20
+document for more details. Previous versions ( <A=20
+href=3D"http://www.w3.org/TR/2003/PR-owl-features-20031215/">December =
+15,=20
+2003</A>, <A=20
+href=3D"http://www.ksl.stanford.edu/people/dlm/webont/OWLOverviewSep52003=
+.htm">September=20
+5, 2003</A>, <A=20
+href=3D"http://www.w3.org/TR/2003/CR-owl-features-20030818/">August 18, =
+2003</A>,=20
+<A=20
+href=3D"http://www.ksl.stanford.edu/people/dlm/webont/OWLOverviewJuly3020=
+03.htm">July=20
+30, 2003</A>, <A=20
+href=3D"http://www.ksl.stanford.edu/people/dlm/webont/OWLOverviewMay12003=
+.htm">May=20
+1, 2003</A>, <A=20
+href=3D"http://www.ksl.stanford.edu/people/dlm/webont/OWLFeatureSynopsisM=
+arch202003.htm">March=20
+20, 2003</A>, <A=20
+href=3D"http://www.ksl.stanford.edu/people/dlm/webont/OWLFeatureSynopsisJ=
+an22003.htm">January=20
+2, 2003</A>, <A=20
+href=3D"http://www.ksl.stanford.edu/people/dlm/webont/OWLFeatureSynopsisJ=
+uly29.htm">July=20
+29, 2002</A>, <A=20
+href=3D"http://www.ksl.stanford.edu/people/dlm/webont/OWLFeatureSynopsisJ=
+uly8.htm">July=20
+8, 2002</A>, <A=20
+href=3D"http://www.ksl.stanford.edu/people/dlm/webont/OWLFeatureSynopsisJ=
+une23.htm">June=20
+23, 2002</A>, <A=20
+href=3D"http://www.ksl.stanford.edu/people/dlm/webont/complianceMay262002=
+.html">May=20
+26, 2002</A>, and <A=20
+href=3D"http://www.ksl.stanford.edu/people/dlm/webont/complianceMay152002=
+.html">May=20
+15, 2002</A>) of this document provide the historical view of the =
+evolution of=20
+OWL Lite and the issues discussed in its evolution.=20
+<H2><A id=3Ds6 name=3Ds6>References</A> </H2>
+<DL>
+  <DT><A id=3Dref-owl-guide name=3Dref-owl-guide>[OWL Guide]</A>=20
+  <DD><CITE><A =
+href=3D"http://www.w3.org/TR/2004/REC-owl-guide-20040210/">OWL Web=20
+  Ontology Language Guide</A></CITE>, Michael K. Smith, Chris Welty, and =
+Deborah=20
+  L. McGuinness, Editors, W3C Recommendation, 10 February 2004,=20
+  http://www.w3.org/TR/2004/REC-owl-guide-20040210/ . <A=20
+  href=3D"http://www.w3.org/TR/owl-guide/">Latest version</A> available =
+at=20
+  http://www.w3.org/TR/owl-guide/ .=20
+  <DT><A id=3Dref-owl-reference name=3Dref-owl-reference>[OWL =
+Reference]</A>=20
+  <DD><CITE><A =
+href=3D"http://www.w3.org/TR/2004/REC-owl-ref-20040210/">OWL Web=20
+  Ontology Language Reference</A></CITE>, Mike Dean and Guus Schreiber, =
+Editors,=20
+  W3C Recommendation, 10 February 2004,=20
+  http://www.w3.org/TR/2004/REC-owl-ref-20040210/ . <A=20
+  href=3D"http://www.w3.org/TR/owl-ref/">Latest version</A> available at =
+
+  http://www.w3.org/TR/owl-ref/ .=20
+  <DT><A id=3Dref-owl-abstract-syntax-and-semantics=20
+  name=3Dref-owl-abstract-syntax-and-semantics>[OWL Abstract Syntax and=20
+  Semantics]</A>=20
+  <DD><CITE><A =
+href=3D"http://www.w3.org/TR/2004/REC-owl-semantics-20040210/">OWL=20
+  Web Ontology Language Semantics and Abstract Syntax</A></CITE>, Peter =
+F.=20
+  Patel-Schneider, Pat Hayes, and Ian Horrocks, Editors, W3C =
+Recommendation, 10=20
+  February 2004, http://www.w3.org/TR/2004/REC-owl-semantics-20040210/ . =
+<A=20
+  href=3D"http://www.w3.org/TR/owl-semantics/">Latest version</A> =
+available at=20
+  http://www.w3.org/TR/owl-semantics/ .=20
+  <DT><A id=3Dref-owl-test name=3Dref-owl-test>[OWL Test]</A>=20
+  <DD><CITE><A =
+href=3D"http://www.w3.org/TR/2004/REC-owl-test-20040210/">OWL Web=20
+  Ontology Language Test Cases</A></CITE>, Jeremy J. Carroll and Jos De =
+Roo,=20
+  Editors, W3C Recommendation, 10 February 2004,=20
+  http://www.w3.org/TR/2004/REC-owl-test-20040210/ . <A=20
+  href=3D"http://www.w3.org/TR/owl-test/">Latest version</A> available =
+at=20
+  http://www.w3.org/TR/owl-test/ .=20
+  <DT><A id=3Dref-owl-requirements name=3Dref-owl-requirements>[OWL=20
+  Requirements]</A>=20
+  <DD><CITE><A =
+href=3D"http://www.w3.org/TR/2004/REC-webont-req-20040210/">OWL Web=20
+  Ontology Language Use Cases and Requirements</A></CITE>, Jeff Heflin, =
+Editor,=20
+  W3C Recommendation, 10 February 2004,=20
+  http://www.w3.org/TR/2004/REC-webont-req-20040210/ . <A=20
+  href=3D"http://www.w3.org/TR/webont-req/">Latest version</A> available =
+at=20
+  http://www.w3.org/TR/webont-req/ .=20
+  <DT><A id=3DIssues name=3DIssues>[OWL Issues]</A>=20
+  <DD><A =
+href=3D"http://www.w3.org/2001/sw/WebOnt/webont-issues.html"><CITE>Web=20
+  Ontology Issue Status</CITE></A>. Michael K. Smith, ed. 1 November =
+2003.=20
+  <DT><A id=3DDAMLReference name=3DDAMLReference>[DAML+OIL =
+Reference]</A>=20
+  <DD><A href=3D"http://www.w3.org/TR/daml+oil-reference"><CITE>DAML+OIL =
+Reference=20
+  Description</CITE></A> . Dan Connolly, Frank van Harmelen, Ian =
+Horrocks,=20
+  Deborah L. McGuinness, Peter F. Patel-Schneider, and Lynn Andrea =
+Stein. W3C=20
+  Note 18 December 2001.=20
+  <DT><A id=3DXML name=3DXML>[XML]</A>=20
+  <DD><A href=3D"http://www.w3.org/XML/"><CITE>Extensible Markup =
+Language=20
+  (XML)</CITE>.</A>=20
+  <DT><A id=3DXMLSchema name=3DXMLSchema>[XML Schema]</A>=20
+  <DD><A href=3D"http://www.w3.org/XML/Schema"><CITE>XML Schema</CITE> =
+.</A>=20
+  <DT><A id=3Dref-xml-schema2 name=3Dref-xml-schema2></A>[XML-SCHEMA2]=20
+  <DD><CITE><A href=3D"http://www.w3.org/TR/xmlschema-2/">XML Schema =
+Part 2:=20
+  Datatypes - W3C Recommendation</A></CITE>, World Wide Web Consortium, =
+2 May=20
+  2001.=20
+  <DT><A id=3Dref-rdf-xml-syntax>[RDF/XML Syntax]</A>=20
+  <DD><CITE><A=20
+  =
+href=3D"http://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/">RDF/X=
+ML=20
+  Syntax Specification (Revised)</A></CITE>, Dave Beckett, Editor, W3C=20
+  Recommendation, 10 February 2004,=20
+  http://www.w3.org/TR/2004/REC-rdf-syntax-grammar-20040210/ . <A=20
+  href=3D"http://www.w3.org/TR/rdf-syntax-grammar/">Latest version</A> =
+available=20
+  at http://www.w3.org/TR/rdf-syntax-grammar/ .=20
+  <DT><A id=3Dref-rdf-concepts>[RDF Concepts]</A>=20
+  <DD><CITE><A=20
+  href=3D"http://www.w3.org/TR/2004/REC-rdf-concepts-20040210/">Resource =
+
+  Description Framework (RDF): Concepts and Abstract Syntax</A></CITE>, =
+Graham=20
+  Klyne and Jeremy J. Carroll, Editors, W3C Recommendation, 10 February =
+2004,=20
+  http://www.w3.org/TR/2004/REC-rdf-concepts-20040210/ . <A=20
+  href=3D"http://www.w3.org/TR/rdf-concepts/">Latest version</A> =
+available at=20
+  http://www.w3.org/TR/rdf-concepts/ .=20
+  <DT><A id=3Dref-rdf-schema>[RDF Schema]</A>=20
+  <DD><CITE><A =
+href=3D"http://www.w3.org/TR/2004/REC-rdf-schema-20040210/">RDF=20
+  Vocabulary Description Language 1.0: RDF Schema</A></CITE>, Dan =
+Brickley and=20
+  R. V. Guha, Editors, W3C Recommendation, 10 February 2004,=20
+  http://www.w3.org/TR/2004/REC-rdf-schema-20040210/ . <A=20
+  href=3D"http://www.w3.org/TR/rdf-schema/">Latest version</A> available =
+at=20
+  http://www.w3.org/TR/rdf-schema/ .=20
+  <DT><A id=3Dref-rdf-mt>[RDF Semantics]</A>=20
+  <DD><CITE><A =
+href=3D"http://www.w3.org/TR/2004/REC-rdf-mt-20040210/">RDF=20
+  Semantics</A></CITE>, Patrick Hayes, Editor, W3C Recommendation, 10 =
+February=20
+  2004, http://www.w3.org/TR/2004/REC-rdf-mt-20040210/ . <A=20
+  href=3D"http://www.w3.org/TR/rdf-mt/">Latest version</A> available at=20
+  http://www.w3.org/TR/rdf-mt/ .=20
+  <DT><A id=3DDescriptionLogics name=3DDescriptionLogics>[Description =
+Logics]</A>=20
+  <DD><A href=3D"http://books.cambridge.org/0521781760.htm"><CITE>The =
+Description=20
+  Logic Handbook</CITE></A>. Franz Baader, Diego Calvanese, Deborah =
+McGuinness,=20
+  Daniele Nardi, Peter Patel-Schneider, editors. Cambridge University =
+Press,=20
+  2003; and <A href=3D"http://dl.kr.org/"><CITE>Description Logics Home=20
+  Page</CITE></A>. </DD></DL>
+<H2><A id=3Ds7 name=3Ds7>Acknowledgements</A> </H2>
+<P>This document is the result of extensive discussions within the <A=20
+href=3D"http://www.w3.org/2001/sw/WebOnt/">Web Ontology Working =
+Group</A> as a=20
+whole. The participants in this Working Group included: Yasser alSafadi, =
+
+Jean-Fran=C3=A7ois Baget, James Barnette, Sean Bechhofer, Jonathan =
+Borden, Frederik=20
+Brysse, Stephen Buswell, Jeremy Carroll, Dan Connolly, Peter Crowther, =
+Jonathan=20
+Dale, Jos De Roo, David De Roure, Mike Dean, Larry Eshelman, =
+J=C3=A9r=C3=B4me Euzenat, Tim=20
+Finin, Nicholas Gibbins, Sandro Hawke, Patrick Hayes, Jeff Heflin, Ziv =
+Hellman,=20
+James Hendler, Bernard Horan, Masahiro Hori, Ian Horrocks, Jane Hunter,=20
+Francesco Iannuzzelli, R=C3=BCdiger Klein, Natasha Kravtsova, Ora =
+Lassila, Massimo=20
+Marchiori, Deborah McGuinness, Enrico Motta, Leo Obrst, Mehrdad =
+Omidvari, Martin=20
+Pike, Marwan Sabbouh, Guus Schreiber, Noboru Shimizu, Michael Sintek, =
+Michael K.=20
+Smith, John Stanton, Lynn Andrea Stein, Herman ter Horst, David =
+Trastour, Frank=20
+van Harmelen, Bernard Vatant, Raphael Volz, Evan Wallace, Christopher =
+Welty,=20
+Charles White, and John Yanosy. </P>
+<H2><A id=3Ds8 name=3Ds8>Change Log Since Last Call Release</A> </H2>
+<UL>
+  <LI>Added owl:Nothing to OWL Lite.=20
+  <LI>Added pointer to last call document under title=20
+  <LI>Changed all links to owl-absyn to owl-semantics=20
+  <LI>Incorporated Lee Lacy's grammatical comments from =
+public-webont-comments=20
+  dated April 21, 2003.=20
+  <LI>Incorporated Lee Lacy's other comments: annotation properties, =
+version=20
+  properties, and other missing tags in 2.2 (which got reorganised as a =
+result)=20
+  <LI>changed hasOffSpring example to hasDaughter (request of Morten=20
+  Frederiksen)=20
+  <LI>incorporated all Lasilla's comment, including replacing "machine=20
+  readability" by "machine interpretability" and various typo's.=20
+  <LI>Added sentence on lower complexity class of OWL Lite, as proposed =
+by Jim=20
+  Hendler=20
+  <LI>Added first sentence to section 1, after Sandro Hawke's comment=20
+  <LI>Restored link to style file=20
+  <LI>Added link to test document and May 1 version=20
+  <LI>Added references section=20
+  <LI>Changed back to relative references to sections=20
+  <LI>Changed links to http://www.w3.org/TR/xx from previous versions =
+with=20
+  updates later to ...TR/2003/CR-xx-20030818/ </LI></UL>
+<H2><A id=3Ds9 name=3Ds9>Change Log Since Candidate Recommendation</A> =
+</H2>
+<UL>
+  <LI>Added Change Log since candidate recommendation.=20
+  <LI>Deleted Control Ms at the end of all lines.=20
+  <LI>Incorporated Jeff Rafter's <A=20
+  =
+href=3D"http://lists.w3.org/Archives/Public/public-webont-comments/2003Se=
+p/0000.html">public=20
+  webont comments</A>.=20
+  <LI>Updated Status, Document links, date of publication, etc. =
+according to PR=20
+  <A=20
+  =
+href=3D"http://lists.w3.org/Archives/Public/www-webont-wg/2003Nov/0108.ht=
+ml">email</A>=20
+  from chair. </LI></UL>
+<H2><A id=3Dchanges-since-PR name=3Dchanges-since-PR>Change Log Since =
+Proposed=20
+Recommendation</A> </H2>
+<UL>
+  <LI>Two broken links fixed - W3C icon was referenced by referring to =
+local W3c=20
+  expansion src=3D"OWL Web Ontology Language Overview_files/ as was gif =
+for=20
+  author. Added full expansion to W3C icon =
+(http://www.w3.org/Icons/w3c_home)=20
+  and email gif=20
+  =
+(http://www.w3.org/2001/sw/WebOnt/guide-src/Email.Deborah.McGuinness.gif)=
+.=20
+  <LI>Removed control Ms at the end of every line introduced with new =
+version=20
+  transfer.=20
+  <LI>Added links to previous version in December 2003.=20
+  <LI>Updated document taking Lee Lacy's comments dated January 12, =
+2004.=20
+  (Comments mostly small editorial changes, cell spacing change of 30 to =
+27 in=20
+  table, ...)=20
+  <LI>Included Benjamin Nowack's editorial comments.=20
+  <LI>Updated Reference format. </LI></UL></BODY></HTML>
+
+------=_NextPart_000_0133_01CC7A03.6FF5EBE0
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Location: http://www.w3.org/Icons/w3c_home
+
+iVBORw0KGgoAAAANSUhEUgAAAEgAAAAwCAMAAACFQszZAAADAFBMVEUAAAABAQECAgIFBQUGBgYI
+CAgMDAwODg4SEhIUFBQVFRUYGBgaGhodHR0fHx8gICAmJiYoKCgsLCwxMTE1NTU2NjY3Nzc4ODg7
+Ozs/Pz9ERERFRUVGRkZJSUlOTk5PT09WVlZdXV1eXl5gYGBhYWFkZGRnZ2dsbGxtbW1vb29wcHBx
+cXF0dHR8fHwAWpwBW5wCW50DXJ0EXZ4FXZ4GXp4IX58JYJ8LYaAMYqEOY6EPZKISZqMTZqMUZ6QW
+aKUYaqUaa6Yba6Yebagfbqggb6ghb6kjcaokcaoodKwtd60yeq80fLA1fLE3frE4frI5f7I6gLM8
+gbNBhLVChbZEhrZHiLhJibhKirlLi7lOjLpRjrtVkb1ZlL9alL9blb9dlsBfl8FimcJnncRpnsVq
+n8Vrn8ZsoMZtocZuocdvosdxo8hzpMl1psl3p8p4qMt6qct8qsx9q81+rM2BgYGEhISJiYmKioqM
+jIyNjY2Pj4+RkZGSkpKWlpaXl5eYmJiampqdnZ2fn5+goKChoaGioqKlpaWmpqaoqKiqqqqrq6us
+rKytra2vr6+xsbGysrKzs7O0tLS3t7e5ubm8vLy/v7+Crs6Dr8+FsNCGsdCHsdCIstGLtNKMtdKW
+u9aXvNeYvNeZvdebvtigwtqkxNylxdyox92qyN6vy+CwzOCxzeGyzeG0zuK30OO70+W81OW+1ebB
+wcHCwsLDw8PFxcXGxsbHx8fNzc3Ozs7Pz8/T09PY2NjZ2dnb29vc3Nzd3d3f39/A1ufB1+fD2OjF
+2ejH2+nI2+rK3erL3evM3uvN3uvO3+vN3+zR4e3S4u7T4+7U4+7V5O/X5e/Y5e/Z5vDa5vDb6PHc
+6PHg4ODh4eHk5OTn5+fp6enr6+vt7e3u7u7h7PPi7PTk7vXn7/bp8fbq8ffr8vft8/ju9Pjw8PDy
+8vL09PT19fX39/fw9fnz9/r0+Pv2+fz3+vz5+fn7+/v4+vz5+/36/P37/P38/Pz9/f38/f79/v7+
+/v7+/v/////MzMyRmidfAAAAAWJLR0QAiAUdSAAAAAlwSFlzAAAASAAAAEgARslrPgAABClJREFU
+SMftlwlUlFUUxx9UQ2JpViRkiJW08zEwhAZBhQZMKAa2TBFFIbRQZBISGNECibZHVChTZkQREUbR
+BrTQoqMg0b4QhBiyCBEUEgzveO973+P7ZhgGzsFz6py858D3f/e773e++9679wE5hhwScyFmldFp
+GJnO5MOgfxP07U6TqV121JlMpl7lfTsMTTsU67Wa3wk/5pomGRQnSVKy/CYatFEJTJYsrZZ5B9Ld
+XM75EdUZlFal5T2a1s1AxRChl2cWgjYoIL0V6HN0dpyIh1nzCKXvOjTTtA3nLqxYx0A9Oghp4TMb
+Qfr3CU6LFSdiBJxDrrwsjnyLepCKnx/POdOzOp2MyycUdKkAGWEQcAWzpSC92QdliAKbtc2BPNSV
+nfOEx4AMUudzG+h4ATLAYBNTf4WBvB5VvzMhDvOysk9zJBri9CvNeKbm7dyNZFw+5aBDZE6fPwy+
+Z7IA1OJWVNmEHLUexTtATIGVfyAz82lxjlT5fIVrUc91KchwpvZcAPI5Jj0IyeWvP9DM6LQ6kLcq
++WCaUgHX8SCTqDghl/7Jtl5DThezs+6hViBVPrjwUhTXISDLUWz3BvUq81UTx2oxe2i/NWgwQOTD
+joLkww56Pe7ZIIjRSFAreehTxH3CEgGLEfkU8wNTJBY4BsXLIHx388gccq890FaRTxwHxaKOArEV
+nr2XgLhRjryPVNkDtWl5PsMXwj6FS1LgMBSsjyRp2+DlakRrr+Zbud7pH3sgupznU4v7lMSrswge
+kfjufP6Vui04yDuO2gXl83yw2j8p590gVqybqDRvzPPDk+yDdkksHz3+xj3U0+FAsZNlZSX54Uha
+BJVtnm8fNHox5tPCv+s67Aa1qlqh9MDtSLoJVIp9EDvFyUa+Urg6xmR19YJdg9UGBfn+JCCsKz1U
+u66d75dBr+4nYF/iJ70Bx3kSEKt0P0mKlk+Qn0WHQwsCz/N0AlPdIga+NYWoN3NtsIhdAZ6EKYCM
+fHIj6kaujRaxV4HnhimAeH8O44NQdm5+s4i9HFyJv1jONw+MB/Ebg7cfegvqyywnXQSuNU92Wfge
+fM8GiN1h5Vy/ifou/M479X9wVwO6XmvyUnN+Ovp+G6Ba0X6o3KC+oPQVOAjPclcC9pLfqedjyoxu
+N3KWDdBIsNx+0KBBBcMl1uoLXeF1dHyGHe9aSj92zhMxXacQ8rANEPaiIqGhQcXhcxX2y5s//e4l
+/EQt3mupR9zdz0IqjydkvtkWqFhusWh7faRifO5borpoE9EzdDI59ryc3LVzHQiZ3UxtgXp0Ucog
+StfDnnVBY5wr/2aeDldx1c75iNoE0egCRRdEy+KbZRyjTRAF0322I+O4N9MJQC98reiGF8c2oSQu
+InzlHQ2qwB9ST13gVame+h/90+//AjLbsimAZh6af7NOOAhIdkqdYiybxQAAAABJRU5ErkJggg==
+
+------=_NextPart_000_0133_01CC7A03.6FF5EBE0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.w3.org/2001/sw/WebOnt/guide-src/Email.Deborah.McGuinness.gif
+
+R0lGODlhmwAWAPcAAAAAAIAAAACAAICAAAAAgIAAgACAgICAgMDAwP8AAAD/AP//AAAA//8A/wD/
+/////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMwAAZgAAmQAAzAAA/wAzAAAzMwAzZgAzmQAzzAAz/wBm
+AABmMwBmZgBmmQBmzABm/wCZAACZMwCZZgCZmQCZzACZ/wDMAADMMwDMZgDMmQDMzADM/wD/AAD/
+MwD/ZgD/mQD/zAD//zMAADMAMzMAZjMAmTMAzDMA/zMzADMzMzMzZjMzmTMzzDMz/zNmADNmMzNm
+ZjNmmTNmzDNm/zOZADOZMzOZZjOZmTOZzDOZ/zPMADPMMzPMZjPMmTPMzDPM/zP/ADP/MzP/ZjP/
+mTP/zDP//2YAAGYAM2YAZmYAmWYAzGYA/2YzAGYzM2YzZmYzmWYzzGYz/2ZmAGZmM2ZmZmZmmWZm
+zGZm/2aZAGaZM2aZZmaZmWaZzGaZ/2bMAGbMM2bMZmbMmWbMzGbM/2b/AGb/M2b/Zmb/mWb/zGb/
+/5kAAJkAM5kAZpkAmZkAzJkA/5kzAJkzM5kzZpkzmZkzzJkz/5lmAJlmM5lmZplmmZlmzJlm/5mZ
+AJmZM5mZZpmZmZmZzJmZ/5nMAJnMM5nMZpnMmZnMzJnM/5n/AJn/M5n/Zpn/mZn/zJn//8wAAMwA
+M8wAZswAmcwAzMwA/8wzAMwzM8wzZswzmcwzzMwz/8xmAMxmM8xmZsxmmcxmzMxm/8yZAMyZM8yZ
+ZsyZmcyZzMyZ/8zMAMzMM8zMZszMmczMzMzM/8z/AMz/M8z/Zsz/mcz/zMz///8AAP8AM/8AZv8A
+mf8AzP8A//8zAP8zM/8zZv8zmf8zzP8z//9mAP9mM/9mZv9mmf9mzP9m//+ZAP+ZM/+ZZv+Zmf+Z
+zP+Z///MAP/MM//MZv/Mmf/MzP/M////AP//M///Zv//mf//zP///ywAAAAAmwAWAAAI/wAfCBxI
+sKDBgwgTKlzIsKHDhxAjSpxIsaLFixgzatzIsaPHggAEhnwIoGRJkA1HejzpUGXLjwtHulTIcqDL
+mQhxHtRJMyLPhD9hPpCZMqfNogyD7vTJVCjIkESHDpWpkipUkVizTq26k6VJmzWhWhUZVupUs09v
+XkWrlCLVrF6JRj1rdi5XtEfh5q0b1S5ZuDjvvmX7UbBWrmvzyiUY2GBjx4f1SiaMcrLflYojY01M
++Svjso5Bk/WaufPewCYv3+1omLJUzqqX4oXsOrZpzYxp193LsfXqq1Vt385t+e/t1q5Pa17N2vPl
+16O3EmcLWm1wsLsti946VzrYsJ6dQin82Va8+fMZUaNfz35l6vLt48ufT7++/fv48+vfz7+///8A
+BijggDAFBAA7
+
+------=_NextPart_000_0133_01CC7A03.6FF5EBE0
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://www.w3.org/StyleSheets/TR/W3C-REC
+
+BODY {
+	PADDING-RIGHT: 1em; PADDING-LEFT: 70px; BACKGROUND: white fixed =
+no-repeat left top; PADDING-BOTTOM: 2em; MARGIN: 0px; COLOR: black; =
+PADDING-TOP: 2em; FONT-FAMILY: sans-serif
+}
+:link {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #00c
+}
+:visited {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #609
+}
+A:active {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #c00
+}
+A:link IMG {
+	BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: =
+none; BORDER-BOTTOM-STYLE: none
+}
+A:visited IMG {
+	BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: =
+none; BORDER-BOTTOM-STYLE: none
+}
+A IMG {
+	COLOR: white
+}
+
+@media All   =20
+{
+A IMG {
+=09
+}
+    }
+TH {
+	FONT-FAMILY: sans-serif
+}
+TD {
+	FONT-FAMILY: sans-serif
+}
+H1 {
+	TEXT-ALIGN: left
+}
+H2 {
+	TEXT-ALIGN: left
+}
+H3 {
+	TEXT-ALIGN: left
+}
+H4 {
+	TEXT-ALIGN: left
+}
+H5 {
+	TEXT-ALIGN: left
+}
+H6 {
+	TEXT-ALIGN: left
+}
+H1 {
+	BACKGROUND: white; COLOR: #005a9c
+}
+H2 {
+	BACKGROUND: white; COLOR: #005a9c
+}
+H3 {
+	BACKGROUND: white; COLOR: #005a9c
+}
+H1 {
+	FONT: 170% sans-serif
+}
+H2 {
+	FONT: 140% sans-serif
+}
+H3 {
+	FONT: 120% sans-serif
+}
+H4 {
+	FONT: bold 100% sans-serif
+}
+H5 {
+	FONT: italic 100% sans-serif
+}
+H6 {
+	FONT: small-caps 100% sans-serif
+}
+.hide {
+	DISPLAY: none
+}
+DIV.head {
+	MARGIN-BOTTOM: 1em
+}
+DIV.head H1 {
+	CLEAR: both; MARGIN-TOP: 2em
+}
+DIV.head TABLE {
+	MARGIN-TOP: 2em; MARGIN-LEFT: 2em
+}
+P.copyright {
+	FONT-SIZE: small
+}
+P.copyright SMALL {
+	FONT-SIZE: small
+}
+
+@media Screen   =20
+{
+A[href]:hover {
+	BACKGROUND: #ffa
+}
+    }
+PRE {
+	MARGIN-LEFT: 2em
+}
+DT {
+	MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px
+}
+DD {
+	MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px
+}
+DT {
+	FONT-WEIGHT: bold
+}
+PRE {
+	FONT-FAMILY: monospace
+}
+CODE {
+	FONT-FAMILY: monospace
+}
+UL.toc {
+	LIST-STYLE-TYPE: none
+}
+OL.toc {
+	LIST-STYLE-TYPE: none
+}
+
+@media Aural   =20
+{
+H1 {
+	stress: 20; richness: 90
+}
+H2 {
+	stress: 20; richness: 90
+}
+H3 {
+	stress: 20; richness: 90
+}
+.hide {
+	speak: none
+}
+P.copyright {
+	volume: x-soft; speech-rate: x-fast
+}
+DT {
+	pause-before: 20%
+}
+PRE {
+	speak-punctuation: code
+}
+    }
+BODY {
+	BACKGROUND-IMAGE: url(http://www.w3.org/StyleSheets/TR/logo-REC)
+}
+
+------=_NextPart_000_0133_01CC7A03.6FF5EBE0--

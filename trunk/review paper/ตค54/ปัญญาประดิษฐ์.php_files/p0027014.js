@@ -1,0 +1,1 @@
+var hash="p5Sjkr9EpnPH43TLL9Eo3w==";document.write("<a href='http://truehits.net/faq/service_cond.php' target='_top'><img src='http://truehits.net/imagewan/truehits_stop.gif'  width="14" height="17" border="0" /></a>"); 

@@ -1,0 +1,29 @@
+.vip {width:100%;padding:0px 2px 0px 1px;}
+.vip a{
+  border:0px solid #0000ff;
+  height:auto;
+  width:auto;
+  float:left;
+}
+#head_div{width:100%;margin:0px 2px 0px 6px;}
+.divMykratoo{
+		overflow: auto; 
+		/*width: 250px;*/
+		width: 100%;
+		height: expression( this.scrollHeight > 249 ? "250px" : "auto" );/* sets max-height for IE */
+		max-height:250px;/* sets max-height value for all standards-compliant browsers */
+		
+}
+.divMykratoo2{
+		overflow: auto; 
+		width: 100%;
+		height: expression( this.scrollHeight > 350 ? "250px" : "auto" );/* sets max-height for IE */
+		max-height:250px;/* sets max-height value for all standards-compliant browsers */
+		
+}
+#clear{
+	clear:both;
+}
+
+.google_plusone iframe { width: 50px !important;} 
+.google_plusone { margin-right:-20px; }

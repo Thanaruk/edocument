@@ -1,0 +1,600 @@
+From: <Saved by Windows Internet Explorer 7>
+Subject: =?windows-874?B?tdHHzcLo0qfgx+e6t9Xo46rpIG9udG9sb2d5?=
+Date: Fri, 23 Sep 2011 15:40:20 +0700
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----=_NextPart_000_01B1_01CC7A07.1A042220"
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.3028
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_01B1_01CC7A07.1A042220
+Content-Type: text/html;
+	charset="windows-874"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://www.pantown.com/board.php?id=18252&area=3&name=board3&topic=364&action=view
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><TITLE>=B5=D1=C7=CD=C2=E8=D2=A7=E0=C7=E7=BA=B7=D5=E8=E3=AA=E9=
+ ontology</TITLE>
+<META http-equiv=3DContent-Type content=3D"text/html; =
+charset=3Dtis-620">
+<SCRIPT language=3DJavaScript>=0A=
+  function openwin(url) {=0A=
+    window.open(url,'d', =
+'width=3D400,height=3D300,scrollbars=3Dyes,status=3Dyes');=0A=
+  }=0A=
+  function winToy() {=0A=
+   popupWin =3D =
+window.open('http://www.pantown.com/images/toy/placingicon.html', 'Toy', =
+'scrollbars,resizable,width=3D400,height=3D500');=0A=
+  }=0A=
+=0A=
+=0A=
+var check0;=0A=
+var check1;=0A=
+var check2;=0A=
+var check3;=0A=
+var tag =3D new Array(' [b] ',' [/b] ',' [i] ',' [/i] ',' [u] ',' [/u] =
+');=0A=
+var but =3D new =
+Array('images/bold.gif','images/boldpress.gif','images/italic.gif','image=
+s/italicpress.gif','images/underline.gif','images/underlinepress.gif');=0A=
+=0A=
+=0A=
+function editcolor(mess,color){=0A=
+theselection =3D document.selection.createRange().text;=0A=
+=0A=
+if((theselection.length >0) && (document.newform.message.focus)){=0A=
+document.selection.createRange().text =3D "[font:"+ color +"] " + =
+theselection + " [/font]";=0A=
+document.newform.message.focus();=0A=
+return;=0A=
+}=0A=
+	else{=0A=
+	=
+alert("=A1=C3=D8=B3=D2=E0=C5=D7=CD=A1=BE=D7=E9=B9=B7=D5=E8=B5=E9=CD=A7=A1=
+=D2=C3=A8=D0=E3=CA=E8=CA=D5=A1=E8=CD=B9=A4=C3=D1=BA");=0A=
+	=0A=
+	}=0A=
+=0A=
+}=0A=
+=0A=
+function check(mess){=0A=
+theselection =3D document.selection.createRange().text;=0A=
+if(theselection.length =3D=3D0){=0A=
+=0A=
+//	=
+alert("=A1=C3=D8=B3=D2=E0=C5=D7=CD=A1=BE=D7=E9=B9=B7=D5=E8=B5=E9=CD=A7=A1=
+=D2=C3=A8=D0=E3=CA=E8=CA=D5=A1=E8=CD=B9=A4=C3=D1=BA");=0A=
+		document.newform.message.focus();=0A=
+	}=0A=
+}=0A=
+=0A=
+=0A=
+function setpic(position){=0A=
+var arraypic =3D new Array('<p align =3D left>','<p align =3D =
+center>','<p align =3D right>');=0A=
+document.newform.pic.value=3Darraypic[position];=0A=
+if(position =3D=3D0){=0A=
+//alert("=A4=D8=B3=E4=B4=E9=E0=C5=D7=CD=A1=A8=D1=B4=C3=D9=BB =
+=AA=D4=B4=AB=E9=D2=C2 =E0=C3=D5=C2=BA=C3=E9=CD=C2=E1=C5=E9=C7");=0A=
+window.status =3D "=A4=D8=B3=E4=B4=E9=E0=C5=D7=CD=A1=A8=D1=B4=C3=D9=BB =
+=AA=D4=B4=AB=E9=D2=C2 =E0=C3=D5=C2=BA=C3=E9=CD=C2=E1=C5=E9=C7"=0A=
+}=0A=
+else if(position =3D=3D1){=0A=
+//alert("=A4=D8=B3=E4=B4=E9=E0=C5=D7=CD=A1=A8=D1=B4=C3=D9=BB =
+=A1=D6=E8=A7=A1=C5=D2=A7 =E0=C3=D5=C2=BA=C3=E9=CD=C2=E1=C5=E9=C7");=0A=
+window.status =3D "=A4=D8=B3=E4=B4=E9=E0=C5=D7=CD=A1=A8=D1=B4=C3=D9=BB =
+=A1=D6=E8=A7=A1=C5=D2=A7 =E0=C3=D5=C2=BA=C3=E9=CD=C2=E1=C5=E9=C7"=0A=
+}=0A=
+else if(position =3D=3D 2){=0A=
+//alert("=A4=D8=B3=E4=B4=E9=E0=C5=D7=CD=A1=A8=D1=B4=C3=D9=BB =
+=AA=D4=B4=A2=C7=D2 =E0=C3=D5=C2=BA=C3=E9=CD=C2=E1=C5=E9=C7");=0A=
+window.status =3D "=A4=D8=B3=E4=B4=E9=E0=C5=D7=CD=A1=A8=D1=B4=C3=D9=BB =
+=AA=D4=B4=A2=C7=D2 =E0=C3=D5=C2=BA=C3=E9=CD=C2=E1=C5=E9=C7"=0A=
+	}=0A=
+}=0A=
+function edittext(mess,check){=0A=
+   var allmessage;=0A=
+theselection =3D document.selection.createRange().text; =0A=
+=0A=
+if(theselection.length >0){=0A=
+document.selection.createRange().text =3D tag[check] + theselection + =
+tag[check+1];=0A=
+document.newform.message.focus();=0A=
+return;=0A=
+}=0A=
+else{=0A=
+      allmessage =3Dmess;=0A=
+=0A=
+   =0A=
+if(!check0){ =0A=
+   document.newform.message.value =3D allmessage+tag[check];=0A=
+  //    document.newform.bold.src =3D but[check+1];=0A=
+   document.newform.message.focus();=0A=
+   check0 =3D 1;=0A=
+   }=0A=
+   else{=0A=
+document.newform.message.value =3D allmessage+tag[check+1];=0A=
+//      document.newform.bold.src =3D but[check];=0A=
+   document.newform.message.focus();=0A=
+   check0 =3D 0;=0A=
+=0A=
+}=0A=
+}=0A=
+}=0A=
+function blank(){=0A=
+if(document.newform.author.value =3D=3D ''){=0A=
+	alert('=A1=C3=D8=B3=D2=A1=C3=CD=A1=AA=D7=E8=CD=BC=D9=E9=E2=BE=CA');=0A=
+	submitOK =3D "false";=0A=
+	}=0A=
+	if(submitOK =3D=3D "false"){=0A=
+	return false=0A=
+}=0A=
+}=0A=
+function check()=0A=
+            {=0A=
+                if(document.newform.textcode.value =3D=3D '') =0A=
+                {=0A=
+                    =
+alert('=A4=D8=B3=C2=D1=A7=E4=C1=E8=E4=B4=E9=C2=D7=B9=C2=D1=B9=C3=CB=D1=CA=
+=CA=E8=A7=A2=E9=CD=A4=C7=D2=C1')=0A=
+                    document.newform.textcode.focus();=0A=
+                    return false;=0A=
+                }=0A=
+                =0A=
+            }=0A=
+</SCRIPT>
+
+<META content=3D"MSHTML 6.00.6000.16414" name=3DGENERATOR></HEAD>
+<BODY bgColor=3D#f4a4c1>
+<CENTER><BR><!--//table width=3D80% bgcolor=3D#ACFF93 //-->
+<TABLE width=3D"80%" bgColor=3D#e8e8e8 border=3D1>
+  <TBODY>
+  <TR>
+    <TD>
+      <TABLE cellSpacing=3D0 width=3D"100%" border=3D1>
+        <TBODY>
+        <TR bgColor=3D#ea95b4>
+          <TD hight=3D"30"><FONT color=3D#eef2f7 size=3D+2>
+            =
+<CENTER>=B5=D1=C7=CD=C2=E8=D2=A7=E0=C7=E7=BA=B7=D5=E8=E3=AA=E9=20
+      ontology</CENTER></FONT></TD></TR></TBODY></TABLE>
+      <TABLE width=3D"100%">
+        <TBODY>
+        <TR width=3D"100%">
+          <TD colSpan=3D2>&nbsp;&nbsp;&nbsp;<A=20
+            href=3D"http://biocaster.nii.ac.jp/index.php?page=3Dabout"=20
+            =
+target=3D_blank>http://biocaster.nii.ac.jp/index.php?page=3Dabout</A><BR>=
+<BR>=E0=BB=E7=B9=A1=D2=C3=E3=AA=E9=20
+            =
+=C3=D0=BA=BA=E4=BA=E2=CD=A4=D2=CA=E0=B5=CD=C3=EC=E0=BB=E7=B9=E2=A4=C3=A7=A1=
+=D2=C3=C7=D4=A8=D1=C2=B7=D5=E8=C1=D5=A8=D8=B4=C1=D8=E8=A7=CB=C1=D2=C2=E0=BE=
+=D7=E8=CD=E3=CB=E9=BA=C3=D4=A1=D2=C3=C3=D0=BA=BA=A4=E9=B9=CB=D2=A2=D1=E9=B9=
+=CA=D9=A7=E1=C5=D0=C7=D4=E0=A4=C3=D2=D0=CB=EC=BC=C5=A7=D2=B9=C7=D4=A8=D1=C2=
+=E1=C5=D0=A2=E8=D2=C7=CA=D2=C3=A8=D2=A1=E0=A4=C3=D7=CD=A2=E8=D2=C2=CD=D4=B9=
+=E0=B5=CD=C3=EC=E0=B9=E7=B5=20
+            =
+=CA=D3=CB=C3=D1=BA=BC=D9=E9=BB=AF=D4=BA=D1=B5=D4=A7=D2=B9=B4=E9=D2=B9=CA=D2=
+=B8=D2=C3=B3=CA=D8=A2 =
+=BC=D9=E9=E0=AA=D5=E8=C2=C7=AA=D2=AD=E3=B9=A1=D2=C3=C3=D1=A1=C9=D2=20
+            =
+=E1=C5=D0=B9=D1=A1=C7=D4=A8=D1=C2=B7=D5=E8=C1=D5=A4=C7=D2=C1=CA=B9=E3=A8=E0=
+=A1=D5=E8=C2=C7=A1=D1=BA=E2=C3=A4=B5=D4=B4=B5=E8=CD=20
+            =
+=A2=B3=D0=B9=D5=E9=C3=D0=BA=BA=A1=D3=C5=D1=A7=CD=C2=D9=E8=E3=B9=A2=D1=E9=B9=
+=B5=CD=B9=A1=D2=C3=BE=D1=B2=B9=D2</TD></TR>
+        <TR width=3D"100%">
+          <TD width=3D"90%">=E2=B4=C2: NuNchi [23 =C1=D4.=C2. 52 12:00] =
+( IP A:124.121.92.75=20
+            X: )</TD>
+          <TD><A=20
+            =
+href=3D"javascript:openwin('board.php?id=3D18252&amp;area=3D3&amp;name=3D=
+board3&amp;topic=3D364&amp;action=3Ddelete')"><IMG=20
+            src=3D"http://www.pantown.com/images/delete.gif" =
+border=3D0></A></TD></TR>
+        <TR>
+          <TD align=3Dlift><A=20
+            =
+onclick=3D"window.open('http://www.facebook.com/share.php?u=3Dhttp%3A%2F%=
+2Fwww.pantown.com%2Fboard.php%3Fid%3D18252%26area%3D3%26name%3Dboard3%26t=
+opic%3D364%26action%3Dview','myWindow1','toolbar=3Dyes, =
+location=3Dyes,status=3Dyes,menubar=3Dyes,scrollbars=3Dyes,copyhistory=3D=
+no,resizable=3Dyes,left=3D0,top=3D0');"=20
+            href=3D"javascript:void(0)"><IMG title=3D"" alt=3D"Add to =
+Facebook"=20
+            src=3D"http://www.pantown.com/images/facebook.png"=20
+            border=3D0></A>&nbsp;&nbsp;<A=20
+            =
+onclick=3D"window.open('http://twitter.com/home?status=3D+%3A+http%3A%2F%=
+2Fwww.pantown.com%2Fboard.php%3Fid%3D18252%26area%3D3%26name%3Dboard3%26t=
+opic%3D364%26action%3Dview','','toolbar=3Dyes, =
+location=3Dyes,status=3Dyes,menubar=3Dyes,scrollbars=3Dyes,copyhistory=3D=
+no,resizable=3Dyes,left=3D0,top=3D0');"=20
+            href=3D"javascript:void(0)"><IMG title=3D"Add to Twitter"=20
+            alt=3D"Add to Twitter" =
+src=3D"http://www.pantown.com/images/twitter.png"=20
+            border=3D0></A>&nbsp;&nbsp;<A=20
+            =
+onclick=3D"window.open('http://multiply.com/gus/journal/compose/?body=3D&=
+amp;url=3Dhttp%3A%2F%2Fwww.pantown.com%2Fboard.php%3Fid%3D18252%26area%3D=
+3%26name%3Dboard3%26topic%3D364%26action%3Dview&amp;subject=3D','myWindow=
+3','toolbar=3Dyes, =
+location=3Dyes,status=3Dyes,menubar=3Dyes,scrollbars=3Dyes,copyhistory=3D=
+no,resizable=3Dyes,left=3D0,top=3D0');"=20
+            href=3D"javascript:void(0)"><IMG title=3D"Add to Multiply"=20
+            alt=3D"Add to Multiply"=20
+            src=3D"http://www.pantown.com/images/multiply.png"=20
+            border=3D0></A>&nbsp;&nbsp;<A=20
+            =
+onclick=3D"window.open('http://www.google.com/bookmarks/mark?op=3Dadd&amp=
+;bkmk=3Dhttp%3A%2F%2Fwww.pantown.com%2Fboard.php%3Fid%3D18252%26area%3D3%=
+26name%3Dboard3%26topic%3D364%26action%3Dview&amp;title=3D&amp;annotation=
+=3D','myWindow4','toolbar=3Dyes, =
+location=3Dyes,status=3Dyes,menubar=3Dyes,scrollbars=3Dyes,copyhistory=3D=
+no,resizable=3Dyes,left=3D0,top=3D0');"=20
+            href=3D"javascript:void(0)"><IMG title=3D"Add to Google"=20
+            alt=3D"Add to Google" =
+src=3D"http://www.pantown.com/images/google.png"=20
+            border=3D0></A>&nbsp;&nbsp;<A=20
+            =
+onclick=3D"window.open('http://www.blogger.com/blog_this.pyra?t=3D&amp;u=3D=
+http%3A%2F%2Fwww.pantown.com%2Fboard.php%3Fid%3D18252%26area%3D3%26name%3=
+Dboard3%26topic%3D364%26action%3Dview&amp;l&amp;n=3D&amp;annotation=3D','=
+myWindow5','toolbar=3Dyes, =
+location=3Dyes,status=3Dyes,menubar=3Dyes,scrollbars=3Dyes,copyhistory=3D=
+no,resizable=3Dyes,left=3D0,top=3D0');"=20
+            href=3D"javascript:void(0)"><IMG title=3D"Add to Blogger"=20
+            alt=3D"Add to Blogger" =
+src=3D"http://www.pantown.com/images/blogger.png"=20
+            border=3D0></A>&nbsp;&nbsp;<A=20
+            =
+onclick=3D"window.open('https://favorites.live.com/quickadd.aspx?marklet=3D=
+1&amp;mkt=3Den-us&amp;url=3Dhttp%3A%2F%2Fwww.pantown.com%2Fboard.php%3Fid=
+%3D18252%26area%3D3%26name%3Dboard3%26topic%3D364%26action%3Dview&amp;tit=
+le=3D&amp;top=3D1','myWindow6','toolbar=3Dyes, =
+location=3Dyes,status=3Dyes,menubar=3Dyes,scrollbars=3Dyes,copyhistory=3D=
+no,resizable=3Dyes,left=3D0,top=3D0');"=20
+            href=3D"javascript:void(0)"><IMG title=3D"Add to Live" =
+alt=3D"Add to Live"=20
+            src=3D"http://www.pantown.com/images/live.png"=20
+        border=3D0></A></TD></TR></TBODY></TABLE>
+      <HR>
+
+      <FORM name=3Dnewform action=3Dboard.php method=3Dpost=20
+      encType=3Dmultipart/form-data>
+      <TABLE width=3D"100%">
+        <TBODY>
+        <TR vAlign=3Dtop>
+          <TD align=3Dright></TD>
+          <TD>
+            <TABLE>
+              <TBODY>
+              <TR>
+                <TD><SELECT =
+ondblclick=3Dcheck(document.newform.message.value)=20
+                  onclick=3Dcheck(document.newform.message.value)=20
+                  =
+onchange=3Deditcolor(document.newform.message.value,document.newform.sele=
+ctcolor.value)=20
+                  name=3Dselectcolor> <OPTION value=3Dblack =
+selected>=B4=D3</OPTION>=20
+                    <OPTION value=3Dwhite>=A2=D2=C7</OPTION> <OPTION=20
+                    value=3Dblue>=B9=E9=D3=E0=A7=D4=B9</OPTION> <OPTION =
+value=3Dred>=E1=B4=A7</OPTION>=20
+                    <OPTION value=3Dgreen>=E0=A2=D5=C2=C7</OPTION> =
+<OPTION=20
+                    value=3Dyellow>=E0=CB=C5=D7=CD=A7</OPTION> <OPTION=20
+                    value=3Dorange>=CA=E9=C1</OPTION> <OPTION=20
+                    value=3Dbrown>=B9=E9=D3=B5=D2=C5</OPTION> <OPTION=20
+                    value=3Dmagenta>=C1=E8=C7=A7</OPTION> <OPTION =
+value=3Dcyan>=BF=E9=D2</OPTION>=20
+                    <OPTION =
+value=3Dlimegreen>=E0=A2=D5=C2=C7=C1=D0=B9=D2=C7</OPTION></SELECT> =
+</TD></TD>
+                <TD><BUTTON =
+onclick=3Dedittext(document.newform.message.value,0)=20
+                  name=3Dbold><IMG alt=3D=B5=D1=C7=CB=B9=D2=20
+                  =
+src=3D"http://www.pantown.com/images/bold.gif"></BUTTON></TD>
+                <TD><BUTTON =
+onclick=3Dedittext(document.newform.message.value,2)=20
+                  name=3Ditalic><IMG alt=3D=B5=D1=C7=E0=CD=D5=C2=A7=20
+                  =
+src=3D"http://www.pantown.com/images/italic.gif"></BUTTON></TD>
+                <TD><BUTTON =
+onclick=3Dedittext(document.newform.message.value,4)=20
+                  name=3Dunder><IMG alt=3D=A2=D5=B4=E0=CA=E9=B9=E3=B5=E9 =
+
+                  =
+src=3D"http://www.pantown.com/images/underline.gif"></BUTTON></TD></TR></=
+TBODY></TABLE></TD></TR>
+        <TR>
+          <TD align=3Dright>=C3=D2=C2=C5=D0=E0=CD=D5=C2=B4 : </TD>
+          <TD><TEXTAREA name=3Dmessage rows=3D5 =
+cols=3D60></TEXTAREA></TD></TR>
+        <TR>
+          <TD align=3Dright>=AA=D7=E8=CD / e-mail : </TD>
+          <TD><INPUT name=3Dauthor>&nbsp;&nbsp;&nbsp;<A=20
+            =
+href=3D"javascript:winToy()">=E1=B7=C3=A1=E4=CD=A4=CD=B9=B9=E8=D2=C3=D1=A1=
+=E6=E3=B9=A2=E9=CD=A4=C7=D2=C1</A></TD></TR>
+        <TR vAlign=3Dtop>
+          <TD align=3Dright>=C3=D9=BB=BB=C3=D0=A1=CD=BA : </TD>
+          <TD><INPUT type=3Dfile size=3D50 name=3Dimage><BR>.jpg .bmp =
+.gif &lt;=20
+          100K</TD></TR>
+        <TR>
+          <TD align=3Dright>=A8=D1=B4=B5=D3=E1=CB=B9=E8=A7=C3=D9=BB =
+:</TD>
+          <TD>
+            <TABLE>
+              <TBODY>
+              <TR>
+                <TD width=3D20></TD></TR>
+              <TR>
+                <TD width=3D20></TD>
+                <TD>
+                  <CENTER><BUTTON onclick=3Dsetpic(0)><IMG =
+alt=3D=A8=D1=B4=C3=D9=BB=AA=D4=B4=AB=E9=D2=C2=20
+                  =
+src=3D"http://www.pantown.com/images/picleft.gif"></CENTER></TD>
+                <TD>
+                  <CENTER><BUTTON onclick=3Dsetpic(1)><IMG =
+alt=3D=A8=D1=B4=C3=D9=BB=A1=D6=E8=A7=A1=C5=D2=A7=20
+                  =
+src=3D"http://www.pantown.com/images/piccenter.gif"></CENTER></TD>
+                <TD>
+                  <CENTER><BUTTON onclick=3Dsetpic(2)><IMG =
+alt=3D=A8=D1=B4=C3=D9=BB=AA=D4=B4=A2=C7=D2=20
+                  =
+src=3D"http://www.pantown.com/images/picright.gif"></CENTER></TD></TR>
+              <TR>
+                <TD width=3D20></TD>
+                <TD>
+                  <CENTER><FONT =
+size=3D2>=AA=D4=B4=AB=E9=D2=C2</FONT></CENTER></TD>
+                <TD>
+                  <CENTER><FONT =
+size=3D2>=A1=D6=E8=A7=A1=C5=D2=A7</FONT></CENTER></TD>
+                <TD>
+                  <CENTER><FONT=20
+              =
+size=3D2>=AA=D4=B4=A2=C7=D2</FONT></CENTER></TD></FONT></TR></TBODY></TAB=
+LE></TD></TR>
+        <TR>
+          <TD align=3Dright>=E0=CA=D5=C2=A7=BB=C3=D0=A1=CD=BA : </TD>
+          <TD><INPUT type=3Dfile size=3D50 name=3Dsound> .wav .mp3 .wma =
+.ogg &lt;=20
+            300K </TD></TR>
+        <TR vAlign=3Dtop>
+          <TD align=3Dright>=A4=C5=D4=BB=C7=D5=B4=D5=E2=CD (Youtube) : =
+</TD>
+          <TD><INPUT size=3D100 =
+name=3Dyoutube><BR>=B5=D1=C7=CD=C2=E8=D2=A7 :=20
+            http://www.youtube.com/watch?v=3Dk_ufqno7NaE</TD></TR>
+        <TR>
+          <TD>
+        <TR>
+          <TD colSpan=3D2>
+            <CENTER>
+            <TABLE cellSpacing=3D0 cellPadding=3D0 width=3D"80%" =
+border=3D0>
+              <TBODY>
+              <TR width=3D"100%">
+                <TD =
+width=3D"60%">=C3=CB=D1=CA=CA=E8=A7=A2=E9=CD=A4=C7=D2=C1 </TD>
+                <TD width=3D"40%"><IMG=20
+                  =
+src=3D"http://www.pantown.com/codeimage/image.php?word=3D8e700c24"><INPUT=
+=20
+                  type=3Dhidden value=3D8e700c24 name=3Dword> </TD></TR>
+              <TR width=3D"100%">
+                <TD =
+width=3D"60%">=A1=C3=D8=B3=D2=C2=D7=B9=C2=D1=B9=C3=CB=D1=CA=CA=E8=A7=A2=E9=
+=CD=A4=C7=D2=C1</TD>
+                <TD width=3D"40%"><INPUT size=3D10 name=3Dtextcode>=20
+            </TD></TR></TBODY></TABLE></CENTER></TD></TR></TD></TR>
+        <TR align=3Dmiddle>
+          <TD colSpan=3D2><INPUT onclick=3D"return check()" =
+type=3Dsubmit value=3D=CA=E8=A7=A1=C3=D0=B7=D9=E9 =
+onsubmit=3D"document.newform.iframe.value=3Dframe.newform.document.body.i=
+nnerHTML"></TD></TR></TBODY></TABLE><INPUT=20
+      type=3Dhidden value=3D18252 name=3Did> <INPUT type=3Dhidden =
+value=3D3 name=3Darea>=20
+      <INPUT type=3Dhidden value=3D364 name=3Dtopic> <INPUT =
+type=3Dhidden value=3Dboard3=20
+      name=3Dname> <INPUT type=3Dhidden value=3Dfollow name=3Daction> =
+<INPUT type=3Dhidden=20
+      value=3D"<p>" name=3Dpic> </FORM></TD></TR></TBODY></TABLE><BR>
+<TABLE cellSpacing=3D0 width=3D"100%" border=3D0>
+  <TBODY>
+  <TR bgColor=3D#ea95b4>
+    <TD hight=3D"30">
+      <CENTER><A href=3D"http://straw--berry.pantown.com/"><FONT=20
+      =
+color=3Dwhite><B>=A4=C5=D4=A1=B7=D5=E8=B9=D5=E8=E0=BE=D7=E8=CD=A1=C5=D1=BA=
+=CB=B9=E9=D2=BA=E9=D2=B9</B></A></CENTER>&nbsp;=20
+    </FONT></TD></TR></TBODY></TABLE></CENTER></BODY></HTML>
+
+------=_NextPart_000_01B1_01CC7A07.1A042220
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.pantown.com/images/delete.gif
+
+R0lGODlhEAAQAMQEAMu0g9nDk+zhyXBeUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEA
+AAQALAAAAAAQABAAAAVKICEOZGmKKDEIbMsO6SgAQR0AApwOOO3jAd0o4HIBhKZkUsYiOgXE3EhJ
+Ra1sWKJQBc3WpNauFyzzfrdXM1nlu7lx6Nn7jaaeCCEAOw==
+
+------=_NextPart_000_01B1_01CC7A07.1A042220
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://www.pantown.com/images/facebook.png
+
+iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAV1BMVEXi6PbQ2OuHm8V8kb9xibhw
+iLhvhbJof65lfq5lfrRkfbFie7Fje6xgerBfd6pcdq1cdqlYc6pYcaVXb6NVb6hRbKVMZ6FLZJpH
+Y55DX5s+W5YRM3f///+SpMPbAAAAHXRSTlP///////////////////////////////////+/AKn/
+qG8AAABuSURBVBgZBcHLDsFQGAbA+U+/qo1YICHx/q+GrYhGXY6ZnDsAqPQLADhFrYA2MS+iBXg9
+u81HjA14d9ooJkCXjUkMYMDOlyhww82BKAAU0cDR1RGiABREASiIewN48NvGZw3QWESfgckMqT0A
+qD8lhBidrXIB4AAAAABJRU5ErkJggg==
+
+------=_NextPart_000_01B1_01CC7A07.1A042220
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://www.pantown.com/images/twitter.png
+
+iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAhFBMVEX////z+fvy+fvk8fbD4u6t
+1uWc0+afzuB+0embydyTyN2PxdpvyuSLwNdgwd9Mvd5RudpIuNpQs9RQsNJFtNdBsNNRqcs9q9A5
+p8w8pstAocZCocY1o8lBn8QxnsYtmsI2lb0ylb0ulb0plb8mkbskj7kijbghjLcoi7UZg7AARHf/
+//+SHDpuAAAALHRSTlP///////////////////////////////////////////////////////+/
+ADevRokAAACFSURBVBgZBcE5TgNREAXA6v5vjBgEgZ2ZgCXl/neBhBOwSCALGTH6VNXTBACV+QoA
+HiPDOLxvwCa6nT4uVmCKHs7O93grUyzgBVerRetuwKm7RQHYFSLgOAcQTU2fd+VrIIrx5+eZ6z1a
+kn2D7yTarLq5XQbWqilmc/kA2MT8BQCpFQDUPzkYHf4iXVbCAAAAAElFTkSuQmCC
+
+------=_NextPart_000_01B1_01CC7A07.1A042220
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://www.pantown.com/images/multiply.png
+
+iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+bWFnZVJlYWR5ccllPAAAAOlJREFUeNpiDO5dwQAE/xnIA4wsIM310R4MuuL8JOm8/PIjQ+PSHf9B
+BmBoBkkeOPuE4drdX2C+ljIbg4OxDIo6GJsFm+kgzUdufIXzj9z4DSSfMOh6YbqSCZvTkDUjDPkK
+liNoAKmAaAOEWFmJMwAUOIEWUhia7Y1FscYUVhdoK/My2Ghww/mgWIiwkiHOBaCAmrbqHjwKQQDE
+zpx8nrhABEXhu9+/wRgGYHyQHF4DVhx7gjUKkaMSpAanAQfPviYYG+hqUFIiKLCu3cVvACg2MAwA
+BQ4oinK9tEnKTDADGEG5itzsDBBgAMEbZWwzlPFFAAAAAElFTkSuQmCC
+
+------=_NextPart_000_01B1_01CC7A07.1A042220
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://www.pantown.com/images/google.png
+
+iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACzUlEQVQ4EQXBy4tVBRwA4O+ce+48
+7zgjamkOpSQVpgvNnFoUYxCUiRURtnKTJAgu+gOCCQpatHDTQ4JatQpKFLWQ6QqKYGFBItRYStKI
+ZvNy7p37OOfcX9+XwIkz5+pvf3Pb3N226lA49vq4J9YPajY7lvbvVUEVGRIECkywJ5uenq5v2/38
+5N57dw3WqjpLDXcGUkde2ATmp6Z0L1wwjAwpeihwdnq6nsHtpcLl2TA80lW2SvUrtx3es8HG1f36
+t251f2pKPzL0oY3YuVOCFMroKVtNUeRETyLcmmuDdGxMiUCJNkr0FhcFMnhqfEh/viJv5CIvRN61
+arACFmdmXEMNgQRV1BYWzCMDOPjcWp+e+lOUhf3PbPDkxpqV5aYv6x+799Uuxaaa5mif6kqhMpdb
+9+uChakFycThz+rnjh2aHBnIXJttaLQKE1vG3Pxr1kc/vmX5odzI8JBuwUoemt3Q6PQ0uuHK9xfP
+p5cv/W3XkdOOHP/F6EBmYssYOD77gX/XtawbHTbcl+jLyFIqKWmaSBMkpDptnXbTyXNXfX76dwDP
+rj6gGn0WG01ljwgCEQgAMpXSy0+P2/7oWju2rAXw6vZJux856cOf3jE7/4+hwWF5GYpeKCOUgSA5
+ceps/dV9L01Cb/6SztIfyjWvqK16ADTzhgPfvSitpiKtauWhmYeVbvjth4vn05GhPsWtr7VPPyb/
++U3ZjfdUL+ywfPV9MFytmdy8z73FlpU8tIrQKUKnCEqy/PonOgtXZWtCpTYsyULc76nMfOHu6DYP
+PvyGDbVNmq1C9IduGdp5SPRRkBY3vpWuGiXNRJGITkqlKklTq5evg/+aS1qdRLPb0+yGlTyEPgqy
+XgfZCGlNCIHIc72kZmDzQXDn/qKxwfWy6qAipZuGbhkUJBHh1LtJPa0iJUmQkj1+VDb+mptzMw6d
+OEqnoIceSpTEmdjzP/cuXjzc9f84AAAAAElFTkSuQmCC
+
+------=_NextPart_000_01B1_01CC7A07.1A042220
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://www.pantown.com/images/blogger.png
+
+iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+bWFnZVJlYWR5ccllPAAAAfRJREFUeNqkU79rFFEQ/t7u273b3dvTCBa5QhZslOMS5GohItiIVhax
+U0v/ABHrSED/BIvYCHaCohACOUstrCQxjajIhcMUh6y5XG5338vMnMmeEn+gA7PszJvvezPzZpS1
+Fi8vK4t/kLmnVqnOJdjm/C245FB/CTSkW6tL6H3ZghZPvwvHAVz1ZxJONafPsTMX0Ft+NCaw/U14
+HuATiRKSHMaLBeCOUhily9uZoQAy44otJ9lGByo5DYd8by4+RJIk8H1fAvI8R7fbxcyTq2Iryl8R
+we7HdyWByNceOlee4ezsrIC5uQKglOr1Ot6qx5hZmgO7bV6WdEBgB32cmD4u4O3hLiq3G1LvYOEz
+jtRCNBoNMvrSwUMJWDxqBN9oshHWrq+iKAokoyGdhKjVanh94xU232/g/Mq1wwn2JY5jtFot+Xfo
+eZi0Wq2i3W4jiI8CK/g9ATduZ70z0QcHYfMctNaik1JadMs+IE1T6AfzP8zE9t0P0kzDT8VvDTtB
+wA7Xh7f+Aia5KYE7i59gjDkoIwpDsU/dO4mBy7BsfDaeFno2x8P08h0ZTw4MggBRFInyPzf02/P7
+MJWI4iukuszAegEy15VEphabPGiiPwuPVqZ8imUMl5GOCQpHY2g1MipL9lL9ehFkFxjzfRjU/67z
+ngADAN83sqDezkwMAAAAAElFTkSuQmCC
+
+------=_NextPart_000_01B1_01CC7A07.1A042220
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://www.pantown.com/images/live.png
+
+iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+bWFnZVJlYWR5ccllPAAAAn1JREFUeNqck0lPU2EUhp/LvXSQlkKBBlq0LWAARYYYFDVFQ1iw0aAR
+TfwB/gTcKL/A6MKFSxYmJibKzhglMRoHhgREaDCgKNCmQzpRauf2Xm9DTB12fb98my95n3NyvvMK
+y54IqhQqkyCVzAOt5orcn7xRRfrzIezzE745gRhYQ2sS0BpE5KFLJK/dpr29DUE9/+ovgOfFDLbE
+KlK/DtEiIRlldgIfufv4Fq7RNupw0WR0YDLoSRTCJFKmMiCbzSKvvETXWY2g3qoWtQOzwtysCYtd
+g6lpjvXd52xsyKwHcuwlJabOT5cBPrX9jtg82hMCVUeLiE4BRaOwlDEyOnAEk6TDVr9FMhsmkhFp
+lLvpcDjLgM2FD6Qi1bxZtJJersJl93LmZJa02caAvRV/QqZWE8NsiNNgLNBZN4Zepz0A5AtFJheS
+bPVN09vZyWBrLYu+b0w9fEDXkGqUNMiGWvKKkWhRnY1YzbkuV3mI7t0gW41DaJyH6WkWOd2hYXh4
+kPj+ZXzup1y58x6HQ0tBTBP0H0JMdTNwsY3vsfQBYNbtRZZ15OL7eGqMeCICr/MKmeASs/fH8asF
+3i0uI+RCHO/5gd94FVONHkoAWZZ5thJAyVkppjK49zXYYhJL7gBdjSEEJYTVusf18QIU/LCToMY8
+Ut6DLzsBVr1F8vqkSssQosgrnZ7i+hqTF4KqaR5ZrSzkthEiYWK+XlqOtZcBu6E4N842MdFvpb25
+nqjaxZOvUd5Km/TZP8PPAoJ6lWhWBRTI1Y1Qr9WXw7CwHVRO2S3/rehuKILWew9D6BFSJoGcgFTR
+AWMzNFicv7MAahqVSlXyln5BKKWq0jj/EmAAPY9BfWcxxeQAAAAASUVORK5CYII=
+
+------=_NextPart_000_01B1_01CC7A07.1A042220
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.pantown.com/images/bold.gif
+
+R0lGODlhGQAaAJEAAAAAAJycnNDPwAAAACH5BAAAAAAALAAAAAAZABoAAAJPjI+py60Co5xUnIrr
+zRzunn2gZoxhSQHqqpIBtkLxJErzLNXR3dJoyur5XhUegKKT9XCRpMCI/NmCwpzUZCVih9uotuu5
+dp0m8siBTqsVBQA7
+
+------=_NextPart_000_01B1_01CC7A07.1A042220
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.pantown.com/images/italic.gif
+
+R0lGODlhGQAaAJEAAH9/fwAAAJycnNDPwCH5BAAAAAAALAAAAAAZABoAAAJHlI+py60Do5x0nIrr
+zRzunn2gZoxhyQWqSomYCpBCB7ByB2PuVAfnnMnpUJUeZxcRDoGT1epnWkZv0wkyejVlR1uQ4wsO
+KwoAOw==
+
+------=_NextPart_000_01B1_01CC7A07.1A042220
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.pantown.com/images/underline.gif
+
+R0lGODlhGQAaAJEAAH9/fwAAAJycnNDPwCH5BAAAAAAALAAAAAAZABoAAAJXlI+py60Do5x0nIrr
+zRzunn2gZoxhSQVqMKzsJEpqNFMx/ba5dEO1ThJgfj8eKpUrRnpA3255nKgAA4DSE5W6MExTzwW2
+ZU1QIVlsPhvTaiy77YjL54oCADs=
+
+------=_NextPart_000_01B1_01CC7A07.1A042220
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.pantown.com/images/picleft.gif
+
+R0lGODlhGQAZAIAAACOI3dTQyCH5BAAAAAAALAAAAAAZABkAAAI0jI+pCO3vVoK0SVbhPVnv0D0f
+GFpfaW4oMK4t+pZxOHd1dlc5tXsqfAL+ZEHikFZEjpabAgA7
+
+------=_NextPart_000_01B1_01CC7A07.1A042220
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.pantown.com/images/piccenter.gif
+
+R0lGODlhGQAZAIAAACOI3dTQyCH5BAAAAAAALAAAAAAZABkAAAIvjI+py+0Po5wN2IuzZbpj7nlg
+qI3kt5xlqqJK6ybwZba1ep85uYe9SAkKh8RisAAAOw==
+
+------=_NextPart_000_01B1_01CC7A07.1A042220
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.pantown.com/images/picright.gif
+
+R0lGODlhGQAZAIAAACOI3dTQyCH5BAAAAAAALAAAAAAZABkAAAIzjI+pywEPI2xH2kfNtdnt2H1g
+Jk5kCYSoWrKi+8GbfNHc2eKvHvOzXwPeKKiUUGJDdjoFADs=
+
+------=_NextPart_000_01B1_01CC7A07.1A042220
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Location: http://www.pantown.com/codeimage/image.php?word=8e700c24
+
+iVBORw0KGgoAAAANSUhEUgAAAE0AAAAXCAIAAADBflV2AAADSElEQVRYhe1XPUjrUBS+rS9pa2sH
+KaLiT9QuRfwXJLopRcTd3UHQQRARN4sFN8VFdLCb4CCoFBRUlCpUEKWUStWWgintoCIFFfJTQsJ5
+w30vxNY8Hik8oa/flHznO+eeLzncmxgIgkD/AYzf3cA/QslncaHk869RUVGxsLAQjUY5jkulUhMT
+E0pI/AxBEA4PD7WiCpqamnKWMBgMV1dXOKqvyR/60hS0trb6/f7GxkaEkCzLNTU14+PjPp9PrREE
+QStdlmV16xaL5UvZ5ORkT09PQY0SBYCiqJeXFwDY2dmhaZokyc7OzubmZkUAAAzDaKWHQqGjoyPl
+tq6uTpKkTCZjNpvVstra2vf3d1EUWZYFAH2tFuRzb28PADwej5YAAFiWDYfDPM+/vr5ubm46HA4t
+8czMDAD4fL4cfnt7GwBWV1cZhvkGn5WVlaIoJhKJxcXFdDrNsuzBwYHT6VRr4DckScIXkUjEZrN9
+WfD6+hoA3G63mhwaGsJDYbfbv8cnTdNqA/ginU5XV1crGkmSJElaWlqy2+0NDQ3BYBAA5ufn86s5
+nU4AeHp6IklSIc1m88PDAwAMDw8TBFGIT/37LUmSCKGysrJUKtXV1eVwOPx+f319/dzcnKLZ2NiY
+mpryer2CIDw/P09PTyOERkdH86uNjY0hhPb39wFAIWdnZ10u19bWViAQ0N3nL+h7PARBtLe34zdJ
+0zRmKIoCgFAopJVCkiQAxOPx/FAkEgGAgYEBNYk3nmw2y/M8z/N4uWAwqKNb/edKIpHgOM5oNN7f
+32Mmk8kghMrLy7VSKIpCCL29veXwLpero6MjmUze3NyoeavVihAymUxqUuvs+TP0z60sy6enpxaL
+ZWVlxWq1mkwmj8eDEIrFYlgQCASOj4/b2trwbUtLy9raGkLo/Pw8pxQe2t3d3Rye/IxkMokQomla
+T7s6ZkBBd3e3Mk54H8pms319fTh6d3enhJTtimGYqqqqnDrxeBwAent7tRY6OTnBM6x7bgv67otG
+o263++LiguM4URQvLy9HRkbC4TCODg4OLi8vx2IxURQlSXp8fFxfX+/v78+f24+Pj7Ozs9vbW62F
+bDYbnmHdMBCl/+xiQslncaHks7jwE8yeB8rUz746AAAAAElFTkSuQmCC
+
+------=_NextPart_000_01B1_01CC7A07.1A042220--

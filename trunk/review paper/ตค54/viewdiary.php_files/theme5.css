@@ -1,0 +1,32 @@
+body {  margin: 0px  0px; padding: 0px  0px}
+td {
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 14px; 
+}
+a:link { color: #005CA2; text-decoration: none}
+a:visited { color: #005CA2; text-decoration: none}
+a:active { color: #0099FF; text-decoration: underline}
+a:hover { color: #FF6600; text-decoration: underline}
+.comment { OVERFLOW: auto; WIDTH: 500px; HEIGHT: auto }
+.style1{font-size:12px;}
+.bgmykratoo{
+	/*background-color: #FFFFFF; */
+}
+.headmkt{
+	background-color:#FFFFFF;
+	border:1px;
+}
+#head_div{
+	font-weight: bold; 
+	margin: 3px 3px 3px 3px;
+	width:98%;
+	border:1px solid #FFFFFF;
+	/*border-color:#FFFFFF;*/
+	
+}
+
+#bgvip{
+	width:100%;
+}
+
+form{ margin-bottom:0px; }
