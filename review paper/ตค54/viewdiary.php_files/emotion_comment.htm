@@ -1,0 +1,166 @@
+		
+function getVar(variable)
+{
+  var query = window.location.search.substring(1);
+  var vars = query.split("&");
+  for (var i=0;i<vars.length;i++) 
+	{
+		var pair = vars[i].split("=");
+	    if (pair[0] == variable) 
+		{
+		  return pair[1];
+		}
+	} 
+}
+
+function emo(link)
+{	var path="http://www.bloggang.com/emo/";
+
+	if(getVar("action")=="post")
+	{
+		document.reply.comment.value = document.reply.comment.value+"<img src="+path+link+".gif>";
+		document.reply.comment.focus();
+	}else{
+		
+		
+			document.reply.comment.value = document.reply.comment.value+"<img src="+path+link+".gif>";
+	        document.reply.comment.focus();
+	
+	}
+}
+function setimg()
+{
+	var val = window.prompt('ใส่ URL ของรูป ที่ต้องการใช้แสดง','http://'); 
+	if(val)
+	{
+		document.reply.comment.value = document.reply.comment.value+'<img src='+val+'>';
+		document.reply.comment.focus();
+	}
+}
+function setb()
+{
+	var val = window.prompt('ใส่ข้อความที่คุณต้องการทำเป็นตัวหนา',''); 
+	if(val)
+	{
+		document.reply.comment.value = document.reply.comment.value+'<b>'+val+'</b>';
+		document.reply.comment.focus();
+	}
+}
+function seti()
+{	
+	var val = window.prompt('ใส่ข้อความที่คุณต้องการทำเป็นตัวเอียง',''); 
+	if(val)
+	{
+		document.reply.comment.value = document.reply.comment.value+'<i>'+val+'</i>';
+		document.reply.comment.focus();
+	}
+}
+function setu()
+{
+	var val = window.prompt('ใส่ข้อความที่คุณต้องการขีดเส้นใต้',''); 
+	if(val)
+	{
+		document.reply.comment.value = document.reply.comment.value+'<u>'+val+'</u>';
+		document.reply.comment.focus();
+	}
+}
+function setup()
+{
+	var val = window.prompt('ใส่ข้อความที่คุณต้องการทำเป็นตัวยก',''); 
+	if(val)
+	{
+		document.reply.comment.value = document.reply.comment.value+'<sup>'+val+'</sup>';
+		document.reply.comment.focus();
+	}
+}
+function setdo()
+{
+	var val = window.prompt('ใส่ข้อความที่คุณต้องการทำเป็นตัวห้อย',''); 
+	if(val)
+	{
+		document.reply.comment.value = document.reply.comment.value+'<sub>'+val+'</sub>';
+		document.reply.comment.focus();
+	}
+}
+function setst()
+{
+	var val = window.prompt('ใส่ข้อความที่คุณต้องการขีดเส้นทับ',''); 
+	if(val)
+	{
+		document.reply.comment.value = document.reply.comment.value+'<strike>'+val+'</strike>';
+		document.reply.comment.focus();
+	}
+}
+function setleft()
+{
+	var val = window.prompt('ใส่ข้อความที่คุณต้องจัดชิดซ้าย',''); 
+	if(val)
+	{
+		document.reply.comment.value = document.reply.comment.value+'<p align=left>'+val+'</p>';
+		document.reply.comment.focus();
+	}
+}
+function setright()
+{
+	var val = window.prompt('ใส่ข้อความที่คุณต้องจัดชิดขวา',''); 
+	if(val)
+	{
+		document.reply.comment.value = document.reply.comment.value+'<p align=right>'+val+'</p>';
+		document.reply.comment.focus();
+	}
+}
+function setcenter()
+{
+	var val = window.prompt('ใส่ข้อความที่คุณต้องจัดกึ่งกลาง ',''); 
+	if(val)
+	{
+		document.reply.comment.value = document.reply.comment.value+'<p align=center>'+val+'</p>';
+		document.reply.comment.focus();
+	}
+}
+function setfcolor()
+{	var anum=/(^\d+$)|(^\d+\.\d+$)/
+	var size= window.prompt('ใส่ขนาด font(** default size=2 **)','');
+	if(size=='' || size== ' ') size='2';
+	else if(!anum.test(size)) size='2';
+	var color = window.prompt('ใส่รหัสสีหรือ ชื่อสี','#000000 or black');
+	if(color=='#000000 or black' || color=='' || color== ' ') color='#000000';
+	var val = window.prompt('ใส่ข้อความที่คุณต้องการให้เป็นสี',''); 	
+	if(val)
+	{
+		document.reply.comment.value = document.reply.comment.value+'<font color='+color+' size='+size+'>'+val+'</font>';
+		document.reply.comment.focus();
+	}
+}
+function setlink()
+{	var url = window.prompt('ใส่ URL ของ link','http://'); 
+	var discript = window.prompt('ใส่ คำอธิบาย link','กด link'); 
+	if(val)
+	{
+		document.reply.comment.value = document.reply.comment.value+'<a href='+url+'>'+discript+'</a>';
+		document.reply.comment.focus();
+	}
+}
+
+
+		var emo_no=43;
+		var tool_no=6;
+		var path="http://www.bloggang.com/emo/";
+		//var path="tool/"
+		var head="+ <b>Emotion</b> +";
+		var vers="<font size=1>ver. 0.99 เอื้อเฟื้อโดย <a href='http://liptontea.bloggang.com' target='_blank'>คุณยาจกน้อย</font>";
+		document.write("<TABLE width=300 cellSpacing=0 cellPadding=0 border=0><TR><TD align=center><fieldset style='width=100%' align=center valign=middle><legend align=center>"+head+"</legend>");
+		for(i=1;i<=emo_no;i++)
+			document.write("<IMG SRC="+path+"emo"+i+".gif width=19 onClick=emo('emo"+i+"');>  ");
+		document.write("<IMG SRC="+path+"tool1.gif width=19 onClick=setb();>  ");
+		document.write("<IMG SRC="+path+"tool2.gif width=19 onClick=seti();>  ");
+		document.write("<IMG SRC="+path+"tool3.gif width=19 onClick=setu();>  ");
+		document.write("<IMG SRC="+path+"tool4.gif width=19 onClick=setup();>  ");
+		document.write("<IMG SRC="+path+"tool5.gif width=19 onClick=setdo();>  ");
+		document.write("<IMG SRC="+path+"tool6.gif width=19 onClick=setst();>  ");
+		document.write("<IMG SRC="+path+"tool7.gif width=19 onClick=setleft();>  ");
+		document.write("<IMG SRC="+path+"tool8.gif width=19 onClick=setcenter();>  ");
+		document.write("<IMG SRC="+path+"tool9.gif width=19 onClick=setright();>  ");
+		document.write("<IMG SRC="+path+"tool10.gif width=19 onClick=setimg();>  ");
+		document.write("<IMG SRC="+path+"tool11.gif width=19 onClick=setfcolor();>  ");
+		document.write("<br>"+vers+"</fieldset></TD></TR></TABLE>");

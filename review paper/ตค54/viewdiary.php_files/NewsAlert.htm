@@ -1,0 +1,55 @@
+<html><head>
+<title>Alert</title>
+<meta content="text/html; charset=windows-874" http-equiv="Content-Type">
+ <script language="JavaScript">
+      <!-- begin
+      var max=0;
+      function textlist()
+      {
+      max=textlist.arguments.length;
+      for (i=0; i<max; i++)
+      this[i]=textlist.arguments[i];
+      }
+      tl=new textlist
+      ( 
+
+       "อุตฯ กรุงเก่า ยันไม่มีสารเคมีในโรจนะรั่วซึมปนน้ำท่วม ",
+
+       "น้ำท่วมนิคมฯโรจนะ กระทบโรงงานเครือข่ายที่พิจิตร-ต้องหยุดผลิตชั่วคราว",
+
+       "ผู้ว่าฯปทุมชี้น้ำอาจทะลักท่วมกรุงเที่ยงคืนนี้หากไม่เร่งเสริมคันกั้นน้ำ",
+
+       "หลายชาติร่วมทดสอบระบบเตือนภัยสึนามิที่อินโดนีเซีย ",
+
+       "ผู้ว่าฯ ขอนแก่นสั่งให้นำเรือ 220 ลำ เข้าช่วยพื้นที่น้ำท่วมหนัก "
+   
+  );
+      var x=0; pos=0;
+      var l=tl[0].length;
+      function textticker()
+      {
+        document.tickform.tickfield.value=tl[x].substring(0,pos)+"_";
+        if(pos++==l) { pos=0; setTimeout("textticker()",2500); x++;
+        if(x==max) x=0; l=tl[x].length; } else
+        setTimeout("textticker()",50);
+      }
+      // end -->
+      </script>
+ <style>.stHeadliner {
+	FONT-FAMILY: "Thonburi, Tahoma,MS Sans Serif"; FONT-SIZE: 12px; BACKGROUND: #D3E6F4; BORDER-BOTTOM: 0px solid; BORDER-LEFT: 0px solid; BORDER-RIGHT: 0px solid; BORDER-TOP: 0px; COLOR: #353535 ; width: 100%; height: 19;
+</style>
+</head><body leftmargin="0" topmargin="0" onload="textticker()" marginheight="0" marginwidth="0">
+
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<form name="tickform"></form>
+<tbody><tr>
+<td valign="top" bgcolor="#d3e6f4"> 
+<input value="ผู้ว่าฯปทุมชี้น้ำอาจทะลักท่วมกรุงเที่ยงคืนนี้หากไม่เร่งเสริมคันกั้นน้ำ_" class="stHeadLiner" name="tickfield" size="100%" type="text" height="19">
+</td>
+</tr>
+
+</tbody></table>
+
+
+</body></html>
