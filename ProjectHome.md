@@ -1,0 +1,1 @@
+พัฒนาระบบสืบค้นเอกสารอิเล็คทรอนิกส์ โดยใช้วิธี Automatic Content-based Indexing
